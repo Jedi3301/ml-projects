@@ -1,0 +1,141 @@
+Good [morning/afternoon] everyone! My name is Jedidiah. im from vvit
+I'm here to talk about a concept in Python called Generators.
+it is helpful when you're dealing with large data or need to process things efficiently, and I’ll show you how.
+
+
+Slide 2: What is a Generator?
+
+So first, what exactly is a generator?
+
+A generator is basically a function that yields values one at a time instead of returning them all at once.
+
+It uses a special keyword called yield instead of return.
+
+Let me show you a small example
+
+
+def my_gen():
+    yield 1
+    yield 2
+    yield 3
+"Now, when we call my_gen(), it doesn’t run the function immediately.
+Instead, it gives us a generator object. We can then use next() to get each value, like this:"
+
+gen = my_gen()
+print(next(gen))  # 1
+print(next(gen))  # 2
+
+Each time we call next(), it resumes where it left off. So it remembers the last yield position!"
+
+
+
+
+ 3. Generator Expression
+
+gen = (x * x for x in range(5))
+🔍 Explanation:
+"This is called a generator expression.
+It looks like a list comprehension, but uses parentheses instead of brackets.
+It doesn’t create the full list of squared numbers — it creates them one by one as needed."
+
+🔹 How to use it:
+
+print(next(gen))  # 0
+print(next(gen))  # 1
+
+🧠 When to use:
+Say this when explaining:
+
+"This is perfect when we just want to process elements one at a time, like filtering, squaring, or mapping over data."
+
+
+
+Slide 3: Why Use Generators?
+
+"So why should we use them?
+Let’s say you have a list with millions of items — storing that in memory takes a lot of space.
+Generators help avoid that because they don’t store all values — they produce one value at a time, only when needed."
+
+"This makes them perfect for tasks like reading huge files, streaming data, or generating an infinite sequence — like Fibonacci numbers."
+
+"Here’s a slightly more useful example — let’s say we want to count numbers up to a certain limit:"
+
+def count_up_to(n):
+    count = 1
+    while count <= n:
+        yield count
+        count += 1
+
+"If we call this with n = 3, it will yield 1, then 2, then 3 — but not all at once.
+We can loop over it like this:"
+
+for num in count_up_to(3):
+    print(num)
+
+"And it will print: 1, 2, 3."
+
+
+ 
+
+
+Slide 6: Real-World Examples
+
+"Alright, let's see some real-world use cases."
+
+Example 1: Reading large files line by line
+
+def read_file(file_path):
+    with open(file_path) as f:
+        for line in f:
+            yield line
+
+"This way, we’re not loading the whole file into memory -- just one line at a time."
+
+
+Example 2: Infinite Fibonacci sequence
+
+def fibonacci():
+    a, b = 0, 1
+    while True:
+        yield a
+        a, b = b, a + b
+"Here we’re generating numbers forever — and it still works fine because we’re only getting one at a time."
+
+def fibonacci():
+    a, b = 0, 1
+    while True:
+        yield a
+        a, b = b, a + b
+
+"Here we’re generating numbers forever — and it still works fine because we’re only getting one at a time.
+
+ 
+
+
+Slide 7: Generators vs Lists vs Iterators
+
+"Quick comparison to wrap it up —
+Lists store all values, so they use more memory.
+Iterators can be customized with classes.
+But generators? They give us the best of both worlds — lightweight and easy."
+
+
+
+
+Slide 8: Conclusion
+
+"So in summary:
+
+Use generators when you need to process data efficiently.
+
+They save memory and are easy to write.
+
+Just remember: yield is the key!"
+
+
+
+Slide 9: Q&A
+
+"That’s it from my side! If you have any questions or want me to repeat a part, feel free to ask."
+
+

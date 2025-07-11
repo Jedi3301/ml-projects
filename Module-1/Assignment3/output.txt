@@ -1,0 +1,13 @@
+Enter the string : Hello world!
+UPPER CASE 1
+LOWER CASE 9
+
+
+Enter the string : thisIs camelCasing
+UPPER CASE 2
+LOWER CASE 15
+
+
+Enter the string : capitals CAPITALS
+UPPER CASE 8
+LOWER CASE 8

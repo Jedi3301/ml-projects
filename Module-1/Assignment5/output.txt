@@ -1,0 +1,18 @@
+###SAMPLE INPUTS AND OUTPUTS###
+
+
+Enter the String: ADam@@3301
+Strong
+
+Enter the String: Adam@3301
+High
+
+Enter the String: adam3301@P
+High
+
+Enter the String: password
+Password doesnt meet criteria!
+
+Enter the String: VeryStrong!@#123
+Password doesnt meet criteria!
+

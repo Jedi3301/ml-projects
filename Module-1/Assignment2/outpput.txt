@@ -1,0 +1,11 @@
+Enter the string : Hello world! 123
+LETTERS 10
+NUMBERS 3
+
+Enter the string : John:Doe23.
+LETTERS 7
+NUMBERS 2
+
+Enter the string : 123123123123
+LETTERS 0
+NUMBERS 12

@@ -1,0 +1,3001 @@
+StoreID,DayOfWeek,Sales,Customers,Open,Promo,StateHoliday,SchoolHoliday,StoreType,Assortment
+52,Saturday,7751,,Yes,,Easter Holiday,Yes,Type D,Extended
+,Tuesday,17881,857,Yes,Yes,None,Yes,Type A,Basic
+15,Wednesday,2756,1147,Yes,No,None,Yes,Type A,Extra
+72,,,420,Yes,Yes,None,Yes,Type B,Basic
+61,Thursday,12601,373,Yes,Yes,None,Yes,Type A,Extra
+21,Thursday,3828,655,No,Yes,Easter Holiday,No,Type C,Basic
+83,Wednesday,15996,943,,Yes,None,Yes,,Basic
+87,Monday,19031,1436,Yes,Yes,None,Yes,Type A,Extended
+75,Sunday,14878,1486,Yes,Yes,None,Yes,Type A,Extended
+75,Saturday,7992,767,Yes,No,None,No,Type D,Basic
+88,Wednesday,14778,1099,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+24,Saturday,7771,,Yes,Yes,None,,Type D,Extended
+3,Friday,17526,810,Yes,Yes,None,Yes,Type A,Extra
+22,Thursday,4435,1797,,Yes,Public Holiday,Yes,Type B,Extended
+53,Saturday,7622,1593,Yes,No,None,,Type C,
+2,Tuesday,13852,845,Yes,Yes,Public Holiday,Yes,,Extended
+88,Saturday,,774,Yes,Yes,None,Yes,Type A,Extended
+30,Friday,11623,215,Yes,No,None,Yes,Type D,
+38,Sunday,,704,Yes,No,Christmas,Yes,Type C,Basic
+2,Thursday,3696,1165,,Yes,Public Holiday,Yes,Type A,
+64,Wednesday,2717,1919,No,Yes,None,Yes,Type D,Extended
+60,Friday,10259,478,Yes,Yes,None,Yes,Type D,Extended
+21,Thursday,3786,1845,Yes,Yes,,Yes,Type A,Basic
+33,Saturday,15154,1329,Yes,No,None,No,Type B,Extended
+76,Sunday,,565,Yes,Yes,None,Yes,Type A,Basic
+58,,4791,1855,No,Yes,None,Yes,Type C,Extended
+22,Sunday,4871,379,Yes,Yes,None,Yes,Type A,Extra
+89,Monday,2806,1771,Yes,Yes,None,Yes,Type B,
+49,Tuesday,18888,717,Yes,Yes,Easter Holiday,Yes,,Extended
+91,Sunday,14304,217,Yes,No,None,No,Type C,Basic
+59,Thursday,19074,1360,Yes,Yes,Public Holiday,Yes,Type C,
+42,Monday,,408,Yes,,None,No,Type C,Basic
+92,Wednesday,,,Yes,No,None,Yes,Type C,Extra
+,Thursday,17061,1598,Yes,,None,No,,Extra
+80,Wednesday,16198,199,Yes,No,None,Yes,Type B,
+15,,18888,360,Yes,Yes,None,Yes,Type B,Extra
+62,Wednesday,11655,1092,No,Yes,None,Yes,,Basic
+62,Monday,9924,1428,Yes,Yes,None,Yes,Type D,Extra
+47,Thursday,10940,1477,Yes,No,None,Yes,Type A,Basic
+62,Saturday,4924,,Yes,,None,Yes,Type B,Basic
+,Friday,10783,427,Yes,Yes,Christmas,Yes,Type A,Extra
+55,Monday,5485,1226,Yes,No,Christmas,No,Type C,Extended
+64,Monday,13629,162,Yes,Yes,None,Yes,Type D,Basic
+3,Saturday,14233,786,Yes,Yes,None,,Type D,Basic
+51,,13901,,Yes,Yes,None,Yes,Type A,Extended
+7,Thursday,1191,1564,Yes,Yes,Public Holiday,Yes,Type A,Basic
+21,Sunday,5917,1416,Yes,Yes,None,Yes,Type A,Basic
+73,Wednesday,,837,Yes,Yes,None,No,Type D,Extra
+39,Sunday,11160,,No,No,Public Holiday,Yes,Type B,Extended
+18,,14682,738,Yes,No,Easter Holiday,No,Type D,Basic
+4,Sunday,13391,1035,Yes,Yes,None,Yes,Type B,Basic
+89,Saturday,2874,1215,Yes,No,None,Yes,Type C,Extended
+60,Thursday,10062,1313,Yes,Yes,None,Yes,Type B,Extended
+14,,5763,1994,,Yes,None,No,Type A,Extra
+9,Sunday,11234,575,Yes,,,Yes,Type B,Extra
+90,Monday,10221,1634,,Yes,None,No,Type B,Extra
+53,Tuesday,12410,1585,Yes,No,None,Yes,Type D,
+2,Friday,15519,152,Yes,Yes,None,Yes,Type A,Extended
+84,Monday,,853,Yes,,None,Yes,Type C,Extra
+92,Thursday,13225,585,,,Public Holiday,,Type B,Extended
+60,Friday,10765,1767,Yes,Yes,None,Yes,,Basic
+71,Tuesday,12382,1613,Yes,Yes,,No,Type A,Basic
+44,Tuesday,,1487,Yes,Yes,Public Holiday,No,Type B,Extended
+8,Wednesday,12989,1235,Yes,,None,Yes,Type D,Extended
+47,Friday,12939,508,Yes,No,None,,,Extra
+35,Wednesday,19489,1130,Yes,Yes,None,Yes,Type D,
+78,Monday,,,Yes,Yes,,Yes,Type C,Extra
+81,Saturday,4359,767,No,Yes,Easter Holiday,Yes,Type A,Extended
+,Saturday,4176,1320,Yes,No,None,Yes,Type B,Extended
+50,Saturday,2251,934,Yes,Yes,None,Yes,Type C,Extended
+4,Friday,6366,975,Yes,No,None,Yes,Type D,Basic
+2,Saturday,18901,1858,Yes,No,None,,Type C,Basic
+6,Monday,7226,466,Yes,No,None,No,Type C,Basic
+54,Wednesday,15330,1101,Yes,No,None,Yes,Type C,Extra
+4,Friday,5891,349,Yes,No,None,No,Type C,Extra
+54,Wednesday,5992,,Yes,Yes,None,,,Basic
+93,Friday,2961,1363,Yes,No,Easter Holiday,Yes,Type C,Basic
+63,Wednesday,13497,479,,Yes,None,Yes,Type D,Extended
+18,Tuesday,11848,971,Yes,No,None,Yes,,Extended
+90,Wednesday,14255,,Yes,Yes,,No,Type C,Extra
+44,Saturday,5567,1594,,Yes,None,No,Type C,Extra
+34,Tuesday,17079,874,Yes,Yes,None,Yes,Type B,Extended
+74,Wednesday,7513,1018,Yes,Yes,None,Yes,Type A,Extra
+62,Friday,16235,1824,Yes,Yes,,Yes,Type A,Basic
+,Friday,12755,554,Yes,Yes,,Yes,Type A,Extended
+95,Friday,12151,465,Yes,No,None,Yes,Type D,Extended
+48,Thursday,17567,1413,,Yes,None,Yes,Type D,Extra
+15,Monday,,1997,No,,None,No,Type D,Extended
+72,Friday,10590,,,No,None,No,Type C,
+78,Tuesday,11988,157,Yes,,None,Yes,Type A,Basic
+87,Friday,8678,,,Yes,None,Yes,,Extended
+62,Thursday,6698,1427,Yes,Yes,None,No,Type B,Extended
+40,Saturday,2273,1238,Yes,No,None,,Type A,Extended
+85,Tuesday,12241,309,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+80,Thursday,18480,1164,Yes,Yes,None,Yes,Type B,Basic
+82,Saturday,10497,,Yes,Yes,None,Yes,Type C,Extended
+,Sunday,10107,272,No,Yes,None,Yes,Type A,Basic
+24,Sunday,12273,333,Yes,Yes,None,Yes,Type B,Basic
+,Tuesday,9002,892,Yes,No,None,No,Type A,
+89,,5247,1713,Yes,No,None,Yes,Type B,Extra
+60,Monday,10220,1743,Yes,Yes,None,Yes,Type B,Extra
+41,Monday,11703,892,Yes,,None,Yes,Type C,Extended
+29,Thursday,16472,1526,Yes,No,None,Yes,Type A,Basic
+,Saturday,17654,1162,Yes,Yes,None,,Type C,
+45,Monday,18570,218,Yes,Yes,None,Yes,Type C,
+65,Saturday,13392,434,Yes,Yes,None,,Type C,Extra
+,Saturday,12956,1459,Yes,Yes,,No,Type C,Basic
+,Thursday,16641,1662,Yes,No,None,Yes,Type C,Extended
+9,Thursday,14998,1739,Yes,Yes,None,No,,Basic
+88,Thursday,7305,1197,Yes,Yes,None,,Type A,Basic
+1,Monday,19782,1314,Yes,Yes,None,Yes,Type A,Extra
+8,,13721,423,,No,None,No,Type C,Extended
+88,Thursday,7995,1110,Yes,Yes,None,Yes,Type A,Extended
+63,Monday,,1270,Yes,Yes,None,Yes,,Extended
+11,Thursday,14782,,Yes,Yes,None,Yes,Type C,Extra
+,Friday,,383,Yes,Yes,None,Yes,Type D,Extended
+8,Saturday,7511,,Yes,Yes,None,No,Type D,Extra
+35,Thursday,17512,,Yes,Yes,,Yes,Type B,Extended
+35,Tuesday,10461,1841,Yes,Yes,Easter Holiday,Yes,Type B,Extra
+33,Saturday,,,,Yes,None,Yes,Type D,Extended
+5,,14272,851,Yes,No,None,Yes,Type C,Extra
+41,Thursday,6552,1517,No,Yes,None,No,Type B,Basic
+28,Sunday,,438,Yes,Yes,None,,Type D,Basic
+7,Wednesday,12989,1921,Yes,Yes,None,No,Type C,Basic
+73,Sunday,14780,1145,,Yes,None,Yes,Type B,Extended
+72,,7589,1894,,,Christmas,Yes,,Extra
+12,Saturday,3044,1992,Yes,No,None,No,Type A,Basic
+34,Tuesday,,204,Yes,No,None,Yes,,Extended
+33,Saturday,19725,1589,Yes,Yes,None,Yes,Type C,Extra
+,Sunday,6884,1582,Yes,Yes,None,Yes,Type B,Basic
+23,Tuesday,9185,1555,Yes,Yes,None,Yes,Type D,Basic
+62,Monday,1249,869,Yes,Yes,None,Yes,Type B,Extended
+,Friday,18358,815,No,Yes,None,Yes,,Extra
+37,Saturday,10175,1945,Yes,Yes,None,Yes,Type A,Extended
+99,Thursday,17260,,,No,Easter Holiday,Yes,Type C,Basic
+44,Monday,,1742,Yes,Yes,None,Yes,Type D,Extended
+86,Friday,8279,,Yes,,None,Yes,Type C,Extended
+91,Thursday,9662,1344,No,No,None,Yes,Type D,Basic
+,Wednesday,2987,478,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+65,Thursday,17474,1345,Yes,Yes,None,Yes,Type C,Extra
+99,Tuesday,,1381,Yes,Yes,None,No,Type C,Extra
+,Tuesday,14026,812,Yes,Yes,,Yes,Type C,Basic
+78,,3773,1490,Yes,No,None,No,Type A,Basic
+3,Monday,14159,1893,,No,None,Yes,Type A,Extra
+1,Friday,,1472,No,No,,,Type D,
+5,Thursday,11178,324,No,No,None,,Type B,Basic
+90,Tuesday,11377,1837,No,Yes,Christmas,No,Type C,Basic
+,Monday,8347,,Yes,No,None,Yes,Type A,Extended
+27,Wednesday,2008,335,Yes,No,None,No,Type C,Extra
+9,Sunday,4783,282,Yes,Yes,,Yes,Type D,Extra
+79,Saturday,,811,Yes,Yes,None,Yes,Type D,Extended
+15,Sunday,5668,1992,Yes,Yes,None,No,Type B,Basic
+90,Sunday,3052,1881,Yes,Yes,None,Yes,Type D,Extended
+,Tuesday,2716,543,Yes,Yes,None,Yes,Type C,Basic
+77,Wednesday,1310,1988,Yes,No,None,Yes,Type B,Extra
+,Thursday,15391,722,No,No,Easter Holiday,No,Type B,
+63,Sunday,2260,1129,Yes,Yes,None,Yes,Type A,Basic
+96,Sunday,14157,1359,No,,None,Yes,Type C,Basic
+52,Friday,12460,1250,Yes,No,None,Yes,Type D,Basic
+96,Tuesday,17968,1227,,,None,,Type A,
+4,Tuesday,15011,848,Yes,Yes,None,Yes,Type C,Extra
+94,,3866,1603,Yes,No,None,Yes,Type C,Extended
+23,Saturday,15365,254,,,Christmas,Yes,Type B,Extra
+15,,6898,356,Yes,No,None,Yes,Type B,Basic
+43,Friday,19395,,Yes,Yes,None,Yes,Type C,Extended
+,Tuesday,7251,599,Yes,Yes,None,Yes,Type A,Basic
+36,,5939,388,Yes,No,None,,Type B,Extra
+13,Tuesday,5006,609,Yes,Yes,None,Yes,Type B,Extra
+32,,2625,1675,,No,None,Yes,Type C,Basic
+71,Wednesday,,1923,Yes,Yes,None,No,Type C,Basic
+,Sunday,18274,808,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+86,Tuesday,7078,884,Yes,Yes,None,Yes,Type A,Extended
+28,Friday,9923,993,Yes,Yes,None,Yes,,Basic
+66,Monday,4961,,Yes,No,None,Yes,Type C,Extended
+42,Wednesday,19888,1692,No,Yes,None,Yes,Type B,Basic
+45,Wednesday,9806,397,Yes,No,None,,Type C,Basic
+62,Monday,19103,1733,Yes,No,None,Yes,,Basic
+57,Friday,,236,Yes,Yes,None,Yes,Type C,
+6,Thursday,7686,,Yes,No,None,Yes,,Basic
+28,Monday,2587,186,Yes,Yes,None,No,Type A,Basic
+28,Friday,10803,1542,Yes,No,None,Yes,Type C,Basic
+44,Monday,18280,1877,Yes,Yes,None,Yes,,Extended
+84,Monday,11350,1322,,Yes,Public Holiday,Yes,Type C,Basic
+30,Tuesday,19816,1586,Yes,Yes,None,Yes,Type D,Extra
+62,Friday,12454,536,Yes,Yes,None,No,Type B,Extra
+75,Thursday,16849,1433,Yes,No,None,Yes,Type A,Basic
+92,Sunday,7837,1719,Yes,Yes,Public Holiday,Yes,,Basic
+89,Tuesday,2449,1877,Yes,Yes,None,Yes,Type A,Basic
+62,Monday,6454,1404,Yes,Yes,None,Yes,Type D,Extra
+,Sunday,10424,1446,Yes,No,None,Yes,Type A,Extended
+1,Saturday,5117,863,Yes,Yes,None,,Type C,Extended
+27,Sunday,9869,801,No,Yes,None,,Type D,Basic
+,Monday,,1041,Yes,Yes,None,Yes,Type D,Extended
+77,Monday,19412,251,Yes,Yes,None,Yes,Type A,Extra
+3,Friday,,1425,No,No,None,No,Type B,Basic
+70,Friday,7845,1401,Yes,No,None,Yes,Type A,Extended
+72,Tuesday,5624,1774,Yes,No,None,No,Type A,
+27,Thursday,9848,1811,Yes,Yes,,Yes,Type D,
+9,,17549,1131,Yes,No,,Yes,Type C,Extra
+62,Wednesday,14136,,Yes,Yes,Easter Holiday,Yes,,Extra
+37,Monday,1589,334,Yes,No,None,Yes,Type A,Extended
+97,Sunday,,774,Yes,,None,Yes,Type C,
+,Saturday,8693,660,No,Yes,None,Yes,Type C,Basic
+44,,10454,1425,Yes,,,Yes,Type B,Extra
+24,Monday,17455,137,Yes,Yes,None,Yes,Type C,Extended
+79,,12708,1259,Yes,Yes,None,Yes,Type A,Extended
+59,Saturday,13942,921,Yes,No,Christmas,Yes,Type D,Extended
+,Saturday,17652,520,Yes,Yes,None,No,Type C,Extra
+96,Saturday,10968,1342,,No,None,Yes,Type D,Extra
+88,Tuesday,3462,447,,Yes,Christmas,No,,Extra
+52,Monday,10460,1931,Yes,Yes,,Yes,Type B,Extra
+,Tuesday,2015,1669,Yes,No,None,Yes,Type C,Extra
+58,Friday,,1987,Yes,Yes,None,No,Type D,Extended
+52,Friday,14269,1202,Yes,Yes,,Yes,Type A,Extended
+12,Tuesday,1406,847,Yes,No,None,Yes,Type D,
+39,Saturday,8384,372,,Yes,None,Yes,Type C,Basic
+2,Monday,,1284,Yes,Yes,None,Yes,Type D,Extended
+3,Tuesday,18369,1810,Yes,No,Christmas,Yes,Type D,Basic
+56,Tuesday,12795,407,Yes,,None,No,Type B,Basic
+81,Tuesday,5485,1497,Yes,No,None,Yes,Type C,Extended
+59,Wednesday,9901,1075,Yes,Yes,None,Yes,Type D,Basic
+2,Friday,3618,832,Yes,,,Yes,Type C,Basic
+2,Sunday,10603,1132,Yes,Yes,None,Yes,Type A,Extended
+92,Saturday,7928,1924,,No,None,,Type C,Extended
+54,,6368,543,Yes,Yes,None,,Type A,Extra
+87,Sunday,5621,,Yes,No,None,Yes,Type C,Extended
+96,Saturday,15719,1328,Yes,Yes,None,No,Type C,Basic
+97,Thursday,12126,504,Yes,Yes,None,Yes,Type D,Extended
+1,,8566,1821,,No,None,Yes,Type D,
+,Tuesday,13306,952,Yes,Yes,None,Yes,Type A,Extended
+2,Wednesday,16086,1320,Yes,Yes,None,No,Type A,Basic
+53,Wednesday,18387,877,Yes,Yes,None,Yes,Type B,Extended
+44,Sunday,19850,1897,,Yes,None,No,Type D,Basic
+90,Monday,19323,1883,Yes,Yes,,Yes,Type A,Extended
+32,Sunday,19019,214,Yes,Yes,None,Yes,Type D,Extra
+70,,10890,1244,Yes,Yes,None,Yes,Type C,Extra
+32,Thursday,9095,,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+68,Tuesday,13719,164,Yes,Yes,None,,Type D,Basic
+55,Sunday,11283,1399,Yes,Yes,None,No,Type D,Extra
+75,Thursday,19279,924,Yes,No,None,Yes,Type D,
+56,Saturday,15231,338,Yes,No,None,,Type D,Extended
+17,Thursday,15698,401,No,Yes,None,Yes,Type A,Extra
+38,Saturday,18457,1515,Yes,,Public Holiday,Yes,Type A,Extra
+24,Sunday,6184,1645,Yes,No,Public Holiday,Yes,Type B,Basic
+69,Friday,,1068,Yes,Yes,None,Yes,Type C,Extra
+98,Sunday,5895,468,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+70,Saturday,12404,332,Yes,Yes,None,Yes,Type B,Basic
+86,Thursday,16161,294,Yes,No,None,Yes,Type C,Extended
+11,Thursday,10343,1006,Yes,Yes,None,,Type A,Basic
+16,Saturday,11637,1135,Yes,No,None,Yes,Type D,
+97,Wednesday,2956,1020,Yes,No,None,Yes,Type C,Basic
+73,Friday,8023,788,Yes,Yes,None,No,,
+59,,15062,276,No,No,None,Yes,Type D,
+,Tuesday,15333,316,Yes,Yes,None,Yes,,Extended
+80,Thursday,4907,,Yes,Yes,None,Yes,Type D,Extended
+93,Tuesday,1807,1569,Yes,Yes,None,Yes,Type C,
+3,Monday,15031,729,Yes,Yes,None,Yes,,Basic
+20,Sunday,,263,Yes,Yes,None,No,Type B,Basic
+59,Tuesday,14699,1674,Yes,Yes,None,Yes,Type A,Extended
+36,Monday,5524,152,Yes,Yes,Public Holiday,Yes,Type C,Basic
+19,Saturday,16193,317,Yes,Yes,None,Yes,Type A,Basic
+90,Wednesday,17223,1841,Yes,Yes,Easter Holiday,Yes,,Extra
+67,Thursday,19668,1098,Yes,No,None,Yes,Type C,Extended
+19,Monday,6313,923,No,Yes,None,No,Type A,Extended
+20,Tuesday,14598,1483,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+96,Thursday,14058,484,Yes,Yes,None,Yes,Type B,Basic
+71,Wednesday,18141,155,Yes,,None,No,Type C,Extra
+52,,5887,217,Yes,,,Yes,Type B,Basic
+33,Sunday,4854,999,Yes,Yes,None,,Type B,Extended
+,Thursday,13458,1376,Yes,Yes,None,Yes,Type C,Extra
+39,Sunday,15536,897,Yes,Yes,None,Yes,Type D,Extended
+82,,4558,879,Yes,No,Easter Holiday,Yes,Type B,Basic
+1,Wednesday,10772,1115,,No,None,No,Type B,Extra
+,,18345,,Yes,Yes,None,No,,
+,Wednesday,,944,Yes,No,Public Holiday,Yes,Type B,Extended
+,Wednesday,3418,1303,Yes,Yes,None,Yes,Type B,Extended
+,,5198,,Yes,,None,No,Type B,Basic
+50,Wednesday,2001,1993,Yes,No,None,Yes,,Basic
+23,,8119,1358,No,Yes,None,Yes,Type D,Basic
+31,Thursday,10673,954,No,Yes,None,Yes,Type B,Basic
+94,Tuesday,6316,807,Yes,Yes,None,Yes,,Extended
+,Thursday,,1943,Yes,,None,No,Type D,Extra
+99,Thursday,17806,1203,Yes,Yes,Christmas,Yes,Type B,Basic
+7,Monday,12873,1770,Yes,Yes,None,Yes,Type C,Extra
+16,Thursday,5266,121,Yes,Yes,None,Yes,Type C,Extended
+90,Friday,8549,,Yes,Yes,None,Yes,Type D,Basic
+60,Friday,,,Yes,No,None,Yes,Type D,
+2,Sunday,,1563,Yes,Yes,None,Yes,,Basic
+,,19925,1860,Yes,No,None,,Type D,Basic
+,Sunday,7763,1693,Yes,Yes,None,Yes,Type D,Extra
+12,Sunday,,1216,Yes,No,Public Holiday,No,Type A,Extended
+69,Saturday,19437,291,Yes,No,None,Yes,,Extended
+37,Tuesday,9479,1118,Yes,Yes,None,Yes,Type A,Extended
+32,Tuesday,6737,1226,Yes,Yes,None,Yes,Type D,Extra
+9,Thursday,18831,495,Yes,,None,No,Type D,
+99,Thursday,7009,1130,No,No,None,Yes,Type C,Extended
+19,Saturday,17991,739,Yes,Yes,,Yes,Type A,Extended
+48,Thursday,5552,,Yes,Yes,Christmas,Yes,Type D,Basic
+80,Tuesday,19148,666,Yes,Yes,None,Yes,Type B,
+3,,10417,330,Yes,No,None,Yes,Type D,Extra
+20,Wednesday,10221,973,Yes,,None,Yes,Type C,Basic
+24,Friday,3671,673,Yes,,Public Holiday,Yes,Type C,Extended
+54,Wednesday,7519,339,Yes,Yes,None,Yes,Type C,Extended
+33,Wednesday,4962,189,No,No,None,Yes,Type A,Basic
+,Tuesday,13734,331,No,Yes,None,Yes,Type A,Basic
+75,Wednesday,14122,556,No,Yes,None,Yes,Type A,
+72,Saturday,4722,332,Yes,Yes,None,Yes,Type B,Basic
+36,Monday,,453,Yes,Yes,None,,Type A,Extra
+,Thursday,8263,,Yes,No,None,Yes,Type C,Basic
+84,Monday,14699,,,Yes,None,Yes,Type A,Basic
+99,Sunday,12088,538,Yes,,None,Yes,,
+89,Friday,1808,1498,Yes,No,None,,Type D,Basic
+99,Thursday,,1415,Yes,No,None,,Type A,Extended
+25,Wednesday,17260,444,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+93,Friday,18109,763,Yes,Yes,None,Yes,Type A,Extended
+18,Thursday,11693,1551,,No,,,Type D,Basic
+82,Saturday,8701,756,Yes,,None,Yes,Type C,Extra
+66,Saturday,,229,Yes,No,None,Yes,Type A,Basic
+54,Saturday,19581,240,Yes,No,None,Yes,Type C,Extended
+35,Saturday,15191,514,Yes,Yes,None,Yes,Type A,Extra
+80,Wednesday,18356,1216,No,No,None,Yes,Type B,Extra
+61,Monday,14704,725,Yes,Yes,None,Yes,Type B,Extended
+41,,3123,383,No,Yes,None,No,,Basic
+33,Wednesday,12533,1778,Yes,Yes,None,Yes,Type C,Extra
+68,Saturday,17608,322,Yes,No,Christmas,Yes,Type B,Extra
+33,Sunday,15448,843,Yes,Yes,None,Yes,Type B,Extended
+,Monday,,562,Yes,Yes,,Yes,,Extra
+21,Sunday,2814,1668,Yes,No,None,Yes,Type A,Extra
+48,Friday,14001,1399,Yes,Yes,None,Yes,Type B,Extra
+20,Sunday,18490,1805,Yes,Yes,None,No,Type C,Basic
+,Friday,17508,,Yes,No,None,,Type C,Basic
+7,,14380,456,Yes,No,,Yes,Type B,Extended
+67,Saturday,16406,1836,Yes,No,None,Yes,Type C,Basic
+17,Friday,,1146,Yes,,None,Yes,Type A,Extra
+33,Tuesday,14567,1859,Yes,Yes,None,No,Type D,Basic
+48,Thursday,15038,1393,Yes,Yes,None,Yes,Type A,Extra
+76,Thursday,13317,958,Yes,Yes,None,Yes,Type D,Extra
+59,Saturday,3971,764,,,None,Yes,Type D,Basic
+86,Tuesday,3017,1456,Yes,Yes,None,Yes,Type B,Basic
+22,Sunday,3415,1114,Yes,No,Easter Holiday,,Type C,Basic
+30,Wednesday,2609,184,Yes,Yes,None,No,Type D,Basic
+38,Sunday,1717,,Yes,Yes,None,Yes,Type B,Extended
+51,Wednesday,13662,1154,Yes,Yes,None,Yes,Type C,Basic
+54,Friday,7782,,Yes,Yes,None,No,Type C,Extended
+8,Monday,,339,Yes,Yes,None,Yes,Type D,Extra
+27,Wednesday,12618,462,,,None,Yes,Type C,Extended
+27,Monday,9307,921,Yes,Yes,None,,Type A,Extra
+98,Thursday,8905,1512,Yes,,,Yes,Type C,Extended
+21,,10993,,Yes,No,None,Yes,Type A,Extended
+30,Thursday,11338,767,Yes,No,Easter Holiday,No,Type C,Extra
+97,Tuesday,6578,1422,Yes,,None,Yes,Type D,Extended
+28,Tuesday,,1980,Yes,No,None,Yes,Type D,Extra
+,Saturday,19004,1494,Yes,Yes,,Yes,Type B,Basic
+,Saturday,7548,198,Yes,Yes,None,Yes,Type A,Extra
+69,Friday,8381,,Yes,Yes,None,Yes,Type A,Extended
+,Wednesday,3941,938,Yes,Yes,Public Holiday,Yes,Type D,Basic
+48,Friday,6695,521,Yes,No,Public Holiday,,Type D,Extended
+19,Thursday,7401,1603,Yes,Yes,None,Yes,Type D,Basic
+4,Friday,16179,1702,Yes,No,None,Yes,Type A,Extra
+,Monday,15456,161,Yes,Yes,None,Yes,Type B,Basic
+64,Thursday,,1232,Yes,Yes,None,Yes,Type A,Basic
+49,Saturday,7197,1802,,No,None,Yes,Type D,Basic
+17,Tuesday,6450,,Yes,Yes,None,No,Type B,Extended
+44,,,,No,Yes,Easter Holiday,Yes,Type C,Basic
+92,Wednesday,18396,1109,Yes,Yes,None,Yes,Type C,Extra
+30,Thursday,9378,697,Yes,Yes,Easter Holiday,Yes,Type D,
+93,Thursday,2881,1505,Yes,Yes,None,Yes,,
+46,Monday,7799,491,Yes,Yes,,,Type D,Basic
+6,Wednesday,15597,1076,No,Yes,None,Yes,Type A,Extra
+99,Tuesday,14675,1175,Yes,,,Yes,Type A,
+37,Sunday,5586,702,Yes,Yes,Public Holiday,Yes,Type B,Extra
+24,,,1412,Yes,Yes,Easter Holiday,No,Type D,Basic
+93,Thursday,3345,436,Yes,Yes,None,Yes,Type D,Extra
+46,Monday,,909,Yes,Yes,Christmas,Yes,Type C,Basic
+53,,10548,1327,No,,None,,Type B,Basic
+95,Tuesday,6877,1361,No,Yes,None,No,Type D,Extra
+99,Saturday,7785,1505,Yes,Yes,None,Yes,Type A,Extended
+60,Wednesday,16833,1790,Yes,Yes,Public Holiday,,Type D,Extended
+97,,5922,851,Yes,Yes,,Yes,Type D,Extra
+63,Thursday,19714,1259,Yes,,,Yes,Type A,Basic
+85,Saturday,5686,1530,Yes,Yes,None,Yes,Type A,Extra
+32,Tuesday,15407,1631,,Yes,Christmas,Yes,Type D,Basic
+87,Friday,19286,1485,Yes,,,Yes,Type A,Basic
+33,Thursday,13205,,Yes,Yes,None,Yes,Type C,Basic
+67,Tuesday,,980,No,Yes,None,,Type C,Extended
+18,Saturday,19443,1699,Yes,,None,Yes,Type C,Extended
+25,Monday,17524,,Yes,Yes,,Yes,Type A,Extra
+95,Friday,19173,353,Yes,No,Easter Holiday,Yes,Type A,Extended
+54,Wednesday,,1600,Yes,Yes,Easter Holiday,Yes,Type A,Basic
+58,Thursday,14374,1237,Yes,No,None,Yes,Type B,Basic
+67,Tuesday,,119,Yes,No,None,Yes,Type A,
+46,Monday,19211,627,Yes,Yes,None,Yes,Type C,
+24,Wednesday,,1268,,Yes,None,Yes,Type C,Extra
+32,Sunday,17473,1331,Yes,Yes,None,Yes,Type C,Extra
+47,Tuesday,5815,1654,Yes,Yes,None,Yes,Type B,Basic
+86,Tuesday,,475,Yes,Yes,None,Yes,Type D,Extended
+23,Wednesday,16972,1627,Yes,,None,Yes,Type C,
+66,Monday,18353,265,Yes,No,None,,Type B,Basic
+27,Sunday,2094,,Yes,,None,,Type D,Extra
+2,Saturday,7124,1304,,Yes,None,No,Type B,Extended
+90,Monday,2404,960,Yes,Yes,None,Yes,,Extra
+17,Friday,4982,716,No,No,None,Yes,Type D,Basic
+33,Thursday,13515,711,Yes,,Christmas,Yes,Type A,Extra
+9,Wednesday,16790,,Yes,No,None,Yes,Type A,Extra
+,,,,Yes,Yes,None,No,Type C,Basic
+48,Sunday,13748,1567,Yes,Yes,None,Yes,Type D,Extra
+39,Wednesday,4092,1455,No,Yes,None,,Type C,Basic
+93,Wednesday,14971,602,Yes,Yes,None,No,Type B,Extra
+42,Monday,15616,1012,Yes,No,None,Yes,Type A,Extended
+26,Thursday,5933,178,Yes,No,None,Yes,Type C,Basic
+99,Friday,5926,684,No,Yes,Christmas,Yes,Type C,
+50,Tuesday,4969,787,No,Yes,None,Yes,Type A,Extra
+25,Tuesday,3965,495,,Yes,Easter Holiday,Yes,,Extended
+24,Wednesday,5319,,Yes,No,Easter Holiday,,Type C,Extended
+13,,9975,1980,Yes,Yes,None,Yes,Type C,Extended
+60,Sunday,8108,1226,Yes,Yes,None,Yes,Type D,Extra
+7,Sunday,10141,501,Yes,Yes,None,No,Type D,Basic
+57,Saturday,,1074,No,Yes,None,Yes,Type A,Extra
+36,Monday,2810,323,Yes,No,Easter Holiday,Yes,Type A,
+45,Thursday,11273,617,No,Yes,None,,,Extra
+20,Thursday,10021,733,,Yes,None,Yes,Type B,Basic
+65,Monday,19293,335,Yes,Yes,Public Holiday,Yes,Type C,Extra
+8,,,1550,Yes,Yes,Christmas,No,Type D,
+16,Sunday,3581,215,Yes,,None,Yes,Type B,Basic
+14,Sunday,1691,1286,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+76,Wednesday,1931,325,Yes,Yes,None,Yes,,Basic
+87,Thursday,14128,329,No,No,None,No,Type A,Extended
+15,Tuesday,15226,281,Yes,Yes,None,Yes,Type D,Basic
+92,Monday,14861,1372,Yes,Yes,None,No,Type C,Extended
+98,,16475,1441,Yes,Yes,None,Yes,Type A,Extended
+66,Saturday,4406,309,Yes,Yes,None,No,Type C,Extra
+32,Sunday,9339,1779,Yes,Yes,,No,Type D,Extended
+87,Sunday,18416,1515,Yes,No,None,Yes,Type C,Extra
+63,Friday,,,Yes,Yes,None,Yes,Type C,Extended
+86,Wednesday,9579,195,Yes,Yes,None,Yes,Type B,Basic
+51,Monday,4121,993,Yes,Yes,None,Yes,Type B,Extra
+25,,19257,1981,No,Yes,None,Yes,Type A,Extended
+,Friday,16946,855,Yes,Yes,Public Holiday,Yes,Type C,Extra
+63,Saturday,4748,1209,Yes,Yes,,Yes,,
+62,Thursday,1277,514,Yes,Yes,None,,Type D,Extended
+,Saturday,19243,493,Yes,Yes,None,Yes,Type A,
+58,Thursday,12563,795,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+58,Thursday,7792,1756,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+86,Monday,14918,943,Yes,Yes,None,,,Extended
+49,Sunday,11374,1624,Yes,Yes,None,Yes,Type A,Extra
+52,Monday,5675,703,,Yes,None,Yes,Type B,Extended
+42,,2170,,Yes,,None,,Type C,Basic
+70,Thursday,9681,232,Yes,Yes,None,Yes,Type C,Extended
+15,Friday,11717,890,Yes,Yes,None,No,Type D,Extra
+54,Sunday,13450,,Yes,Yes,None,Yes,Type B,Extended
+60,Tuesday,11680,1437,Yes,No,Easter Holiday,Yes,Type B,
+97,Wednesday,11068,1822,Yes,No,None,Yes,Type D,
+8,Monday,3462,320,Yes,Yes,None,Yes,Type A,Extra
+53,Saturday,14650,1075,Yes,Yes,Christmas,Yes,Type D,Extra
+,Wednesday,1287,1561,No,No,None,Yes,Type B,Extended
+5,Wednesday,19291,1169,Yes,,None,Yes,Type A,Basic
+68,Sunday,2161,1913,Yes,,None,Yes,Type C,Basic
+6,,17513,1315,Yes,No,None,Yes,Type C,Extended
+96,Wednesday,,1643,Yes,Yes,Public Holiday,Yes,Type D,Extended
+94,Tuesday,6983,1502,Yes,Yes,None,Yes,,Extended
+47,Saturday,17527,887,Yes,No,None,No,Type B,Extended
+,Saturday,9207,790,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+55,Saturday,15758,1457,No,Yes,None,Yes,Type B,
+40,Thursday,1244,138,Yes,Yes,None,,Type B,Extra
+52,Friday,18310,1416,Yes,Yes,None,No,,Extra
+16,Saturday,,789,,Yes,None,Yes,Type A,Basic
+13,Wednesday,3176,261,Yes,,Public Holiday,Yes,Type A,Basic
+30,Wednesday,6002,1454,Yes,,None,Yes,Type C,Extra
+19,Saturday,1886,1227,Yes,No,None,No,Type A,Basic
+,,14721,260,Yes,,None,Yes,Type B,Extended
+,Saturday,13142,1922,Yes,,None,Yes,,Basic
+,,3654,1758,Yes,No,None,No,Type D,Basic
+92,Thursday,12984,1177,Yes,Yes,Public Holiday,Yes,Type B,Basic
+58,Monday,18755,,,Yes,None,Yes,Type C,
+55,Monday,8135,341,Yes,No,None,Yes,Type D,
+90,Saturday,1320,1066,Yes,Yes,None,Yes,Type B,Extra
+90,,5654,989,Yes,Yes,None,Yes,Type B,Extra
+62,Saturday,17131,212,Yes,Yes,None,No,Type B,Extra
+23,Sunday,11770,1113,Yes,No,None,Yes,Type D,
+9,Saturday,7553,417,Yes,Yes,None,,Type D,Extended
+12,Monday,12559,122,Yes,Yes,Easter Holiday,Yes,Type A,Extra
+1,Wednesday,10009,,Yes,Yes,None,Yes,Type A,Extra
+58,Saturday,14482,923,Yes,No,None,,Type B,Extra
+1,Wednesday,8498,1770,Yes,Yes,None,Yes,Type B,
+34,Wednesday,7636,1241,Yes,Yes,None,Yes,,Extended
+96,Tuesday,8362,800,Yes,Yes,None,Yes,Type B,Extended
+48,Wednesday,17395,1766,No,Yes,,Yes,,Basic
+89,Monday,17578,1118,Yes,Yes,Christmas,Yes,Type A,Basic
+1,Thursday,,1335,Yes,Yes,None,No,Type C,Basic
+,Thursday,16216,1541,Yes,Yes,Public Holiday,,Type B,Extended
+61,Friday,19613,1236,Yes,No,None,Yes,Type A,Basic
+64,Sunday,4009,1167,Yes,Yes,None,,Type B,Basic
+63,Saturday,15209,227,Yes,,None,Yes,Type D,
+69,Sunday,,975,Yes,No,None,Yes,,Extra
+22,Monday,16029,,Yes,Yes,None,,Type A,Basic
+93,Wednesday,3077,1908,Yes,Yes,None,Yes,,Extra
+67,Thursday,,926,No,,None,Yes,Type C,Extended
+76,Sunday,4867,1517,,Yes,None,No,Type D,Extended
+26,Monday,17152,1990,Yes,Yes,None,Yes,Type C,Extended
+16,,5873,951,Yes,Yes,None,Yes,Type A,Extra
+51,Wednesday,9635,611,Yes,,None,Yes,Type C,
+86,Sunday,1297,144,,Yes,None,Yes,Type D,
+57,Thursday,14095,1231,Yes,No,,Yes,Type D,Basic
+29,Saturday,10036,318,Yes,Yes,None,Yes,Type B,Extra
+78,Saturday,2015,542,Yes,Yes,None,Yes,Type C,Extended
+92,,2384,1953,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+69,Friday,9745,414,No,No,Public Holiday,Yes,Type A,Basic
+47,Thursday,19734,276,Yes,No,None,Yes,Type D,Extended
+94,Monday,18653,327,Yes,Yes,Easter Holiday,No,Type C,
+62,,,1826,Yes,No,None,,Type A,Extra
+69,Monday,8701,1795,No,No,Public Holiday,,Type B,Extended
+76,Monday,11401,366,,Yes,,No,Type C,Extended
+16,Thursday,16519,969,Yes,Yes,None,Yes,Type C,Extended
+90,Monday,12864,937,No,Yes,None,Yes,Type A,Extended
+90,,16681,1502,No,No,None,Yes,Type A,Extra
+48,Wednesday,6543,588,Yes,No,None,Yes,Type D,Extra
+85,Friday,19265,801,Yes,Yes,Easter Holiday,Yes,,Basic
+39,Wednesday,13488,786,Yes,Yes,None,Yes,Type D,Extra
+33,Monday,11079,1413,Yes,Yes,None,Yes,Type C,Basic
+94,Wednesday,11744,,Yes,No,None,Yes,Type A,Basic
+23,Saturday,4809,456,Yes,,Public Holiday,Yes,Type D,Extended
+10,Saturday,8206,1780,Yes,Yes,,Yes,Type C,Basic
+69,Monday,,1867,Yes,Yes,None,Yes,Type D,Extended
+34,Thursday,16995,971,Yes,Yes,,Yes,Type B,Basic
+52,Wednesday,17035,303,Yes,No,Easter Holiday,No,Type C,Extra
+95,Thursday,12671,1336,Yes,Yes,None,,Type D,Extended
+10,Thursday,14210,,,Yes,Public Holiday,Yes,Type D,Basic
+19,Tuesday,18793,1910,Yes,,None,,Type B,Extra
+,Monday,6197,422,No,Yes,None,Yes,Type B,Extra
+96,Friday,16553,693,Yes,,None,Yes,Type D,Extended
+1,Saturday,8452,280,,Yes,None,Yes,Type D,Extended
+69,Saturday,9718,598,Yes,Yes,None,Yes,Type A,Extended
+4,,15859,1443,Yes,No,,Yes,Type D,Basic
+16,Sunday,3172,182,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+24,Sunday,14158,402,,Yes,Public Holiday,Yes,Type A,Extra
+80,,17663,,Yes,Yes,None,Yes,Type A,Extra
+2,Friday,12085,883,Yes,Yes,None,Yes,Type D,Extended
+92,Saturday,4981,1323,Yes,Yes,None,Yes,Type A,Extended
+32,Monday,6247,,,No,None,Yes,Type C,Extra
+91,Saturday,11553,1013,Yes,No,,Yes,,Basic
+84,Thursday,7135,791,Yes,No,None,Yes,Type C,Extra
+24,Wednesday,6573,1043,Yes,Yes,,Yes,Type B,Extra
+12,Wednesday,14731,782,Yes,No,Public Holiday,,Type B,Extra
+50,Saturday,8189,1418,Yes,No,None,Yes,Type D,Extended
+35,Tuesday,15541,1635,Yes,Yes,None,Yes,Type B,Basic
+33,Friday,11878,788,,,None,Yes,Type C,Basic
+33,Sunday,12087,495,,Yes,None,Yes,Type D,Extended
+61,,14667,1872,Yes,No,None,Yes,,Extra
+51,Friday,3776,1261,Yes,Yes,Public Holiday,Yes,Type C,Extended
+43,Thursday,10311,938,Yes,No,None,Yes,Type D,Extended
+12,Friday,8697,,No,Yes,None,Yes,Type B,Basic
+67,Wednesday,,922,Yes,No,None,Yes,Type C,Basic
+65,,,1252,Yes,Yes,None,Yes,Type B,Extended
+33,,18046,148,Yes,Yes,None,Yes,Type D,Extended
+40,Friday,9044,1799,Yes,Yes,Public Holiday,Yes,Type D,Basic
+74,Friday,10615,888,Yes,,None,No,Type A,Basic
+,Monday,,392,Yes,No,None,No,Type A,Extra
+44,Friday,6060,,Yes,No,,Yes,,Extended
+29,Monday,11900,635,Yes,Yes,None,Yes,Type A,Extra
+13,Thursday,6581,410,,Yes,None,Yes,Type B,Extra
+,Wednesday,3014,636,Yes,Yes,Public Holiday,Yes,Type B,Extra
+95,Monday,13997,,Yes,Yes,None,,Type A,Basic
+46,Tuesday,11635,333,Yes,Yes,None,,Type A,Extra
+2,Monday,14648,1332,,No,Easter Holiday,Yes,Type A,Basic
+35,Friday,8148,704,Yes,No,None,Yes,Type C,Basic
+,Sunday,19748,193,Yes,Yes,None,Yes,Type C,Basic
+81,Sunday,15022,,No,Yes,None,Yes,Type B,Extended
+90,Thursday,6919,324,Yes,Yes,None,Yes,Type C,Extra
+,Saturday,16886,1066,Yes,Yes,None,Yes,Type C,
+93,Thursday,7638,,Yes,Yes,Christmas,Yes,Type D,Extended
+26,Saturday,5651,1915,Yes,,Easter Holiday,Yes,Type B,Extended
+74,,1609,110,Yes,Yes,None,No,Type B,Extended
+,Sunday,8940,1452,,Yes,None,Yes,Type A,Basic
+34,Monday,11348,1135,Yes,Yes,Public Holiday,No,Type D,Basic
+7,Wednesday,4866,134,Yes,Yes,,Yes,Type A,Basic
+68,Tuesday,17755,546,Yes,Yes,None,Yes,Type C,Extended
+58,Thursday,17999,1575,Yes,No,None,Yes,,Basic
+75,Friday,3253,1863,Yes,,None,Yes,Type C,Extra
+29,Saturday,5942,1343,Yes,No,,Yes,,Basic
+36,,13330,540,Yes,Yes,None,Yes,Type D,Basic
+89,,1864,752,Yes,Yes,None,Yes,Type D,Extra
+21,Saturday,2268,1658,Yes,Yes,,Yes,,Basic
+36,Thursday,,,,Yes,,Yes,Type B,Basic
+10,,14666,328,Yes,No,,Yes,Type D,Basic
+73,Friday,13370,443,Yes,,None,Yes,Type D,Basic
+24,Wednesday,6229,1203,,Yes,Easter Holiday,Yes,Type D,Extended
+64,Thursday,17309,1476,Yes,Yes,Easter Holiday,,Type D,Basic
+99,Sunday,19621,1519,Yes,Yes,None,Yes,Type B,Extra
+49,Sunday,5054,1413,,No,None,,Type B,Extra
+99,Thursday,1935,1578,No,Yes,None,Yes,Type C,Extended
+36,Thursday,13172,1966,Yes,Yes,Public Holiday,Yes,Type C,Basic
+82,,11530,1794,No,Yes,,Yes,Type C,Extra
+96,Saturday,16560,1088,Yes,No,None,Yes,Type B,Extended
+24,Thursday,,1251,Yes,Yes,None,Yes,Type A,Basic
+23,Friday,17709,1825,Yes,,None,Yes,Type C,Extended
+62,Wednesday,10726,,Yes,Yes,None,Yes,Type A,
+96,Saturday,8774,1666,Yes,No,,Yes,Type A,Extended
+37,,2985,1482,Yes,Yes,Christmas,Yes,Type A,Extended
+12,Tuesday,15252,626,Yes,Yes,,Yes,Type D,Extra
+55,Tuesday,5603,1436,Yes,No,None,Yes,Type B,Extra
+13,Wednesday,16960,174,,No,None,No,Type B,Extended
+23,Sunday,10462,1669,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+89,Monday,,1994,Yes,No,None,Yes,Type C,Basic
+99,Monday,,295,Yes,Yes,,Yes,Type B,Basic
+,Sunday,15246,1966,Yes,No,None,Yes,Type D,Basic
+17,Saturday,5078,128,Yes,,None,Yes,Type B,Basic
+62,Saturday,13853,,Yes,Yes,None,Yes,Type A,
+,Saturday,18751,1120,Yes,No,None,No,Type B,Extended
+89,,5042,,,No,None,Yes,Type D,Extra
+86,Tuesday,17284,1546,,Yes,None,Yes,,Basic
+13,Monday,15389,1712,Yes,No,None,Yes,Type B,Extended
+59,Friday,3575,904,No,Yes,,,Type B,Basic
+19,,7754,1716,Yes,,,Yes,Type A,Basic
+49,Saturday,18965,1528,Yes,Yes,None,Yes,Type C,Extended
+12,Tuesday,2986,1039,No,Yes,None,,Type D,Basic
+61,Wednesday,19624,1759,Yes,Yes,None,Yes,Type A,Extra
+,Wednesday,16470,1654,Yes,Yes,None,Yes,Type B,Extra
+76,Thursday,6968,1066,Yes,Yes,Public Holiday,No,Type B,Extra
+9,Tuesday,8493,1737,Yes,Yes,None,Yes,Type C,
+71,Monday,5103,1200,Yes,Yes,None,Yes,Type C,Extra
+28,Monday,3076,328,,No,None,Yes,Type C,Basic
+78,Friday,3994,1061,Yes,Yes,,,Type A,
+95,Friday,4744,1420,No,Yes,None,No,Type D,Extra
+52,Monday,,1633,Yes,,None,,Type C,Extra
+83,Wednesday,15523,814,Yes,Yes,None,Yes,Type B,Basic
+16,Saturday,6594,1083,Yes,Yes,,Yes,Type D,Basic
+69,Wednesday,,672,Yes,Yes,None,Yes,,Basic
+99,Friday,8371,1661,Yes,Yes,None,Yes,,Basic
+12,Thursday,15547,,Yes,Yes,None,Yes,Type D,
+25,Monday,19028,714,Yes,Yes,None,Yes,Type A,Basic
+52,Friday,,425,Yes,Yes,,Yes,,
+85,Friday,14990,1486,Yes,,None,Yes,Type C,Basic
+53,Saturday,15083,1792,Yes,Yes,,No,Type D,Basic
+23,Monday,17626,,Yes,No,None,No,Type C,Basic
+16,,8954,458,Yes,Yes,None,Yes,Type C,Extended
+,Monday,8269,1829,,No,None,No,Type D,
+39,Saturday,8130,1910,Yes,Yes,None,Yes,,Extended
+53,Wednesday,7828,423,Yes,Yes,None,Yes,Type C,Extra
+42,Thursday,9844,1821,Yes,No,None,No,Type B,Basic
+58,Thursday,15220,1449,Yes,Yes,Public Holiday,,Type D,Extra
+39,Monday,7331,1748,Yes,Yes,Easter Holiday,Yes,Type A,Basic
+,Tuesday,14397,,Yes,Yes,None,No,Type C,Extended
+95,Sunday,,264,Yes,No,Public Holiday,Yes,Type B,Basic
+5,Friday,11291,1696,Yes,Yes,None,Yes,Type D,Extra
+35,Friday,19542,1727,,Yes,None,Yes,Type D,Extra
+87,Monday,11164,897,Yes,No,Christmas,Yes,Type B,Basic
+93,Saturday,11450,554,No,Yes,Public Holiday,,Type A,Extra
+75,Tuesday,3035,1276,Yes,No,Christmas,Yes,Type C,Extended
+18,Wednesday,,1860,Yes,Yes,,Yes,Type D,Basic
+76,Saturday,,1250,Yes,No,None,Yes,,Extended
+9,Saturday,18241,292,Yes,Yes,None,Yes,Type C,Extended
+74,Monday,13182,726,Yes,Yes,None,Yes,Type A,
+58,Monday,1298,1897,Yes,Yes,None,Yes,Type C,Basic
+17,Friday,1923,629,,Yes,Easter Holiday,Yes,Type C,Extended
+7,Monday,14331,1133,No,Yes,None,Yes,Type A,Extended
+46,Monday,7578,191,,Yes,,,Type C,Basic
+13,Monday,5875,238,Yes,Yes,,Yes,Type D,Extra
+40,,,580,Yes,Yes,None,No,Type D,Extended
+42,Wednesday,19186,548,Yes,Yes,None,Yes,Type A,Basic
+,Wednesday,11905,1456,Yes,Yes,Christmas,Yes,Type A,
+,Sunday,14353,968,Yes,Yes,None,Yes,Type C,Extended
+27,,16882,439,Yes,Yes,None,Yes,Type C,Extended
+66,,10663,1175,Yes,Yes,Easter Holiday,Yes,Type A,Extended
+5,Sunday,1941,,,Yes,Christmas,Yes,Type B,
+29,,2907,565,No,No,Public Holiday,Yes,,Extra
+37,Wednesday,5837,817,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+38,Saturday,14680,898,Yes,Yes,None,No,Type B,Basic
+,,18627,574,Yes,Yes,Easter Holiday,,Type A,Extended
+8,Wednesday,6696,500,No,No,None,,Type A,Basic
+,Friday,,1562,Yes,Yes,None,Yes,Type A,Extra
+86,Sunday,14543,704,Yes,No,,Yes,Type B,Basic
+17,,13615,1031,Yes,Yes,None,Yes,Type D,Basic
+71,Friday,2466,,Yes,No,None,No,Type D,Extended
+89,Monday,,1021,No,Yes,None,Yes,Type A,Extended
+,Thursday,1375,920,,Yes,None,Yes,,Extra
+4,Wednesday,1262,756,Yes,Yes,None,Yes,Type C,Basic
+36,Thursday,12580,697,Yes,No,Public Holiday,Yes,Type C,Basic
+70,Friday,11136,1632,Yes,,None,Yes,,Basic
+31,Friday,8833,1276,Yes,Yes,None,Yes,Type A,Extended
+19,Friday,2893,613,Yes,Yes,,,Type D,Extra
+61,Thursday,9106,1626,Yes,Yes,,Yes,Type D,Basic
+54,Friday,12826,1977,Yes,Yes,None,No,Type A,Basic
+39,,2652,1895,Yes,Yes,None,Yes,Type A,
+91,Friday,,1799,Yes,Yes,,Yes,Type B,Basic
+74,Tuesday,19296,1129,Yes,No,Christmas,No,Type B,Extra
+90,Sunday,9792,599,Yes,Yes,Easter Holiday,Yes,Type D,Extra
+19,,4637,1784,Yes,Yes,None,Yes,Type C,Extra
+39,Tuesday,11355,816,Yes,Yes,None,,,Extended
+,Friday,16989,1241,,No,,,Type B,Basic
+45,Monday,10290,1608,Yes,,None,Yes,,Basic
+13,Wednesday,6599,700,Yes,Yes,None,Yes,Type B,Basic
+92,Saturday,15342,,Yes,No,None,Yes,Type B,Basic
+58,Sunday,14945,1802,No,No,None,Yes,Type C,Extra
+20,Saturday,11762,567,,,None,Yes,Type C,Extended
+92,Friday,15312,260,Yes,Yes,None,Yes,Type B,
+72,Sunday,8382,369,Yes,No,None,No,,Basic
+61,Sunday,9982,1179,Yes,Yes,Easter Holiday,Yes,Type C,Extra
+39,Monday,8707,327,Yes,Yes,None,Yes,Type B,Extended
+1,Sunday,18130,948,Yes,Yes,None,Yes,Type A,Extended
+,Thursday,5633,248,Yes,Yes,None,No,Type A,Basic
+77,Tuesday,18304,1169,Yes,No,None,No,Type D,Extended
+92,Tuesday,10269,1267,Yes,Yes,None,No,Type D,Basic
+62,Tuesday,14778,1873,No,Yes,None,No,Type C,Extra
+63,Thursday,8008,1907,,No,None,Yes,Type A,Basic
+25,Saturday,16523,731,Yes,Yes,None,Yes,Type C,Extended
+56,,19765,,Yes,Yes,Easter Holiday,Yes,Type B,
+33,Sunday,4618,512,Yes,No,Christmas,Yes,Type C,Basic
+38,Thursday,1272,1855,Yes,Yes,None,Yes,Type A,Basic
+,Tuesday,14007,619,No,,,Yes,Type D,Basic
+58,Friday,19157,1467,No,Yes,None,Yes,Type C,Basic
+,Wednesday,3547,486,Yes,Yes,Public Holiday,No,Type D,
+,Sunday,4164,1596,Yes,No,,Yes,Type C,Extended
+32,Thursday,15414,,Yes,Yes,,Yes,Type B,Basic
+45,Thursday,15327,452,Yes,Yes,None,Yes,Type A,Extended
+61,Monday,16576,,,Yes,Easter Holiday,Yes,Type C,Basic
+47,Monday,1946,,Yes,,None,,,Extra
+21,Thursday,15693,,Yes,No,None,Yes,Type B,Basic
+80,Tuesday,,1759,Yes,No,,Yes,Type B,Extended
+85,Wednesday,16540,1325,Yes,No,Easter Holiday,Yes,Type D,Extended
+,,7719,1785,Yes,Yes,None,Yes,Type D,Extra
+36,Monday,,657,Yes,No,None,Yes,,
+,Sunday,12350,212,Yes,Yes,None,Yes,Type B,Extra
+19,,4590,1214,Yes,No,,Yes,Type C,Basic
+20,Sunday,11064,240,Yes,No,None,Yes,Type C,
+57,Friday,18576,1412,Yes,Yes,None,Yes,Type A,Extended
+18,Monday,18848,829,Yes,,None,Yes,Type C,Extra
+47,,1390,688,Yes,Yes,None,,Type A,Extra
+49,Tuesday,,510,Yes,Yes,None,No,Type A,Extended
+14,Wednesday,,476,Yes,No,None,No,,Extended
+15,Wednesday,14029,1507,No,Yes,None,,Type D,Extra
+31,Friday,14107,1969,,Yes,None,Yes,Type C,Extended
+1,Tuesday,3560,1275,,Yes,,Yes,Type B,Basic
+54,Saturday,,1958,Yes,No,None,,Type A,
+3,Tuesday,16284,850,Yes,,None,Yes,Type B,Extra
+16,Wednesday,2211,726,Yes,Yes,None,Yes,Type A,Extended
+87,Saturday,10121,1442,Yes,Yes,None,Yes,Type C,Basic
+57,Monday,,,Yes,Yes,None,Yes,Type A,Extra
+75,Monday,18027,1729,No,Yes,,No,Type C,Extra
+12,Sunday,9693,,Yes,No,None,Yes,Type B,Basic
+74,Thursday,9921,1683,Yes,Yes,Easter Holiday,Yes,,Extended
+,Wednesday,18667,802,,Yes,None,Yes,Type B,Extended
+16,Thursday,11310,561,Yes,Yes,None,Yes,Type C,Extended
+72,Saturday,13744,111,Yes,Yes,None,Yes,Type A,Extended
+76,Wednesday,5386,1279,Yes,Yes,Public Holiday,Yes,Type A,Basic
+24,Friday,18303,1807,Yes,Yes,None,Yes,Type C,Basic
+28,Tuesday,,576,Yes,Yes,None,Yes,Type B,Extra
+8,Friday,19723,1038,Yes,Yes,None,Yes,Type B,Extra
+92,Saturday,15257,500,Yes,Yes,None,,Type B,Basic
+36,Wednesday,9947,907,Yes,No,None,Yes,Type C,Extra
+90,Saturday,14946,276,No,Yes,None,Yes,Type C,Basic
+8,Tuesday,6930,1464,No,No,Easter Holiday,Yes,Type C,Extended
+58,Monday,6402,156,Yes,,Christmas,Yes,Type C,Basic
+60,Monday,17017,1978,Yes,Yes,None,Yes,Type B,Basic
+50,Saturday,1507,1975,Yes,No,Christmas,,Type B,Extra
+28,Thursday,2436,547,No,Yes,None,Yes,Type D,
+92,,,302,Yes,Yes,None,Yes,,Extended
+41,Wednesday,9750,1820,Yes,Yes,None,Yes,Type D,Extended
+64,Monday,,1756,Yes,Yes,None,No,Type C,Extra
+27,Sunday,8354,,Yes,Yes,None,Yes,Type D,Extra
+63,Friday,12294,301,Yes,,None,Yes,Type B,Basic
+17,Sunday,14840,1453,Yes,Yes,Public Holiday,Yes,Type B,Extra
+73,,5399,462,No,Yes,None,No,Type D,Extended
+33,Friday,6037,991,Yes,Yes,None,No,Type A,Extra
+84,Friday,16848,553,Yes,Yes,None,,Type C,Extra
+77,Saturday,4715,455,Yes,Yes,None,Yes,Type D,Extended
+92,Monday,15877,315,Yes,,None,No,Type D,Basic
+29,,8837,1071,Yes,Yes,,Yes,,Basic
+13,Sunday,2301,654,Yes,Yes,None,No,Type B,Extra
+46,Monday,8370,986,Yes,No,None,Yes,,Extended
+35,,19539,122,No,,None,No,Type B,Extended
+6,Monday,,254,Yes,Yes,None,No,Type C,Extended
+82,Saturday,7365,1309,Yes,No,Easter Holiday,Yes,Type A,Basic
+69,Thursday,16449,348,Yes,,None,Yes,Type B,Extended
+47,Friday,1692,848,Yes,Yes,None,Yes,Type D,Extended
+,Saturday,2478,904,No,No,None,Yes,Type A,Basic
+66,,7396,233,,Yes,None,Yes,Type A,Extended
+10,Tuesday,,420,Yes,No,None,Yes,Type A,Basic
+56,Thursday,11622,489,Yes,Yes,None,Yes,,Extra
+30,Wednesday,17825,533,Yes,Yes,None,No,Type A,Extra
+5,Friday,,1145,Yes,Yes,None,Yes,Type C,
+33,Sunday,3646,972,Yes,,None,Yes,Type C,Extra
+65,Monday,,1723,Yes,,None,No,Type A,Extra
+18,Friday,7533,1788,Yes,Yes,None,,,Basic
+96,Saturday,8211,1248,Yes,No,Christmas,Yes,Type D,Basic
+,Tuesday,10927,1202,Yes,Yes,Easter Holiday,Yes,,Basic
+11,Saturday,12927,957,Yes,Yes,None,No,Type B,Extended
+85,,10316,150,Yes,Yes,None,Yes,Type A,Extra
+26,Thursday,13177,1851,,,Easter Holiday,No,,Extended
+63,Tuesday,11846,275,Yes,Yes,None,No,Type C,
+89,Wednesday,8933,969,Yes,Yes,Public Holiday,No,Type C,Extended
+86,Wednesday,6476,352,Yes,No,None,Yes,Type B,Extra
+59,Thursday,14853,1065,Yes,Yes,Easter Holiday,No,Type B,Extended
+27,Thursday,,1369,Yes,Yes,Easter Holiday,Yes,Type D,Extra
+49,Sunday,3080,838,Yes,No,None,Yes,Type B,Extra
+77,Monday,7089,1229,Yes,No,None,No,Type B,Extra
+33,Sunday,8797,,No,Yes,None,Yes,Type A,Extended
+98,Sunday,18245,1439,,Yes,None,Yes,Type C,Extra
+99,Wednesday,9346,401,Yes,No,None,,Type C,Extra
+1,Tuesday,1904,647,,Yes,,,,Basic
+21,Wednesday,18653,815,Yes,No,None,No,Type C,Extended
+55,Monday,17788,878,Yes,Yes,None,Yes,Type C,Basic
+6,Saturday,10974,367,Yes,Yes,Easter Holiday,Yes,Type D,Basic
+92,Thursday,2184,1293,Yes,Yes,None,,Type C,Extended
+81,Thursday,2725,1109,Yes,No,None,Yes,Type B,Basic
+69,Monday,12380,650,Yes,No,None,Yes,Type D,Extra
+95,,14057,1578,,Yes,None,Yes,Type C,
+5,Tuesday,6606,1774,Yes,,None,Yes,Type C,Basic
+,Thursday,4956,1415,Yes,Yes,Christmas,No,,Extra
+53,Friday,17555,1687,Yes,Yes,None,Yes,Type D,Basic
+23,Sunday,,1922,Yes,No,None,Yes,,Extra
+53,Thursday,17081,1924,Yes,No,None,Yes,Type A,Extended
+37,Friday,1421,1264,Yes,No,None,Yes,Type A,Basic
+74,Monday,,1269,Yes,No,Public Holiday,Yes,Type C,Extended
+74,Monday,17288,1548,No,Yes,None,Yes,Type C,Basic
+83,Sunday,16966,413,Yes,Yes,,Yes,Type D,Extra
+17,Thursday,16882,283,No,No,None,No,Type D,Basic
+85,Wednesday,5675,1787,Yes,Yes,Christmas,Yes,Type C,Extended
+78,Friday,10082,,Yes,Yes,None,Yes,Type C,Extra
+73,Tuesday,14009,227,Yes,Yes,Easter Holiday,Yes,Type C,Extra
+1,Thursday,7748,1410,Yes,Yes,None,No,Type C,Extended
+51,Tuesday,,1946,Yes,No,None,,Type A,Extended
+45,Thursday,,1376,Yes,Yes,None,No,Type D,Basic
+77,Wednesday,,1901,No,No,None,No,Type B,Basic
+,Wednesday,12348,799,Yes,Yes,,Yes,Type C,Extra
+62,Sunday,10782,485,Yes,Yes,None,,,Extended
+65,Sunday,6882,1353,Yes,Yes,None,Yes,Type C,Extended
+32,,,370,Yes,Yes,Public Holiday,No,Type B,Basic
+34,Saturday,,1894,Yes,Yes,None,Yes,Type D,Basic
+92,Wednesday,9415,910,Yes,Yes,None,Yes,Type D,Extra
+95,Monday,13466,514,Yes,Yes,,Yes,Type C,Extended
+72,Monday,10846,297,Yes,Yes,None,Yes,Type C,Extended
+,Saturday,13720,1446,Yes,Yes,,Yes,Type D,Extended
+,Friday,10145,1179,Yes,Yes,None,Yes,Type B,Extended
+34,Tuesday,5524,930,No,Yes,None,Yes,Type C,Basic
+54,Thursday,7559,1326,Yes,Yes,None,Yes,Type B,
+3,Thursday,8620,1906,Yes,No,None,Yes,Type B,Basic
+50,Saturday,4124,1744,No,Yes,Easter Holiday,Yes,Type D,Extra
+12,Monday,9671,,Yes,,None,Yes,Type C,Extended
+65,Sunday,12706,703,Yes,No,None,No,Type A,Basic
+54,Thursday,18737,1261,Yes,Yes,None,Yes,Type D,Extended
+5,Monday,13070,1545,Yes,No,None,Yes,Type D,Basic
+94,Friday,9134,1938,Yes,Yes,None,Yes,,Extra
+94,Tuesday,1924,1180,Yes,No,None,Yes,,Basic
+,Friday,,1685,Yes,No,Easter Holiday,Yes,Type B,Extra
+17,Saturday,6506,1109,,Yes,Christmas,Yes,Type B,
+47,,14650,170,Yes,Yes,None,,Type B,Basic
+,Wednesday,3395,,No,Yes,None,No,Type C,Basic
+79,Wednesday,16310,693,Yes,Yes,None,Yes,Type D,Basic
+85,Friday,9226,1495,Yes,Yes,None,Yes,,Extended
+14,Thursday,12781,1740,Yes,Yes,None,No,,Extra
+66,Tuesday,6515,699,Yes,Yes,Christmas,Yes,Type D,Extra
+75,Wednesday,,613,No,Yes,None,Yes,Type D,Basic
+51,Saturday,17972,1995,Yes,No,None,Yes,Type A,
+,Saturday,12410,183,Yes,No,Easter Holiday,Yes,Type B,Extra
+64,Wednesday,10095,1093,Yes,Yes,None,Yes,,Extra
+98,,11361,1166,Yes,Yes,None,,Type C,Extra
+38,,9531,,Yes,Yes,None,Yes,Type A,Extra
+50,Wednesday,5270,938,Yes,Yes,None,Yes,Type D,Extra
+98,Tuesday,10906,705,No,No,None,Yes,Type D,Basic
+,Saturday,17940,909,Yes,,None,Yes,Type D,Basic
+30,Wednesday,12279,232,No,Yes,None,No,Type A,Basic
+79,Friday,6452,1518,Yes,No,Christmas,Yes,Type C,
+91,Sunday,7477,1188,Yes,No,None,No,Type A,
+51,,,389,No,Yes,None,Yes,Type C,Extra
+63,Saturday,7470,475,No,Yes,None,No,Type B,Basic
+,Tuesday,3062,868,,Yes,None,Yes,Type C,Extra
+52,Friday,10030,566,Yes,Yes,None,,Type B,Basic
+38,Tuesday,2813,1336,Yes,No,Easter Holiday,Yes,Type C,Extra
+97,Friday,12671,1271,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+88,Friday,15308,1696,,Yes,None,Yes,Type B,Extended
+79,Tuesday,3313,,Yes,No,Easter Holiday,Yes,Type D,Extra
+30,Thursday,10706,248,Yes,No,None,No,Type C,Extra
+51,Friday,18615,,,No,None,,Type D,Basic
+81,Wednesday,10837,,Yes,Yes,None,No,Type B,Extra
+5,Sunday,,495,Yes,Yes,Easter Holiday,Yes,Type D,Basic
+29,Saturday,5056,889,Yes,Yes,None,Yes,Type A,Basic
+,Thursday,,1527,Yes,Yes,None,,Type D,
+10,Tuesday,15347,,Yes,,None,Yes,Type C,
+,Thursday,2689,1764,Yes,Yes,None,Yes,Type D,Extra
+,,4917,1409,No,Yes,None,No,Type A,Extra
+74,Monday,3936,1505,No,No,None,,Type D,Basic
+17,Friday,4862,964,No,Yes,None,Yes,Type B,Basic
+84,Friday,,1915,Yes,No,None,Yes,Type B,Basic
+88,Wednesday,15318,1393,Yes,Yes,None,No,Type B,Basic
+,Sunday,16300,1415,Yes,No,Easter Holiday,No,Type C,Extra
+34,Saturday,,1576,Yes,Yes,None,No,,Extended
+,Thursday,19203,1838,Yes,No,None,Yes,Type B,Extra
+53,Monday,16674,123,Yes,Yes,None,Yes,Type D,Extra
+66,Friday,18726,,Yes,,None,Yes,Type A,Extra
+77,,6560,1986,Yes,No,,Yes,Type A,Extended
+43,Thursday,16451,,Yes,Yes,None,Yes,Type C,Extra
+75,Friday,19610,1584,Yes,Yes,None,Yes,Type D,Extended
+,Friday,2079,,Yes,No,Public Holiday,No,Type A,Basic
+55,Monday,14983,,Yes,No,Public Holiday,No,Type C,Extra
+80,Monday,16327,1840,Yes,Yes,None,Yes,Type C,Basic
+95,Friday,13755,763,Yes,Yes,None,No,Type B,
+75,Tuesday,8235,537,Yes,,,No,Type A,Basic
+16,Friday,18197,1661,No,Yes,None,Yes,Type D,Extra
+8,Saturday,3031,805,,No,Easter Holiday,Yes,Type A,Basic
+4,Friday,9514,1459,Yes,Yes,None,Yes,Type A,Extra
+4,Wednesday,10095,521,Yes,Yes,None,Yes,Type D,Basic
+56,Sunday,,1873,Yes,No,None,Yes,Type D,Extra
+25,Wednesday,6911,420,Yes,Yes,None,Yes,Type B,Extra
+67,Wednesday,12695,,Yes,Yes,None,No,Type C,Extra
+96,Tuesday,4340,,Yes,Yes,None,Yes,Type D,Basic
+67,Tuesday,8876,1046,No,Yes,None,Yes,Type D,Extra
+27,Friday,16896,1286,Yes,Yes,None,Yes,Type A,Basic
+93,Wednesday,13435,1934,Yes,Yes,None,Yes,Type D,
+,Tuesday,2141,1664,Yes,Yes,Public Holiday,Yes,Type D,Basic
+50,Monday,10281,1288,Yes,Yes,Christmas,Yes,Type A,Basic
+61,,3038,,Yes,Yes,None,No,Type A,Extra
+51,Saturday,,1821,Yes,Yes,None,Yes,Type A,Basic
+19,Sunday,11046,1689,Yes,Yes,None,,Type B,Extended
+21,Thursday,5683,1418,Yes,Yes,,Yes,,Extra
+5,Friday,,141,Yes,Yes,Christmas,Yes,Type D,Basic
+,Thursday,8116,1408,Yes,Yes,None,Yes,Type A,Basic
+92,Wednesday,2784,1038,Yes,Yes,None,Yes,Type A,Extra
+42,,4786,486,Yes,Yes,Christmas,No,Type C,Extra
+61,Thursday,10190,1261,No,No,None,Yes,,Basic
+22,Wednesday,6428,1310,Yes,Yes,None,Yes,,Basic
+21,Monday,7681,1009,Yes,No,Christmas,Yes,,Extra
+70,Thursday,7893,815,Yes,No,,Yes,Type B,Extra
+1,Sunday,13661,530,Yes,Yes,None,Yes,,Extended
+5,Friday,15892,653,No,Yes,,Yes,Type A,Extended
+12,Wednesday,10643,1985,Yes,No,None,,Type C,Extended
+90,Friday,10943,,Yes,Yes,None,Yes,,Extra
+46,Sunday,11472,,Yes,No,None,,Type C,Extra
+34,Tuesday,13992,525,Yes,Yes,None,Yes,Type B,Extra
+49,Wednesday,12126,1539,Yes,,None,Yes,Type D,Basic
+,Thursday,7869,125,Yes,Yes,None,Yes,Type B,Extra
+90,Wednesday,8669,1494,Yes,Yes,None,Yes,Type C,Basic
+,Friday,,484,Yes,Yes,Christmas,,Type A,Extra
+27,Monday,11065,155,,,None,Yes,Type B,Extra
+73,Wednesday,11171,1376,No,No,None,Yes,Type A,Basic
+26,Thursday,18696,,Yes,No,None,Yes,Type C,Extra
+47,Tuesday,3962,205,Yes,Yes,Public Holiday,Yes,Type B,Extra
+86,,14851,1253,Yes,No,None,,Type A,
+56,Monday,,948,Yes,No,None,Yes,Type B,Extended
+94,Tuesday,6296,769,Yes,No,None,,Type C,Extra
+63,Wednesday,15745,475,Yes,Yes,None,Yes,Type D,Basic
+48,Friday,6730,842,Yes,No,None,Yes,Type C,Basic
+61,Sunday,14921,1066,Yes,Yes,None,Yes,Type D,
+81,Friday,1126,407,Yes,Yes,,Yes,Type D,Extra
+26,Thursday,6602,190,Yes,No,None,,Type C,Basic
+36,Friday,18575,1516,Yes,Yes,Easter Holiday,No,Type A,Extended
+1,Monday,13581,1657,Yes,Yes,Easter Holiday,No,,Basic
+8,Friday,16997,901,Yes,No,Easter Holiday,Yes,Type B,Extra
+99,Thursday,18750,209,Yes,Yes,Christmas,Yes,Type B,Extended
+52,Saturday,10211,1684,No,No,Public Holiday,Yes,Type D,Basic
+79,Wednesday,15997,1764,,No,None,Yes,Type D,Extended
+,,7671,684,Yes,Yes,None,No,,Basic
+56,Wednesday,13271,439,Yes,Yes,None,No,Type A,
+86,Friday,9876,1688,Yes,No,Easter Holiday,Yes,Type C,
+,,3887,1078,Yes,Yes,None,Yes,Type C,Basic
+90,,10654,455,Yes,No,None,Yes,Type A,Basic
+28,Saturday,5086,267,Yes,No,None,Yes,Type D,Extended
+87,Friday,19645,656,,,Public Holiday,Yes,Type C,Extended
+78,Sunday,5180,1575,Yes,Yes,None,Yes,Type C,Extended
+88,Thursday,3841,1004,Yes,No,None,Yes,Type D,Extended
+,Saturday,7040,204,Yes,Yes,None,Yes,Type B,Basic
+26,Friday,11304,249,Yes,Yes,None,Yes,Type A,Basic
+14,Saturday,5758,245,Yes,No,None,No,Type A,
+59,Wednesday,18010,815,Yes,No,None,No,,Extra
+56,Sunday,17234,973,Yes,Yes,None,,,Extended
+7,Thursday,6014,398,Yes,Yes,Christmas,Yes,Type B,Basic
+,Friday,2375,1290,Yes,Yes,None,Yes,Type C,Extended
+23,Monday,2181,1836,Yes,No,None,No,,Extended
+18,,,745,Yes,No,None,Yes,Type A,
+38,Monday,4729,822,Yes,No,None,No,Type C,Extended
+99,Saturday,,1171,No,Yes,None,Yes,Type D,Extended
+15,Tuesday,19324,,Yes,No,None,Yes,Type D,Extended
+64,,2882,338,Yes,No,Easter Holiday,Yes,Type C,Extended
+89,,3987,1130,Yes,Yes,None,,Type A,Extended
+,Monday,6585,563,Yes,Yes,None,Yes,Type A,Basic
+74,Wednesday,4159,552,Yes,No,Christmas,Yes,Type A,Basic
+39,,5530,883,Yes,Yes,Public Holiday,No,Type B,Extended
+57,Tuesday,18065,,Yes,Yes,None,Yes,Type D,Extended
+17,Thursday,2073,470,Yes,Yes,,Yes,Type A,Extended
+86,Thursday,14743,1672,Yes,Yes,,Yes,Type D,Extra
+90,Thursday,19771,586,Yes,Yes,,Yes,Type D,Extended
+44,Saturday,3693,1334,Yes,,Christmas,Yes,Type A,Extra
+25,Sunday,10562,264,Yes,No,,Yes,Type C,Extra
+17,Sunday,5340,,Yes,,None,No,Type C,Extra
+13,Tuesday,3156,1460,Yes,No,None,Yes,Type D,Basic
+84,Thursday,17184,291,Yes,Yes,None,No,,Extra
+25,Saturday,8966,829,Yes,No,Easter Holiday,,Type D,Extended
+68,Wednesday,3580,313,Yes,No,Easter Holiday,No,Type D,Extended
+,Monday,8257,673,Yes,Yes,,Yes,Type C,Basic
+67,Saturday,3159,1451,,Yes,None,Yes,Type A,Basic
+18,Sunday,17172,1056,Yes,Yes,None,Yes,Type A,Extended
+86,Sunday,14900,,No,No,None,No,Type B,Basic
+34,Wednesday,12440,772,Yes,Yes,None,Yes,Type C,Basic
+8,Wednesday,15678,1701,Yes,,None,No,Type C,Extra
+40,Monday,15436,,,Yes,None,Yes,Type D,Extra
+83,,13021,338,Yes,Yes,None,Yes,Type C,Basic
+42,Tuesday,7772,1655,,No,None,Yes,Type D,Extended
+41,Monday,2627,799,Yes,Yes,Christmas,Yes,Type B,Extra
+6,Wednesday,12664,1205,,,None,No,Type C,Extended
+52,Friday,9219,1486,Yes,No,Easter Holiday,Yes,Type C,Basic
+26,Saturday,19369,604,Yes,No,None,Yes,Type D,Extended
+64,Wednesday,10713,301,Yes,Yes,None,Yes,Type C,Extended
+98,,9488,1019,Yes,Yes,None,Yes,Type A,Extended
+59,Thursday,3181,1627,,,None,Yes,Type B,Extended
+56,Wednesday,12594,1767,Yes,,None,Yes,Type A,Basic
+59,Sunday,19680,136,Yes,,None,Yes,Type D,Basic
+70,Sunday,8164,743,Yes,Yes,None,,Type D,Extra
+33,Sunday,19981,1712,Yes,Yes,None,Yes,Type D,Extra
+53,Thursday,1901,1724,Yes,,None,Yes,Type B,Extra
+,Sunday,10290,1525,Yes,No,None,Yes,,Extra
+21,Friday,19061,864,Yes,No,None,No,Type A,Extended
+70,Wednesday,3881,1979,Yes,Yes,None,No,Type C,
+70,,14058,805,Yes,No,None,No,Type D,Extra
+4,Monday,6622,1299,Yes,Yes,None,No,Type C,Extended
+94,Thursday,2378,644,Yes,Yes,Christmas,Yes,Type B,Basic
+75,Friday,18632,1693,Yes,No,None,Yes,Type D,Extra
+62,Monday,6650,1590,Yes,Yes,Easter Holiday,Yes,Type C,
+62,,13433,1324,Yes,Yes,None,Yes,Type A,Extra
+94,Monday,10456,639,Yes,No,None,Yes,,Basic
+,Monday,8036,1670,Yes,Yes,None,No,Type D,Extra
+24,Wednesday,7487,1116,Yes,Yes,None,Yes,Type B,Basic
+55,Sunday,18442,1760,Yes,Yes,Public Holiday,Yes,Type B,Basic
+9,Saturday,19432,493,Yes,Yes,Public Holiday,Yes,Type A,Extra
+3,Wednesday,5248,932,No,No,None,Yes,Type C,Basic
+31,,19860,1165,Yes,Yes,Public Holiday,Yes,Type C,Extra
+40,Friday,5603,696,Yes,No,None,Yes,Type D,Extra
+36,Friday,13632,492,Yes,Yes,None,Yes,Type D,Extended
+24,Sunday,1220,799,Yes,Yes,None,No,Type C,
+95,Saturday,15226,1746,Yes,Yes,,No,Type C,Extra
+6,Friday,5818,1906,Yes,No,None,Yes,Type C,Extra
+66,Sunday,8349,540,Yes,,Easter Holiday,Yes,,Extra
+84,Sunday,6618,,Yes,,None,Yes,,Extended
+,Tuesday,10856,1740,Yes,Yes,None,Yes,Type B,Extended
+75,Saturday,5576,1629,Yes,No,None,Yes,Type A,Extended
+4,Friday,19255,1017,Yes,,None,No,Type C,Extended
+79,,16207,419,Yes,,,Yes,Type C,Basic
+6,Wednesday,2462,652,Yes,No,None,Yes,Type C,Extra
+94,Wednesday,,1338,Yes,Yes,Easter Holiday,,Type A,Extended
+,Saturday,17252,1194,Yes,No,None,Yes,,
+62,Tuesday,9236,,Yes,Yes,None,,Type B,Extended
+57,Tuesday,,1018,Yes,Yes,Easter Holiday,Yes,,Extra
+66,Saturday,3068,335,Yes,Yes,None,Yes,Type A,Basic
+79,Friday,6753,1404,Yes,Yes,,Yes,Type D,Extended
+75,Thursday,8237,,Yes,Yes,None,No,Type D,Basic
+8,,15175,1740,Yes,,None,No,Type B,Basic
+26,Monday,7191,1285,Yes,Yes,None,,Type B,Extra
+51,Wednesday,18898,1314,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+45,Saturday,19982,1132,Yes,Yes,,Yes,Type D,Basic
+44,Monday,15622,159,No,No,None,Yes,Type C,Extra
+5,Saturday,2001,992,Yes,No,None,No,Type A,Extra
+70,Sunday,18417,1940,Yes,No,None,Yes,,Extra
+26,Wednesday,15877,324,Yes,Yes,None,Yes,Type C,
+68,Wednesday,11232,1942,Yes,Yes,None,Yes,Type D,Extra
+,Tuesday,5476,799,Yes,,None,No,Type D,Extra
+84,Tuesday,17862,681,No,No,Easter Holiday,No,Type A,Extra
+97,Monday,,1928,Yes,No,None,,Type B,Basic
+20,Sunday,13478,1410,No,Yes,None,Yes,,Extra
+12,Saturday,2191,1093,Yes,Yes,None,Yes,Type A,Basic
+47,Sunday,,268,Yes,No,None,Yes,,Extra
+1,Wednesday,,1185,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+90,Monday,7297,1472,Yes,Yes,None,No,Type C,Basic
+14,Thursday,17655,1565,Yes,No,None,Yes,Type C,Extended
+64,Monday,9334,113,Yes,No,None,No,Type C,Extended
+,,7008,263,Yes,Yes,None,No,Type C,Extended
+37,,8987,,Yes,Yes,None,Yes,Type C,Basic
+11,Sunday,4332,856,Yes,No,None,Yes,,Extra
+77,Friday,1787,1970,Yes,Yes,Easter Holiday,No,Type A,Extra
+3,Friday,7222,,Yes,No,None,Yes,Type D,Basic
+33,Friday,10873,1789,Yes,No,None,Yes,Type C,Extra
+6,Thursday,18006,1671,Yes,No,None,Yes,Type B,Basic
+,,4676,1683,Yes,No,None,Yes,Type A,
+10,Sunday,3572,1720,Yes,Yes,,Yes,Type A,Basic
+5,Monday,7915,1151,Yes,Yes,,Yes,Type A,Extended
+23,Thursday,6033,,Yes,Yes,,Yes,Type C,Extended
+10,Wednesday,8788,545,,Yes,,,,Extra
+44,,16689,1331,Yes,Yes,,Yes,,Extra
+2,Sunday,,1593,Yes,Yes,Public Holiday,Yes,Type C,
+13,Sunday,5712,815,Yes,No,None,Yes,Type A,
+40,Monday,1066,1075,No,,None,Yes,Type A,
+2,Tuesday,16855,918,Yes,Yes,None,Yes,Type B,Extended
+84,Saturday,13478,203,Yes,Yes,None,Yes,Type B,Basic
+65,Saturday,8533,841,No,Yes,None,,,Extra
+,Thursday,16103,525,No,Yes,None,Yes,Type B,Extended
+73,Saturday,5616,1224,No,Yes,None,No,Type D,Basic
+17,Sunday,14277,1664,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+,Saturday,18524,738,Yes,No,None,Yes,Type A,Basic
+75,Wednesday,,949,Yes,No,None,,Type C,Extended
+15,,11724,1645,Yes,No,Easter Holiday,No,Type C,Basic
+24,Wednesday,12772,1229,Yes,Yes,None,Yes,Type D,Extra
+38,Saturday,17268,,Yes,Yes,None,Yes,Type C,Basic
+35,Thursday,13940,868,,Yes,None,Yes,Type C,Basic
+94,,17932,,Yes,Yes,None,Yes,Type B,Extended
+95,Friday,15643,376,Yes,Yes,None,Yes,Type A,Basic
+49,Tuesday,,1188,,Yes,None,Yes,Type C,Extended
+69,Friday,17955,1906,Yes,No,Easter Holiday,No,Type A,Extended
+62,Friday,18174,999,Yes,Yes,None,Yes,Type B,Extra
+60,Wednesday,10830,287,Yes,Yes,None,No,Type B,Basic
+50,Wednesday,14798,1440,Yes,,None,Yes,Type C,Extra
+78,Saturday,18558,1261,No,Yes,None,Yes,Type C,Extra
+75,Tuesday,,1466,,No,Easter Holiday,,Type B,Basic
+9,Monday,1178,204,Yes,Yes,None,,Type B,Basic
+34,Sunday,19628,645,Yes,,None,Yes,,Extended
+76,Tuesday,18118,479,Yes,,None,Yes,Type D,Basic
+99,Tuesday,1798,209,Yes,Yes,None,No,Type A,Extended
+35,Thursday,8601,644,Yes,,None,Yes,Type B,Extra
+1,,3795,453,Yes,No,None,Yes,Type A,Extra
+40,Thursday,13496,842,,No,None,Yes,Type B,Extended
+64,Tuesday,5588,416,Yes,No,None,No,Type A,Basic
+22,Tuesday,,1389,Yes,Yes,None,No,Type D,Basic
+,Tuesday,4084,1817,,Yes,None,Yes,Type B,Extended
+64,Friday,12110,1975,Yes,Yes,None,Yes,Type B,Extra
+93,Sunday,1731,1188,Yes,No,Easter Holiday,No,Type A,Extended
+72,Sunday,2129,432,Yes,No,None,,Type A,Basic
+11,Thursday,2605,1636,Yes,No,Easter Holiday,Yes,Type C,
+14,,12970,1256,Yes,Yes,None,,Type C,Extended
+60,Sunday,11937,691,,Yes,None,,Type D,Basic
+30,Wednesday,12362,,Yes,Yes,None,Yes,Type B,
+35,Sunday,3933,1876,No,Yes,None,Yes,Type B,Extended
+85,Saturday,,639,,Yes,None,Yes,Type A,Extra
+37,Saturday,6074,834,Yes,,None,No,Type D,Extra
+,Sunday,15037,1658,Yes,No,None,Yes,Type B,Extended
+83,,,1619,Yes,Yes,None,Yes,Type D,Extended
+78,Saturday,18874,,Yes,Yes,None,No,Type C,
+26,Friday,1893,718,Yes,Yes,None,Yes,Type A,Basic
+62,Sunday,2390,1780,Yes,,None,Yes,Type B,Extended
+4,Friday,5239,1492,Yes,No,None,Yes,Type A,Extended
+89,Sunday,19647,1989,Yes,Yes,,Yes,Type C,Basic
+42,,4432,1008,Yes,Yes,None,Yes,Type D,Basic
+89,Monday,3371,1774,Yes,No,None,Yes,Type D,
+18,Monday,2515,1919,Yes,Yes,None,Yes,Type C,Extended
+,Saturday,16906,1933,Yes,Yes,None,Yes,Type C,Extended
+72,Friday,7326,1091,Yes,No,None,No,Type B,Basic
+39,Friday,15605,198,Yes,No,,,Type B,Extra
+14,Friday,6586,416,Yes,Yes,None,Yes,Type B,Extra
+32,Wednesday,3917,222,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+51,Friday,16901,,Yes,Yes,None,Yes,Type B,Extended
+38,Wednesday,18551,898,Yes,No,Easter Holiday,,Type D,Extended
+97,Monday,4793,1716,Yes,Yes,Public Holiday,Yes,Type B,Extra
+23,Monday,10947,1618,Yes,No,None,Yes,Type C,Basic
+63,Saturday,16859,556,Yes,No,None,Yes,Type C,Extra
+15,Sunday,2577,621,Yes,No,,,Type B,Extra
+97,Monday,10488,,No,Yes,None,,Type C,Basic
+25,Sunday,19604,1016,Yes,Yes,Christmas,Yes,Type A,Extra
+17,Sunday,10164,816,Yes,Yes,Christmas,Yes,Type D,Extended
+97,Saturday,2030,414,Yes,No,None,Yes,Type D,Extra
+66,,16881,808,Yes,Yes,Easter Holiday,No,Type B,Basic
+78,Tuesday,11785,809,Yes,Yes,Easter Holiday,Yes,Type A,Extended
+53,Thursday,7691,1665,Yes,Yes,None,No,Type B,Extended
+51,,18297,1602,No,Yes,None,No,Type B,Extra
+39,Thursday,7358,1143,,Yes,,Yes,Type C,Extended
+51,Thursday,19565,659,Yes,,None,No,Type D,Basic
+70,Tuesday,2462,1068,Yes,Yes,None,Yes,Type A,Extra
+6,Saturday,16511,1253,,Yes,None,No,Type C,Extended
+67,Tuesday,11570,1416,Yes,Yes,None,Yes,Type D,Basic
+7,Thursday,16897,1255,,No,None,,Type D,Extra
+51,Saturday,12646,,Yes,No,Easter Holiday,Yes,Type B,Basic
+72,Thursday,16474,1177,Yes,Yes,None,Yes,Type A,Extended
+42,Friday,8037,989,Yes,Yes,None,No,Type B,Extra
+64,Sunday,10499,892,Yes,,,Yes,Type C,Extra
+,Saturday,,1510,Yes,Yes,None,Yes,Type B,Extended
+29,Saturday,7221,364,Yes,Yes,None,Yes,Type B,Basic
+33,Sunday,8769,1081,Yes,Yes,None,Yes,Type D,
+,Thursday,18071,1338,Yes,Yes,None,,Type D,Extra
+27,Friday,15356,1583,Yes,Yes,,Yes,Type C,Extra
+36,Wednesday,19278,1581,No,No,None,Yes,Type D,Extended
+,Sunday,8389,901,,No,None,,Type D,
+38,Tuesday,5922,142,Yes,Yes,None,Yes,,Extended
+57,Thursday,14639,1709,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+,Sunday,11003,961,Yes,Yes,None,No,Type A,Basic
+27,Sunday,6178,1401,Yes,Yes,Public Holiday,Yes,,Extra
+55,,16240,1961,Yes,Yes,None,Yes,Type B,Basic
+33,Tuesday,4968,1877,Yes,Yes,Easter Holiday,Yes,Type C,Extra
+,,,,Yes,No,None,,Type B,Basic
+86,Tuesday,17574,449,Yes,Yes,,Yes,Type C,Basic
+66,Sunday,14511,1829,Yes,No,None,Yes,Type D,Extra
+10,Wednesday,18719,1667,Yes,Yes,Easter Holiday,Yes,Type C,
+5,Monday,9181,,Yes,Yes,,Yes,Type A,Extended
+74,Thursday,13995,1011,Yes,,Easter Holiday,Yes,Type C,Basic
+97,Monday,12298,1839,Yes,Yes,None,Yes,Type A,Extra
+38,,17762,100,Yes,No,None,Yes,Type C,Extra
+13,Monday,7380,1880,Yes,Yes,None,Yes,Type D,Extended
+31,Sunday,1615,683,Yes,Yes,None,Yes,Type C,Basic
+47,Monday,,531,Yes,Yes,None,Yes,Type B,Extended
+88,Tuesday,19138,1429,Yes,Yes,None,Yes,Type D,Basic
+52,Friday,,,Yes,Yes,None,Yes,,Extended
+,Tuesday,10158,,Yes,Yes,,Yes,Type B,Extra
+,Tuesday,4158,1039,Yes,No,None,Yes,Type D,
+29,Saturday,,619,Yes,No,None,Yes,,Extended
+8,Saturday,5938,1453,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+5,Monday,6417,1681,,Yes,None,Yes,Type D,Basic
+29,Sunday,9881,1448,Yes,Yes,None,Yes,Type D,Extra
+,Tuesday,6603,1237,Yes,Yes,None,Yes,Type D,Basic
+68,Monday,3212,246,Yes,No,,Yes,Type D,Extended
+76,Saturday,17766,,Yes,No,,Yes,Type C,Extended
+45,Friday,19640,,Yes,,None,Yes,Type D,Basic
+2,,12695,,Yes,Yes,Christmas,Yes,Type D,Extra
+27,Monday,18796,728,No,No,,No,,Extra
+95,Friday,10775,,Yes,No,None,Yes,Type C,Extra
+36,,15559,1399,Yes,,None,Yes,Type A,
+36,Wednesday,7146,888,Yes,Yes,None,Yes,Type D,Extra
+,Monday,,949,Yes,Yes,None,,Type A,Extended
+43,Monday,6565,1948,,,Easter Holiday,Yes,,Basic
+27,Wednesday,9802,277,Yes,Yes,None,Yes,Type B,Extended
+69,Wednesday,9307,941,Yes,,Easter Holiday,Yes,Type B,Extra
+20,Monday,8437,1477,Yes,Yes,None,No,,Extra
+11,Wednesday,1446,1277,Yes,Yes,None,Yes,Type C,Basic
+74,Tuesday,2391,1324,Yes,Yes,,No,Type D,Basic
+38,,12516,977,,No,None,Yes,Type D,Basic
+6,Thursday,18724,1238,Yes,Yes,,Yes,Type D,
+72,Thursday,16454,1794,Yes,No,Christmas,Yes,Type B,Basic
+23,Tuesday,,1677,Yes,Yes,None,Yes,Type B,Extended
+47,Sunday,15998,858,No,No,None,Yes,Type D,Extra
+90,Wednesday,6969,1191,Yes,No,,Yes,,Extended
+46,Friday,10265,1568,Yes,Yes,None,Yes,Type B,Basic
+,Wednesday,16861,544,No,No,None,Yes,Type D,Extended
+90,Monday,6454,1449,Yes,Yes,None,Yes,,Extended
+13,Saturday,4150,1969,Yes,Yes,None,,Type D,Extended
+62,Thursday,16386,,Yes,Yes,Public Holiday,No,Type B,Basic
+82,Wednesday,7414,,Yes,No,None,Yes,Type C,Extended
+89,Friday,5657,1746,Yes,No,Easter Holiday,No,Type C,Basic
+,Monday,11486,,Yes,,None,Yes,Type B,Extended
+60,Tuesday,,244,Yes,No,None,Yes,Type A,Extended
+43,Sunday,6480,374,Yes,Yes,,Yes,Type D,Extended
+76,Tuesday,9033,608,Yes,No,Easter Holiday,Yes,,Basic
+68,Friday,1983,,Yes,Yes,None,No,Type A,Basic
+5,,9543,852,Yes,Yes,None,Yes,,Basic
+37,Thursday,10916,1961,Yes,Yes,None,No,Type D,Extra
+72,,11143,1954,Yes,Yes,None,No,Type B,Basic
+92,Monday,16581,576,Yes,Yes,None,Yes,Type D,Extended
+31,Sunday,2907,,Yes,Yes,None,Yes,Type C,Extra
+9,Tuesday,10216,1537,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+51,Sunday,9737,1276,Yes,No,,Yes,Type D,Basic
+29,Sunday,14757,1227,Yes,Yes,,Yes,Type B,Extra
+78,Friday,5174,1198,,No,,Yes,,Extra
+,Friday,16708,1251,,Yes,None,Yes,Type B,Basic
+41,Wednesday,10297,1834,Yes,Yes,Easter Holiday,Yes,Type B,Extra
+86,Friday,2990,765,Yes,Yes,None,Yes,Type C,Extended
+11,Friday,6596,667,Yes,No,None,No,Type C,Extended
+,Monday,17374,,Yes,No,None,Yes,Type A,Extended
+1,Thursday,4775,1468,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+46,Wednesday,19445,630,No,Yes,Christmas,Yes,Type D,Extended
+21,Monday,16706,258,Yes,Yes,,Yes,Type B,Extra
+90,Thursday,15645,1661,,Yes,None,Yes,Type C,
+36,Sunday,14668,1549,Yes,No,None,No,Type B,
+54,Monday,16960,780,Yes,Yes,None,No,,Extended
+87,Saturday,12357,122,Yes,Yes,None,No,Type D,
+57,Monday,5435,1170,Yes,No,None,Yes,Type B,Extended
+1,Friday,16804,624,Yes,No,None,Yes,Type D,Extended
+63,Thursday,18429,828,Yes,,None,No,Type D,Extended
+54,Wednesday,15626,1957,No,Yes,None,No,Type C,Extra
+55,Wednesday,8951,1829,No,Yes,None,No,Type B,Extra
+40,Thursday,7449,243,Yes,Yes,None,Yes,Type D,Extended
+15,Friday,4199,1708,Yes,Yes,,Yes,Type C,Extra
+21,Tuesday,7768,767,Yes,,None,Yes,Type A,Extra
+,Monday,10130,1712,,No,None,No,Type A,Basic
+,Friday,9633,,Yes,Yes,None,Yes,Type B,Extended
+53,Saturday,19934,780,Yes,Yes,None,Yes,Type D,Extra
+9,Sunday,5225,1072,No,Yes,,Yes,Type B,Extra
+74,Thursday,17980,898,Yes,Yes,Easter Holiday,Yes,Type D,
+52,Monday,7054,184,Yes,Yes,None,Yes,Type C,Extra
+57,Wednesday,2505,515,Yes,Yes,None,Yes,Type A,Basic
+26,Sunday,,793,No,Yes,,Yes,Type A,Extra
+41,Tuesday,16749,,,Yes,None,Yes,Type A,Extra
+35,Saturday,11832,555,Yes,Yes,None,Yes,Type A,Basic
+63,Wednesday,17344,926,,Yes,None,No,Type B,Extended
+25,,,396,Yes,Yes,Public Holiday,Yes,Type D,Extended
+90,Monday,2551,1235,Yes,,None,Yes,Type B,Basic
+75,Thursday,16154,1353,Yes,Yes,None,Yes,,
+38,Sunday,14799,1219,,,,Yes,Type A,Extended
+2,Monday,7852,1049,Yes,Yes,,Yes,Type D,Basic
+7,Friday,2449,779,Yes,No,None,No,Type B,Extra
+82,Tuesday,3659,,Yes,Yes,None,Yes,,Basic
+91,,8509,1279,,Yes,,Yes,Type B,Basic
+,Friday,3721,520,,,None,Yes,,
+91,Thursday,13444,204,Yes,Yes,None,,Type D,Basic
+17,Sunday,10637,1828,,No,None,Yes,Type A,Basic
+43,,11490,429,,,None,Yes,Type B,Extra
+59,Monday,3925,538,Yes,,None,No,Type C,Extended
+51,Monday,10824,1255,Yes,Yes,Easter Holiday,No,Type D,Basic
+54,Saturday,7240,1990,No,Yes,None,Yes,Type C,Extra
+24,Wednesday,17896,481,Yes,Yes,Easter Holiday,Yes,Type A,Basic
+25,Saturday,1215,237,Yes,Yes,None,Yes,Type C,Extra
+71,Saturday,8299,1042,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+52,Monday,,942,Yes,Yes,None,No,Type D,Extra
+70,Thursday,11364,369,Yes,Yes,Easter Holiday,Yes,Type D,Extra
+88,Friday,4153,1673,Yes,No,None,Yes,Type B,
+33,Sunday,2706,495,,Yes,None,No,Type C,Extended
+49,Friday,11298,1680,Yes,Yes,None,Yes,Type B,Extra
+29,Friday,2567,1012,Yes,Yes,None,Yes,Type D,
+63,Tuesday,,563,Yes,Yes,None,Yes,Type D,Basic
+22,,11345,,Yes,,None,No,Type A,Extended
+26,Sunday,2128,,Yes,Yes,None,No,Type A,Basic
+28,Thursday,,1454,,No,None,,Type D,
+85,Tuesday,19749,1376,Yes,Yes,None,No,Type B,Extra
+49,,6583,1804,Yes,No,None,No,Type B,
+,Thursday,5897,,Yes,No,,No,Type D,Basic
+81,Saturday,7001,1397,Yes,Yes,,Yes,Type C,Extended
+,Thursday,12113,119,,Yes,Christmas,,Type B,Basic
+49,Thursday,5567,338,Yes,No,Easter Holiday,Yes,Type D,Basic
+20,,10271,1393,,Yes,Public Holiday,Yes,Type A,Extra
+86,Thursday,15348,517,Yes,Yes,None,Yes,Type D,Basic
+92,Saturday,12703,1433,,Yes,Christmas,,,Extra
+63,Saturday,14329,1154,Yes,Yes,None,Yes,Type D,Extended
+61,Monday,3741,1949,Yes,Yes,None,Yes,Type C,Basic
+49,Thursday,7256,1227,Yes,Yes,Public Holiday,No,Type C,Extra
+71,Friday,1228,1805,Yes,Yes,,No,Type B,Basic
+1,Thursday,17678,,No,Yes,None,Yes,Type D,Extended
+96,Wednesday,5284,1251,Yes,,None,Yes,Type C,Basic
+,Wednesday,14264,,Yes,,,Yes,Type C,Basic
+94,Friday,14390,1537,Yes,No,None,Yes,Type A,Extra
+87,Monday,1918,1404,Yes,No,None,Yes,Type B,Extended
+51,Monday,,352,Yes,No,None,No,Type A,
+56,,1498,,Yes,No,None,Yes,Type A,
+83,Saturday,3809,811,Yes,No,,No,Type C,Basic
+62,Tuesday,5961,1855,,,None,No,Type D,Extra
+32,,10017,1259,Yes,Yes,Easter Holiday,Yes,Type A,Basic
+30,Thursday,4779,322,Yes,Yes,None,No,Type B,Basic
+29,Sunday,11050,102,,No,Easter Holiday,Yes,Type B,Basic
+49,Friday,3118,1359,Yes,Yes,None,No,,Extended
+45,Tuesday,7391,953,,No,None,No,Type B,Extra
+93,Saturday,1145,1588,Yes,,,Yes,Type A,Extended
+,Friday,14929,327,Yes,Yes,,Yes,Type D,Basic
+16,Friday,15917,1012,Yes,No,None,Yes,Type B,Basic
+40,Saturday,5565,1777,Yes,Yes,None,Yes,Type B,Extra
+19,Tuesday,17576,598,,Yes,None,No,Type A,Extended
+18,Saturday,7637,620,Yes,Yes,None,Yes,Type A,Basic
+1,Monday,9243,801,,Yes,None,Yes,,Basic
+78,Thursday,3410,,Yes,Yes,Christmas,Yes,Type A,
+47,Saturday,2820,1016,Yes,Yes,None,Yes,Type D,Basic
+66,Tuesday,,1800,No,Yes,None,No,Type D,
+92,Wednesday,19952,1262,,No,None,Yes,Type D,Extended
+94,Monday,6882,1399,Yes,Yes,None,Yes,Type C,Basic
+38,Wednesday,2867,390,Yes,Yes,Easter Holiday,Yes,Type A,Basic
+51,Sunday,8465,1176,Yes,Yes,Christmas,Yes,Type A,Basic
+63,Saturday,12461,1810,Yes,No,None,Yes,Type D,Extra
+4,Monday,7103,1233,Yes,No,,Yes,Type B,Extra
+,Thursday,13197,814,Yes,Yes,None,Yes,Type B,Extended
+8,Saturday,16424,1047,,,None,,Type A,Extended
+29,Thursday,17053,747,Yes,No,None,No,Type A,Basic
+55,Friday,1240,1127,Yes,Yes,Easter Holiday,No,Type D,Basic
+3,Wednesday,5631,1790,No,Yes,,,Type A,Basic
+32,Monday,10599,783,Yes,Yes,None,Yes,Type B,Extra
+10,Thursday,12694,969,Yes,Yes,None,Yes,Type B,Extra
+,Tuesday,6077,1170,Yes,No,,No,Type A,Basic
+83,,4768,193,Yes,Yes,None,Yes,Type D,Basic
+34,,10142,1039,Yes,Yes,,Yes,Type D,Extended
+97,Saturday,8995,659,Yes,Yes,None,Yes,Type B,Extra
+87,Monday,14276,1875,Yes,No,None,Yes,Type D,Basic
+55,Thursday,,1982,,No,None,Yes,Type B,Extra
+92,Sunday,12475,312,Yes,No,None,Yes,Type A,Basic
+32,Thursday,19557,535,Yes,,None,Yes,,Basic
+50,Sunday,7568,951,Yes,Yes,None,Yes,Type A,Extended
+7,Monday,3601,607,Yes,No,None,No,,Extended
+93,Thursday,7080,935,Yes,Yes,None,Yes,Type C,Extended
+8,Tuesday,14854,750,,,None,Yes,Type C,Basic
+65,Thursday,3159,304,Yes,Yes,None,No,Type C,
+57,Wednesday,,480,Yes,Yes,None,,Type B,Basic
+67,Saturday,5368,1196,Yes,Yes,None,Yes,Type C,Extra
+88,Friday,2317,1639,Yes,No,None,No,Type B,Extra
+87,Tuesday,14272,1199,Yes,No,Christmas,Yes,Type D,Basic
+59,Wednesday,2230,,Yes,Yes,None,Yes,Type A,Extended
+72,Sunday,18517,176,Yes,Yes,None,Yes,Type C,Extended
+54,Saturday,2301,915,No,No,None,Yes,Type B,Extra
+67,Monday,16927,867,Yes,Yes,None,Yes,Type D,Basic
+51,Tuesday,2910,,,No,None,Yes,Type D,
+97,Friday,15904,1737,Yes,Yes,,Yes,Type C,Basic
+92,Saturday,9107,205,Yes,Yes,None,No,Type D,Extra
+8,Sunday,19300,1968,Yes,Yes,,No,Type D,Extra
+,Friday,3757,650,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+35,Monday,,1599,Yes,Yes,None,,Type B,Basic
+96,Monday,17562,925,Yes,Yes,None,Yes,Type D,Basic
+88,Sunday,10088,1398,,Yes,,Yes,Type D,Basic
+78,Tuesday,16124,187,Yes,Yes,None,Yes,Type D,Basic
+32,Sunday,15260,,Yes,Yes,Public Holiday,Yes,Type D,
+46,Thursday,10743,980,Yes,No,Public Holiday,,Type D,Extended
+16,Monday,9683,1200,Yes,Yes,Easter Holiday,Yes,Type B,Extra
+68,Saturday,1060,,Yes,,None,No,Type D,Extended
+37,Thursday,10269,1565,Yes,Yes,None,,Type D,Basic
+54,Wednesday,3895,639,No,Yes,None,Yes,Type A,Basic
+85,Friday,16323,344,,No,None,Yes,,Basic
+14,Thursday,13352,677,Yes,Yes,None,Yes,Type D,Basic
+95,Friday,12875,,Yes,No,None,No,,Basic
+55,Sunday,,1505,Yes,Yes,None,Yes,Type D,Extra
+48,Thursday,6823,1081,Yes,Yes,None,,Type B,Extended
+,Sunday,12962,816,Yes,Yes,None,No,Type C,Extra
+7,Wednesday,1534,1693,Yes,No,None,,,
+74,Monday,5011,1836,No,No,None,Yes,Type A,Extended
+7,Wednesday,3155,1860,Yes,Yes,None,Yes,,Extended
+33,Monday,7957,241,Yes,No,None,Yes,Type C,Basic
+23,Sunday,10196,992,No,Yes,None,Yes,Type A,Extended
+85,Monday,,1491,Yes,No,None,Yes,Type B,Extra
+19,,,1207,Yes,Yes,None,Yes,Type C,Extra
+19,,3706,1266,Yes,Yes,None,Yes,,
+36,Wednesday,1001,451,Yes,Yes,None,Yes,Type D,Extra
+29,Thursday,10225,644,Yes,No,Public Holiday,No,Type A,
+,Wednesday,18488,1012,Yes,,None,,,Extra
+82,,15820,251,Yes,No,Easter Holiday,Yes,Type A,Extended
+2,Monday,11891,1281,Yes,No,None,Yes,Type B,Basic
+1,Friday,2861,1569,Yes,Yes,None,Yes,Type D,Extra
+47,Tuesday,6269,752,Yes,No,None,No,Type D,Basic
+69,Tuesday,12112,1057,Yes,No,None,Yes,Type B,Extra
+20,Thursday,16699,862,Yes,Yes,None,Yes,Type A,Basic
+11,,9320,1426,Yes,Yes,None,Yes,Type D,Basic
+2,Sunday,17821,723,Yes,,None,Yes,Type A,Basic
+67,Thursday,11740,755,,No,None,Yes,Type D,
+87,Sunday,4129,549,Yes,No,None,,Type B,Basic
+12,Thursday,18285,820,Yes,No,None,No,Type C,Extended
+20,Tuesday,15380,1347,Yes,No,Christmas,,Type A,Extended
+5,Thursday,,142,No,No,None,Yes,Type D,Extra
+37,Tuesday,6398,363,Yes,No,None,Yes,Type D,Extended
+38,Monday,6529,1879,Yes,No,None,Yes,,Basic
+94,Sunday,4918,1126,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+9,Friday,18451,1760,Yes,Yes,None,Yes,Type B,Extended
+98,Thursday,17410,1391,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+53,Tuesday,7937,695,Yes,No,None,Yes,Type B,Extended
+44,,8118,1139,Yes,Yes,Public Holiday,Yes,Type A,Basic
+99,Sunday,17931,1457,Yes,Yes,None,Yes,Type B,Extended
+86,Thursday,,,Yes,Yes,None,Yes,Type D,Basic
+24,Saturday,6338,1182,Yes,Yes,None,Yes,Type A,Extra
+81,Monday,13472,1112,Yes,Yes,None,Yes,Type B,Extended
+74,Monday,4140,276,Yes,Yes,Public Holiday,Yes,Type A,
+30,,8996,162,Yes,Yes,None,Yes,Type A,Basic
+59,Tuesday,16489,1057,Yes,Yes,,Yes,Type B,Basic
+87,Thursday,18974,1102,Yes,Yes,Christmas,,Type A,Extra
+96,Sunday,15201,660,Yes,Yes,None,Yes,Type D,Basic
+81,Tuesday,8776,1430,Yes,Yes,Christmas,Yes,Type D,Basic
+81,,5943,1369,Yes,Yes,None,Yes,Type B,Basic
+14,Tuesday,13886,1412,Yes,Yes,Easter Holiday,Yes,Type B,Basic
+9,Monday,9997,1921,Yes,Yes,None,Yes,,Basic
+40,Tuesday,8798,1054,Yes,No,None,Yes,Type B,Basic
+,Wednesday,18741,1455,Yes,Yes,None,Yes,,Basic
+25,Friday,9092,1650,,Yes,,Yes,Type A,Basic
+,Wednesday,4225,,,,None,No,Type B,Extra
+,Wednesday,12810,1378,Yes,Yes,None,Yes,Type C,Extended
+4,Friday,15914,703,Yes,Yes,Christmas,Yes,Type D,Basic
+26,Friday,3460,1633,Yes,Yes,Christmas,Yes,Type D,Extra
+58,Thursday,9737,1914,Yes,Yes,Christmas,Yes,,Basic
+29,Sunday,,1841,,Yes,Christmas,Yes,Type C,Extended
+98,Sunday,11754,705,Yes,Yes,None,No,Type C,Basic
+87,Thursday,11833,1860,Yes,No,Christmas,Yes,Type C,Extra
+,Wednesday,4114,1936,,Yes,Easter Holiday,No,Type D,Extra
+75,Wednesday,18000,929,Yes,No,None,Yes,Type D,Extended
+70,Monday,16360,1586,,Yes,None,Yes,Type C,
+18,Monday,18587,,Yes,,Easter Holiday,Yes,Type B,Extra
+85,Sunday,,1394,Yes,Yes,None,No,Type C,Extended
+42,Thursday,3565,,Yes,No,None,,Type A,
+41,Saturday,4174,657,Yes,Yes,,Yes,Type C,Basic
+38,Saturday,3630,163,Yes,Yes,Public Holiday,Yes,Type C,Extra
+34,Thursday,4161,1353,Yes,Yes,Christmas,,Type C,
+17,,5321,1041,Yes,Yes,None,Yes,Type B,Basic
+37,Sunday,14204,,Yes,No,None,,Type C,Basic
+25,Sunday,8099,1369,Yes,Yes,,No,Type C,Extra
+,Monday,12360,,Yes,Yes,None,Yes,Type D,Extended
+87,Saturday,,1710,Yes,,,No,,Basic
+86,Tuesday,14502,256,Yes,Yes,None,Yes,Type A,
+85,Tuesday,6801,834,Yes,Yes,Christmas,Yes,Type D,Extra
+27,Monday,,1825,Yes,Yes,None,No,Type B,Basic
+57,Tuesday,15271,1084,,Yes,None,Yes,Type D,Extended
+31,Friday,,1687,No,No,Easter Holiday,Yes,Type B,Basic
+6,Thursday,5151,,Yes,Yes,None,Yes,Type B,Extended
+91,Thursday,9911,1436,Yes,No,None,Yes,Type A,Basic
+40,Monday,19984,1974,Yes,Yes,None,No,Type C,Basic
+98,,13861,1189,Yes,Yes,None,Yes,Type A,Basic
+12,,1666,761,Yes,Yes,Public Holiday,Yes,Type D,Extended
+53,Monday,,1143,Yes,No,Easter Holiday,Yes,Type B,Basic
+71,Tuesday,6840,132,Yes,Yes,None,Yes,Type D,
+10,,4565,1963,Yes,Yes,None,Yes,,Basic
+45,Wednesday,11426,1916,Yes,Yes,,Yes,Type D,Extended
+17,Tuesday,18849,657,No,No,None,No,Type B,Basic
+26,Sunday,8366,172,Yes,Yes,None,No,Type A,Extra
+85,Friday,16630,1989,,Yes,None,,Type B,Extended
+92,,8382,924,Yes,Yes,None,Yes,Type C,Extra
+62,Friday,17149,1466,Yes,No,Christmas,Yes,Type A,Basic
+46,Saturday,16871,1256,Yes,No,Easter Holiday,Yes,Type C,Extended
+64,Friday,14273,1178,Yes,Yes,None,Yes,Type D,
+2,Saturday,1992,160,Yes,Yes,None,,Type D,Basic
+54,Saturday,7858,1980,No,No,,Yes,Type B,Extra
+65,Saturday,3121,1643,Yes,No,None,Yes,Type B,Extended
+,,13388,371,,Yes,None,Yes,,Extended
+53,Saturday,19607,345,No,No,None,Yes,Type A,Extended
+36,Tuesday,5136,1299,Yes,Yes,None,No,,Extended
+,Saturday,17727,727,,Yes,None,Yes,Type D,Extended
+29,Tuesday,13653,1440,,No,None,Yes,Type A,Basic
+21,Saturday,16479,1906,,Yes,None,Yes,Type C,Extended
+,Friday,5823,804,No,,None,,,Extra
+40,,5920,,Yes,Yes,None,Yes,Type A,Extended
+11,Saturday,6471,1254,Yes,Yes,None,Yes,Type A,
+36,Wednesday,18272,,Yes,No,,No,Type D,Basic
+59,Saturday,10533,409,Yes,Yes,None,Yes,Type C,
+39,,8127,1905,Yes,Yes,Christmas,Yes,Type D,Extended
+99,Friday,4720,1415,Yes,No,None,Yes,Type B,Extra
+54,Thursday,16696,1845,No,Yes,None,Yes,Type B,Extra
+98,Friday,19799,,Yes,Yes,None,,Type C,Extra
+55,Wednesday,,1484,Yes,No,Easter Holiday,,,Extra
+,Thursday,2364,437,Yes,Yes,Public Holiday,Yes,Type C,Extended
+22,Monday,,678,Yes,No,None,No,Type D,Basic
+69,Monday,13982,109,Yes,No,None,,Type C,Basic
+,Wednesday,18308,148,Yes,Yes,None,Yes,Type C,
+33,Friday,1151,1610,Yes,Yes,Christmas,Yes,Type D,Extra
+36,Tuesday,18296,722,Yes,No,None,,Type B,Extended
+,Wednesday,3321,1444,Yes,Yes,Public Holiday,,Type B,Extra
+83,Sunday,14865,830,Yes,Yes,None,No,Type A,Extra
+99,,1495,1692,Yes,Yes,None,,Type B,Extended
+81,Thursday,12987,,Yes,Yes,Christmas,Yes,Type C,
+,Saturday,3148,1070,Yes,Yes,Easter Holiday,Yes,Type B,Extra
+98,Monday,1556,,Yes,No,None,,Type D,Extra
+73,,14393,232,,No,None,Yes,Type B,Extra
+26,Wednesday,2552,1706,Yes,Yes,None,No,Type B,Extra
+66,Thursday,19504,182,Yes,Yes,,Yes,,
+73,Wednesday,4085,156,Yes,Yes,None,Yes,Type A,Basic
+73,Tuesday,,475,Yes,Yes,None,Yes,Type C,Basic
+,Saturday,9926,448,,No,None,Yes,,
+,Monday,8162,370,Yes,,None,Yes,Type C,
+1,Thursday,9055,1606,Yes,No,,,Type D,Basic
+89,Wednesday,5654,210,,Yes,None,Yes,Type D,Basic
+,Friday,12468,968,Yes,,None,,Type A,Basic
+,Monday,1154,986,Yes,Yes,None,Yes,Type B,Basic
+42,Tuesday,8950,175,Yes,Yes,None,Yes,Type B,Basic
+25,Wednesday,16323,1281,No,Yes,None,Yes,Type A,Extra
+39,Sunday,18380,1655,Yes,No,None,Yes,Type C,Extra
+35,Sunday,,1766,Yes,No,None,Yes,Type B,Extra
+3,Saturday,15259,428,Yes,No,,Yes,Type C,Extended
+44,Saturday,15873,221,,No,None,Yes,Type B,Basic
+51,Tuesday,,140,No,Yes,None,Yes,,Basic
+94,Tuesday,10369,1290,Yes,Yes,Easter Holiday,,Type D,Extended
+98,Saturday,1153,1021,Yes,Yes,Christmas,Yes,Type D,Basic
+12,Thursday,8853,741,No,Yes,None,No,Type B,Extra
+19,Thursday,13379,1146,Yes,Yes,None,Yes,Type C,Extra
+44,Wednesday,16792,,Yes,No,None,Yes,Type C,Extended
+59,Friday,6599,862,No,,None,Yes,Type D,Extra
+49,,19100,568,,Yes,None,Yes,Type C,Extended
+61,Friday,15785,1523,Yes,Yes,None,Yes,Type A,Extra
+17,Tuesday,12049,108,No,Yes,None,Yes,Type C,Basic
+74,Monday,1786,112,Yes,Yes,Easter Holiday,Yes,Type D,Extra
+57,Wednesday,5368,1023,Yes,Yes,None,Yes,Type A,Extended
+55,Wednesday,15923,1022,Yes,Yes,None,No,Type A,Basic
+47,Friday,5272,1942,,No,None,Yes,Type C,Extended
+12,Tuesday,6994,1955,,Yes,None,No,Type D,Basic
+62,Tuesday,8011,1175,Yes,,None,Yes,Type D,Basic
+80,Sunday,,1332,Yes,Yes,None,Yes,,Extra
+88,Friday,10261,1673,Yes,No,None,Yes,,Extra
+83,Tuesday,19733,1735,,Yes,None,,Type D,Basic
+8,Saturday,,1828,Yes,No,None,No,,Extra
+95,Thursday,2212,1525,Yes,No,None,Yes,Type A,Extra
+21,Sunday,15141,1314,Yes,No,None,No,Type B,Extended
+81,Saturday,10344,1174,Yes,Yes,Christmas,Yes,Type C,Extra
+87,Monday,7704,1516,Yes,,None,Yes,Type D,Basic
+80,Wednesday,16896,752,Yes,Yes,None,Yes,Type A,Extra
+,Sunday,19895,,Yes,Yes,Christmas,Yes,Type C,Basic
+72,Monday,1143,1946,Yes,Yes,,Yes,Type A,Basic
+25,Wednesday,11681,720,Yes,No,None,Yes,Type C,Extended
+,Thursday,8367,1842,,No,None,Yes,Type A,Basic
+89,Tuesday,4228,1423,Yes,Yes,None,Yes,Type D,Basic
+12,Saturday,5582,1745,Yes,Yes,None,Yes,Type B,Extended
+15,Friday,14147,295,Yes,No,None,Yes,Type B,Basic
+59,Saturday,12397,516,Yes,Yes,Christmas,Yes,Type B,Extended
+26,Thursday,,763,Yes,Yes,None,Yes,Type A,Basic
+26,Monday,5243,1543,Yes,Yes,None,No,Type C,Extra
+47,Friday,14647,1878,Yes,No,None,Yes,Type D,Extended
+32,Tuesday,12496,,Yes,Yes,None,Yes,Type D,Extended
+10,Thursday,,,Yes,No,None,Yes,Type A,Basic
+16,Friday,16146,1645,Yes,Yes,None,Yes,Type B,Extended
+71,,5185,1479,Yes,Yes,None,Yes,Type A,Basic
+17,Thursday,13486,247,Yes,Yes,None,No,Type C,Extended
+23,Tuesday,8328,1100,Yes,Yes,Christmas,Yes,Type B,Extended
+26,Sunday,17684,,Yes,,Public Holiday,Yes,Type A,Extra
+85,Wednesday,18107,463,Yes,Yes,None,Yes,Type C,Basic
+86,Friday,4010,,Yes,No,None,Yes,Type B,Extra
+,Tuesday,6555,1825,Yes,Yes,None,Yes,Type D,Extended
+14,Thursday,1067,,Yes,No,None,Yes,Type C,Basic
+79,Tuesday,13185,705,Yes,No,None,Yes,,Extra
+7,Sunday,19890,1615,Yes,No,None,Yes,,
+9,Wednesday,2537,,Yes,No,None,Yes,Type B,Extra
+48,,17781,1698,Yes,Yes,None,Yes,Type A,Extended
+72,Friday,12549,1975,Yes,Yes,Public Holiday,Yes,Type A,Extended
+59,Wednesday,6680,636,Yes,No,None,Yes,Type A,Basic
+87,Monday,9747,367,Yes,No,None,No,Type A,Basic
+93,Friday,16116,1528,Yes,No,None,,Type C,Basic
+82,,3941,,No,,Easter Holiday,Yes,Type A,Extended
+95,Thursday,11849,1134,Yes,Yes,None,Yes,Type A,Extra
+94,Friday,8067,1443,Yes,Yes,None,Yes,Type C,Basic
+39,,11151,1836,Yes,,None,Yes,Type C,Basic
+99,Tuesday,18985,225,,Yes,Easter Holiday,,Type B,Basic
+18,Thursday,18864,405,Yes,Yes,None,Yes,Type C,Basic
+59,Monday,,1825,Yes,Yes,None,,,Extended
+17,Saturday,16613,1634,Yes,Yes,Easter Holiday,,Type B,Extra
+14,Sunday,7447,1212,Yes,Yes,Public Holiday,Yes,Type B,Extended
+31,Wednesday,6499,1478,Yes,No,None,Yes,Type A,Extended
+24,Tuesday,7273,727,,No,None,Yes,Type A,
+99,Wednesday,2299,1475,Yes,Yes,None,Yes,Type D,
+60,Monday,7701,788,Yes,Yes,None,Yes,Type A,Extra
+45,Monday,5994,1137,Yes,No,None,No,,Extended
+98,Friday,16627,1380,Yes,Yes,None,Yes,Type C,Extended
+3,Sunday,,1332,Yes,No,,Yes,Type A,Extended
+37,Monday,9269,380,Yes,Yes,None,Yes,Type A,Basic
+43,Wednesday,3831,542,Yes,Yes,None,Yes,Type C,Basic
+40,Thursday,12602,,Yes,Yes,None,Yes,Type B,Extended
+,Thursday,12819,,Yes,No,None,Yes,Type D,Basic
+55,Friday,18916,488,Yes,Yes,None,Yes,Type D,Extra
+87,Saturday,2996,716,Yes,Yes,None,Yes,Type B,Basic
+,Wednesday,12619,1606,Yes,Yes,None,Yes,Type D,
+15,Wednesday,17661,246,Yes,Yes,None,Yes,Type A,Extra
+4,Monday,4089,1402,Yes,Yes,None,Yes,Type A,Basic
+93,Sunday,1523,620,Yes,Yes,None,Yes,Type A,Extended
+86,Wednesday,13410,729,Yes,Yes,None,No,Type D,Extra
+25,Tuesday,16732,1729,Yes,,None,Yes,Type B,Extra
+13,Saturday,9167,533,Yes,Yes,None,Yes,Type A,Extra
+82,Monday,6190,243,Yes,Yes,Easter Holiday,,Type B,Basic
+33,Tuesday,5575,388,Yes,Yes,,Yes,Type C,Extra
+,Friday,8727,1509,Yes,Yes,None,Yes,Type C,Basic
+42,Thursday,,,Yes,Yes,None,No,Type C,Extended
+66,Friday,2797,,Yes,Yes,None,Yes,,Basic
+55,Thursday,,,Yes,Yes,None,Yes,Type D,Basic
+99,,15900,1821,Yes,Yes,None,No,Type A,Extended
+42,Wednesday,18199,1468,Yes,Yes,,Yes,Type C,
+34,Tuesday,12332,1523,Yes,Yes,None,Yes,Type B,Basic
+30,Thursday,7666,1330,Yes,Yes,None,Yes,Type D,Extended
+,Monday,17526,957,Yes,No,None,Yes,Type B,Extra
+13,Tuesday,13479,1042,Yes,No,None,,Type B,Extended
+18,Monday,2410,1295,Yes,Yes,None,Yes,Type A,Extra
+32,,13665,563,Yes,Yes,None,Yes,Type A,Basic
+96,Tuesday,1534,,Yes,No,None,Yes,Type B,Extended
+99,Friday,4364,1344,Yes,,None,Yes,Type B,Extra
+39,Thursday,18416,1275,Yes,Yes,None,No,,Basic
+46,Thursday,4342,722,,,None,Yes,Type B,Basic
+,,14465,1306,Yes,Yes,None,No,Type C,Basic
+62,Tuesday,5500,1522,No,Yes,,No,Type B,
+,,,1974,Yes,Yes,None,Yes,Type D,Extra
+62,Wednesday,9007,171,Yes,Yes,None,Yes,Type A,Extra
+57,Monday,2641,1541,Yes,No,Easter Holiday,Yes,Type D,Basic
+16,Monday,17855,1406,Yes,Yes,None,Yes,Type A,Extra
+56,Friday,9738,173,,Yes,None,Yes,Type A,Extended
+10,Tuesday,5726,454,Yes,Yes,Easter Holiday,,Type A,Extra
+30,Monday,12789,1850,Yes,Yes,None,Yes,Type D,Extra
+25,Monday,12017,596,,Yes,Easter Holiday,Yes,Type A,Basic
+84,Saturday,1363,1451,Yes,Yes,None,Yes,Type B,Extended
+5,Tuesday,11358,1087,Yes,,,Yes,Type B,Extended
+65,Friday,,1658,,Yes,None,Yes,Type C,
+94,Monday,17929,679,,No,Christmas,Yes,Type C,Extra
+49,Friday,4240,1009,Yes,Yes,,No,Type C,Basic
+3,Thursday,7665,1570,Yes,Yes,None,Yes,Type B,
+45,Friday,13921,472,Yes,Yes,None,Yes,Type D,Basic
+14,Wednesday,2936,461,Yes,Yes,None,Yes,,Extended
+30,Wednesday,14968,192,,Yes,None,Yes,Type B,Extra
+68,Friday,12197,1444,No,Yes,Public Holiday,No,Type A,Basic
+18,Wednesday,,423,Yes,Yes,None,Yes,Type D,Extra
+62,Thursday,1882,483,Yes,Yes,None,No,Type D,Basic
+37,Tuesday,,674,Yes,No,Christmas,Yes,Type B,Extended
+25,Wednesday,14708,835,Yes,Yes,Easter Holiday,Yes,Type B,Extra
+48,Wednesday,6204,836,Yes,Yes,None,No,Type A,Extended
+65,Friday,8288,445,Yes,Yes,None,Yes,Type A,Extra
+,Thursday,4203,1972,Yes,No,Christmas,Yes,Type A,Extra
+,Sunday,3244,1226,Yes,Yes,None,Yes,Type D,Basic
+73,Sunday,1018,1338,,Yes,None,Yes,,Basic
+15,,18025,1315,Yes,,None,Yes,Type C,Basic
+49,Sunday,4083,1795,Yes,Yes,Easter Holiday,Yes,Type C,Extended
+88,Tuesday,9521,818,Yes,Yes,None,No,Type C,Extended
+68,Friday,18249,880,Yes,Yes,None,Yes,Type D,Extra
+12,Friday,1773,1119,,,None,No,Type A,Basic
+59,Saturday,5732,,No,No,Easter Holiday,Yes,Type C,Extended
+37,Thursday,7795,1503,Yes,No,,Yes,Type A,Extra
+61,Sunday,7984,1526,,,None,No,Type A,Extended
+43,Tuesday,,763,Yes,No,,Yes,Type A,Extra
+70,Thursday,17121,,Yes,Yes,Easter Holiday,No,Type C,Basic
+39,Sunday,2674,699,Yes,No,None,Yes,Type C,Extra
+56,Tuesday,11875,110,,,None,Yes,Type A,Extra
+,Thursday,12572,286,Yes,Yes,Christmas,No,Type C,Basic
+46,Friday,1739,825,,Yes,None,No,Type B,Basic
+88,Friday,2545,1138,Yes,Yes,,Yes,Type C,Extra
+11,Monday,10327,877,Yes,No,Easter Holiday,Yes,Type A,
+62,,6127,1420,Yes,Yes,None,Yes,Type A,Basic
+77,,10065,510,Yes,Yes,None,No,Type D,Extra
+98,Saturday,,1055,Yes,Yes,,Yes,Type D,Basic
+25,Thursday,14749,684,Yes,No,None,Yes,Type A,Basic
+71,Saturday,10045,1175,Yes,Yes,None,Yes,,Extended
+52,Monday,19667,1763,,Yes,None,Yes,Type D,Basic
+4,Wednesday,10521,1151,Yes,,Easter Holiday,No,Type A,Extra
+59,,9669,676,Yes,Yes,,Yes,Type D,Extra
+72,Tuesday,12283,1140,Yes,,None,,Type D,Basic
+20,Sunday,7998,1474,,Yes,None,Yes,Type A,
+93,Wednesday,14440,1551,Yes,No,None,Yes,Type C,Extended
+63,Friday,13697,1773,Yes,Yes,,Yes,Type B,Extended
+54,Monday,14733,1954,Yes,Yes,None,No,Type C,
+74,Wednesday,2269,1352,Yes,Yes,None,Yes,,Extra
+98,Sunday,8868,,Yes,Yes,None,Yes,Type A,
+57,Wednesday,13373,1088,Yes,Yes,None,Yes,Type B,Extra
+,Sunday,,1333,Yes,Yes,,No,,Extended
+41,Friday,6961,1554,Yes,Yes,None,Yes,Type D,Extra
+3,Thursday,16734,1417,Yes,No,None,Yes,Type B,Basic
+6,Tuesday,10661,842,Yes,Yes,,Yes,Type C,Extra
+5,Friday,9569,,Yes,Yes,None,,Type B,Basic
+5,Tuesday,8557,1705,Yes,Yes,None,No,Type C,Extra
+54,,19064,1227,Yes,Yes,None,Yes,Type A,Extra
+47,Wednesday,9433,303,Yes,Yes,None,Yes,Type C,Basic
+87,Tuesday,16653,1176,Yes,Yes,None,Yes,Type C,Extra
+49,Monday,10111,1073,Yes,No,None,Yes,,Extra
+9,Monday,6682,,,Yes,None,,Type B,Extended
+99,Sunday,16479,1498,,Yes,None,Yes,Type D,
+20,Friday,16047,1965,Yes,No,None,,Type C,Basic
+61,,9084,1177,Yes,Yes,None,No,,Extended
+35,Sunday,17453,,Yes,No,Easter Holiday,Yes,Type B,Extended
+,Friday,7200,1458,Yes,Yes,,Yes,Type D,Basic
+82,Friday,11278,1154,No,,None,,Type B,Basic
+62,Sunday,3007,1258,No,Yes,None,Yes,Type A,Basic
+17,Saturday,16802,,Yes,No,Easter Holiday,No,Type A,
+88,Friday,14329,,No,No,None,Yes,,Extended
+3,Saturday,3779,1389,Yes,Yes,None,Yes,Type D,Extra
+32,Monday,1755,1645,Yes,,None,,Type B,Extended
+99,Monday,7495,1619,Yes,Yes,None,Yes,Type A,
+13,Friday,11187,352,Yes,Yes,None,Yes,Type C,Extra
+89,Monday,10513,394,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+73,Thursday,19714,767,No,Yes,,Yes,Type A,Extended
+68,,18400,1281,,,None,No,Type B,Extended
+14,Saturday,8347,648,Yes,Yes,None,Yes,Type A,
+98,Friday,15249,730,Yes,Yes,None,,Type C,Basic
+11,Monday,15879,1190,Yes,,None,Yes,Type B,Extended
+56,Tuesday,15057,,,No,None,No,Type A,Extra
+,Sunday,13057,398,Yes,Yes,None,Yes,Type A,Extra
+92,Sunday,5938,1586,Yes,No,Public Holiday,Yes,Type C,Basic
+29,Saturday,,1848,Yes,Yes,None,Yes,Type C,Basic
+9,Friday,7200,1943,Yes,No,Christmas,Yes,Type A,Extended
+67,Friday,9371,200,Yes,Yes,Public Holiday,,Type A,Basic
+25,Thursday,17615,1179,No,Yes,None,Yes,Type D,Extended
+,Wednesday,19301,431,Yes,,None,Yes,Type D,Extended
+76,Wednesday,9534,935,Yes,Yes,Easter Holiday,No,,Basic
+42,Saturday,3623,1874,Yes,No,None,No,Type B,
+9,Sunday,9646,492,Yes,,None,Yes,,Extra
+79,Thursday,14543,1866,,No,,No,Type A,Basic
+40,Thursday,13817,973,Yes,Yes,,Yes,Type C,
+25,Thursday,19660,480,Yes,Yes,Christmas,,Type B,Basic
+5,Saturday,5497,191,Yes,Yes,Easter Holiday,Yes,Type A,Extra
+11,Wednesday,8933,1914,No,No,Easter Holiday,No,Type C,Extended
+59,Sunday,19519,,Yes,Yes,,Yes,Type C,Extra
+,Thursday,7727,208,,Yes,,Yes,Type A,Basic
+88,Sunday,13156,416,Yes,Yes,None,No,Type A,Basic
+79,Monday,18949,,Yes,Yes,None,,,Basic
+38,Friday,17692,1935,Yes,Yes,None,,Type D,Extended
+72,Friday,9627,1558,Yes,Yes,None,No,Type A,Extra
+5,Sunday,9368,541,Yes,No,Easter Holiday,No,Type D,Extra
+48,Tuesday,17522,317,Yes,Yes,Christmas,Yes,Type B,Extended
+90,Tuesday,17577,,Yes,,None,Yes,Type D,Extra
+18,Saturday,16577,772,Yes,Yes,None,No,Type D,Extended
+70,Saturday,14472,1651,Yes,Yes,None,Yes,,Extended
+37,Friday,1942,377,Yes,Yes,None,Yes,Type B,Extra
+60,Monday,5620,1108,Yes,,None,Yes,Type A,
+48,Wednesday,17195,668,,Yes,None,Yes,Type D,Extended
+77,Wednesday,12154,1697,Yes,No,Easter Holiday,No,Type B,Extra
+28,Saturday,,1109,Yes,Yes,,Yes,Type C,Extended
+69,,10145,974,Yes,Yes,None,Yes,Type C,
+77,Saturday,10494,565,,Yes,None,Yes,Type D,Extra
+81,Wednesday,14562,938,,No,,Yes,Type D,Extra
+40,,3880,853,Yes,Yes,None,Yes,,Extra
+45,Saturday,1545,1725,Yes,Yes,None,Yes,,Extra
+96,Thursday,15132,1707,Yes,Yes,Easter Holiday,Yes,Type A,Basic
+62,Sunday,,937,No,No,None,Yes,Type A,Basic
+93,Saturday,2927,129,Yes,Yes,None,No,Type C,Extra
+58,Friday,17388,458,Yes,,None,Yes,Type B,Extra
+67,Saturday,12673,,Yes,Yes,None,Yes,Type A,Extra
+56,,16372,185,Yes,No,None,No,Type C,Extended
+40,Monday,3663,1357,Yes,Yes,,Yes,Type D,
+98,Wednesday,16033,846,,No,None,,,Extended
+40,Sunday,10465,412,Yes,Yes,None,Yes,Type D,Basic
+91,Sunday,,464,Yes,Yes,None,Yes,Type B,Basic
+77,Tuesday,4659,,Yes,Yes,None,Yes,Type A,Extra
+33,,18515,1922,Yes,No,,Yes,Type D,Extra
+6,Wednesday,5763,1962,,Yes,,No,,Extended
+88,Tuesday,11828,1004,Yes,,None,No,Type B,Extended
+19,Sunday,15820,1392,Yes,Yes,,Yes,Type C,Extra
+80,Saturday,12221,797,Yes,No,Christmas,Yes,Type C,
+40,,12211,,Yes,Yes,None,No,Type A,Basic
+92,Monday,14569,902,Yes,Yes,None,Yes,Type D,Basic
+97,Wednesday,6092,888,Yes,Yes,None,No,Type C,Extra
+59,Tuesday,7022,1955,,Yes,Easter Holiday,Yes,Type A,Basic
+59,Saturday,13569,450,Yes,Yes,None,Yes,Type D,Extended
+48,Monday,,279,Yes,Yes,,Yes,Type A,Basic
+41,Monday,7159,1925,Yes,Yes,Christmas,Yes,Type B,Extra
+13,Thursday,14223,1603,Yes,Yes,None,Yes,Type A,Basic
+45,Thursday,9445,1286,Yes,Yes,None,,Type B,Extra
+89,Sunday,12022,1906,Yes,Yes,None,Yes,Type D,Basic
+53,,4044,1219,Yes,Yes,None,Yes,Type D,Extended
+,Wednesday,10612,873,No,Yes,None,Yes,,Extended
+63,,6636,609,Yes,,Easter Holiday,No,Type A,Extra
+,Friday,12593,464,,Yes,None,Yes,,Extra
+38,Saturday,17179,1080,Yes,No,None,Yes,Type D,Extra
+60,Monday,3892,452,Yes,No,Easter Holiday,Yes,Type B,Basic
+7,Monday,6812,,Yes,Yes,Christmas,,Type D,Basic
+5,Sunday,1654,1559,Yes,,,Yes,Type D,Basic
+45,Monday,18143,1206,Yes,Yes,None,Yes,Type D,
+58,Wednesday,2798,1348,Yes,Yes,None,Yes,Type C,Extra
+31,Thursday,6159,511,Yes,,None,Yes,Type D,Basic
+23,,12618,834,Yes,,None,Yes,Type A,Extended
+42,Monday,9446,1080,Yes,Yes,None,No,Type B,Extra
+10,Sunday,4823,217,Yes,,None,Yes,Type D,Extended
+32,Tuesday,17099,581,,Yes,None,Yes,Type A,Extra
+53,Sunday,19260,291,Yes,Yes,None,Yes,Type B,Basic
+30,Sunday,,690,Yes,Yes,None,Yes,Type B,
+39,Wednesday,,689,No,Yes,,Yes,Type A,Extended
+31,Saturday,7380,758,Yes,Yes,None,Yes,,Extended
+82,Monday,18392,206,Yes,No,None,Yes,Type C,Extra
+2,Sunday,10702,481,Yes,No,None,Yes,Type C,Extra
+78,Sunday,19892,,No,,None,Yes,Type D,Extended
+77,Tuesday,3682,489,Yes,Yes,Public Holiday,Yes,Type C,Extra
+93,Sunday,1989,343,Yes,Yes,None,,Type A,
+12,Friday,13476,684,Yes,Yes,None,Yes,,Basic
+39,Saturday,9446,968,Yes,Yes,None,Yes,Type B,
+66,Monday,5711,567,Yes,Yes,None,,Type A,Extended
+96,Monday,7479,,Yes,Yes,None,Yes,Type D,Extra
+,Tuesday,14161,1033,Yes,,,Yes,,
+,Wednesday,15635,1661,Yes,No,None,Yes,Type B,Extra
+27,Monday,9075,1333,Yes,No,None,Yes,,Basic
+17,Friday,2007,703,Yes,Yes,Christmas,,Type A,Basic
+95,Monday,8688,,Yes,Yes,None,Yes,Type A,Basic
+98,Friday,11763,1114,Yes,Yes,None,Yes,Type D,Extra
+,Saturday,4908,1196,,,None,Yes,Type C,Extended
+64,Saturday,12957,1758,No,,Christmas,Yes,Type C,
+88,Thursday,5379,1432,Yes,No,Christmas,Yes,Type C,Extended
+35,Thursday,17482,1819,Yes,Yes,None,Yes,Type C,Extra
+70,Friday,1877,,,No,None,Yes,Type B,Extra
+83,Wednesday,16585,1833,Yes,Yes,None,,Type A,Basic
+30,Monday,19252,1713,No,No,None,Yes,Type C,Extra
+71,,18772,,Yes,No,None,Yes,Type B,Extended
+74,Monday,19799,1309,Yes,Yes,None,Yes,Type A,Basic
+96,Thursday,3637,1979,Yes,Yes,Easter Holiday,Yes,,Basic
+98,Sunday,8242,1376,No,No,None,Yes,,Extra
+63,Friday,10257,112,Yes,Yes,Public Holiday,Yes,Type B,Basic
+,Sunday,9613,398,Yes,Yes,None,Yes,Type C,Basic
+60,Monday,3883,1199,Yes,Yes,None,No,Type A,Extra
+79,Monday,2204,1174,Yes,Yes,None,Yes,Type B,Basic
+94,Wednesday,17928,886,Yes,,None,Yes,Type A,
+37,Tuesday,12831,248,No,Yes,None,Yes,Type D,Extra
+93,Sunday,16464,1854,No,Yes,None,,Type D,Extended
+22,Thursday,18607,221,,Yes,Easter Holiday,No,Type B,Extended
+68,Thursday,,1334,Yes,Yes,None,Yes,Type C,Extended
+20,Tuesday,7520,1403,,Yes,None,Yes,Type C,Extended
+96,Monday,1654,637,No,Yes,None,Yes,Type A,Basic
+68,Wednesday,19830,1808,Yes,Yes,Easter Holiday,Yes,Type C,Basic
+91,Wednesday,9412,1279,Yes,Yes,None,Yes,Type C,
+64,Thursday,4666,1361,No,,None,Yes,Type D,Extra
+,Wednesday,5277,,Yes,Yes,None,Yes,Type B,Extended
+12,,19953,181,Yes,No,None,Yes,,Extended
+,Tuesday,6515,591,,Yes,Easter Holiday,Yes,Type B,Extra
+17,Monday,10205,455,Yes,No,None,Yes,Type A,Extra
+10,Saturday,16198,1024,Yes,Yes,None,Yes,Type D,
+,Tuesday,4985,,Yes,Yes,None,Yes,Type B,Extra
+22,Friday,14135,1703,Yes,Yes,None,Yes,Type C,Extended
+90,Sunday,9167,1167,Yes,Yes,None,No,Type B,Extra
+82,,8448,1104,Yes,,None,Yes,Type C,Basic
+50,Wednesday,,1696,Yes,,None,Yes,Type A,
+14,Friday,17956,222,No,Yes,None,Yes,,
+64,Wednesday,,,Yes,No,None,No,Type B,Extra
+47,Saturday,5753,807,Yes,Yes,None,,Type D,Basic
+29,Monday,8082,429,Yes,Yes,,Yes,Type B,Extra
+,Monday,5002,1532,No,,None,Yes,Type D,Basic
+36,Monday,6629,1090,Yes,Yes,Public Holiday,Yes,Type B,Extended
+99,Wednesday,13278,422,Yes,No,,Yes,Type B,Basic
+52,Friday,,1234,No,No,,Yes,Type A,
+76,Monday,,869,Yes,No,,Yes,Type C,Basic
+7,,9963,1212,No,No,,Yes,Type B,Basic
+29,Wednesday,16784,532,No,,Public Holiday,Yes,Type D,Extended
+11,Saturday,5524,809,No,Yes,None,Yes,Type C,Extended
+33,,4407,893,Yes,Yes,None,Yes,Type A,Extra
+6,Saturday,7731,811,,No,None,No,Type C,Extended
+79,Wednesday,8795,,Yes,No,None,Yes,Type B,
+32,Wednesday,12332,638,Yes,Yes,None,Yes,Type D,Extra
+51,Thursday,3911,700,,Yes,None,Yes,,Extended
+75,,19799,,,No,Easter Holiday,Yes,Type C,Extended
+58,Wednesday,17634,1817,Yes,Yes,None,Yes,Type D,
+87,Tuesday,16194,356,Yes,No,None,Yes,Type B,
+26,Monday,5951,1312,Yes,Yes,None,,Type D,Extra
+98,Thursday,9098,1363,Yes,Yes,None,,Type D,Basic
+46,Sunday,17117,970,Yes,Yes,Easter Holiday,No,Type D,Extra
+98,Thursday,,998,Yes,Yes,None,No,Type B,Basic
+,,6565,1626,Yes,Yes,None,,Type A,Extended
+4,Sunday,2173,1831,Yes,Yes,None,,Type D,Extra
+,Tuesday,9624,908,Yes,No,,Yes,Type A,Extended
+99,,,776,Yes,Yes,None,Yes,Type C,Extra
+13,Wednesday,14256,1942,Yes,No,Christmas,,Type C,
+39,Monday,1835,370,Yes,Yes,None,Yes,Type B,
+15,Friday,19646,1643,Yes,No,None,Yes,,Extra
+29,Sunday,12824,649,Yes,,Easter Holiday,No,Type B,Extended
+29,,5567,1237,Yes,Yes,None,,Type B,Basic
+75,,4815,1462,Yes,Yes,None,Yes,Type A,Extra
+32,Wednesday,17630,667,Yes,Yes,None,No,Type B,Basic
+2,Tuesday,3429,1085,No,No,None,Yes,,Basic
+47,Sunday,10182,458,Yes,Yes,,No,Type D,Basic
+78,Wednesday,10118,1773,No,Yes,None,Yes,Type D,
+84,Wednesday,12630,1737,Yes,No,None,No,Type C,Basic
+22,Tuesday,3607,1457,Yes,Yes,None,Yes,Type C,Basic
+,Thursday,6930,1812,Yes,No,None,,Type A,Extra
+27,Thursday,5022,1292,Yes,Yes,None,Yes,Type B,Basic
+67,Monday,12991,1462,Yes,No,None,No,Type C,Extra
+81,Monday,,897,Yes,Yes,None,Yes,Type A,Extra
+56,Thursday,4151,1384,Yes,No,None,Yes,Type C,Extra
+92,Saturday,6580,986,Yes,,None,Yes,Type B,Extended
+93,Friday,8054,1858,Yes,Yes,None,,Type A,Basic
+21,Wednesday,,1322,Yes,Yes,None,Yes,Type C,Extended
+47,Friday,16823,310,No,Yes,None,Yes,,Basic
+80,,14247,,Yes,Yes,None,Yes,Type A,Extended
+59,Thursday,,1815,,Yes,None,Yes,Type A,Extra
+84,Monday,16339,1885,Yes,Yes,None,Yes,Type A,Extended
+6,Saturday,4491,842,Yes,,None,Yes,Type D,Extra
+19,,,1595,Yes,Yes,None,Yes,Type A,Extended
+57,,16728,1605,Yes,No,None,Yes,Type C,Basic
+69,Monday,7997,1146,Yes,Yes,Easter Holiday,No,Type A,Basic
+3,Thursday,6233,1683,No,Yes,None,Yes,Type A,Extended
+1,Saturday,6755,1232,Yes,No,,Yes,Type A,Extended
+58,Friday,18718,395,No,No,None,Yes,Type A,Basic
+,,19231,,No,Yes,Easter Holiday,Yes,Type A,Extended
+15,Wednesday,,649,Yes,Yes,None,No,Type D,Extended
+34,Monday,13126,780,Yes,,None,Yes,Type B,Basic
+61,,8865,1991,Yes,Yes,Easter Holiday,No,,
+35,Tuesday,,894,Yes,Yes,None,Yes,Type C,Basic
+64,Monday,4317,302,Yes,Yes,None,Yes,Type B,Basic
+25,,13212,424,Yes,Yes,None,Yes,Type C,Extended
+24,Saturday,12347,924,Yes,Yes,None,No,Type A,Basic
+12,Friday,11390,1908,Yes,No,None,No,Type C,
+,Wednesday,15863,343,Yes,No,None,Yes,Type D,Extended
+15,,17548,426,Yes,Yes,None,Yes,Type D,Extended
+80,Saturday,8060,1086,Yes,Yes,None,Yes,Type A,Extra
+27,Sunday,16504,1170,Yes,Yes,Easter Holiday,,,Basic
+72,Sunday,4057,860,Yes,No,None,Yes,Type B,Extra
+60,Thursday,,1714,Yes,Yes,None,,Type D,Extra
+46,Monday,1402,,Yes,Yes,None,Yes,Type D,Extra
+89,Friday,9605,,,Yes,Easter Holiday,Yes,,Extra
+17,Thursday,16761,1006,Yes,Yes,None,Yes,Type D,Basic
+93,Saturday,1867,1503,Yes,,Easter Holiday,No,Type B,Basic
+53,Sunday,14779,,Yes,No,None,Yes,Type D,Basic
+8,Sunday,16155,1725,Yes,Yes,None,Yes,Type C,
+,Sunday,9210,1465,Yes,Yes,None,Yes,Type C,Extended
+27,Saturday,1364,1983,Yes,Yes,None,Yes,Type B,Basic
+46,Sunday,16366,,Yes,Yes,None,Yes,Type B,
+50,Wednesday,7571,1344,Yes,Yes,None,No,Type A,Extra
+71,Saturday,17963,172,Yes,Yes,None,Yes,Type D,Extra
+3,Friday,15017,1869,Yes,Yes,None,Yes,Type C,Extra
+,Thursday,7468,,,No,None,Yes,Type A,
+64,Friday,5150,1748,Yes,No,None,Yes,Type D,Extra
+44,Tuesday,14065,1169,Yes,,None,No,Type C,Basic
+,,5137,1627,Yes,No,None,Yes,Type D,
+,Tuesday,13236,373,Yes,No,None,Yes,Type B,
+60,Monday,17836,1678,,Yes,Easter Holiday,Yes,Type C,Basic
+3,Monday,,307,Yes,Yes,None,Yes,Type C,Extra
+20,Tuesday,14833,1984,Yes,Yes,,Yes,Type A,Basic
+46,Saturday,2381,1738,Yes,Yes,None,No,,Extended
+15,Friday,9154,,Yes,No,None,Yes,Type B,
+25,Tuesday,2467,,Yes,Yes,None,Yes,Type B,Extra
+94,Monday,14439,,Yes,Yes,None,Yes,Type D,Extended
+78,Tuesday,18264,,Yes,,None,No,Type D,
+,Saturday,13006,642,Yes,,Public Holiday,Yes,Type B,Extended
+17,Tuesday,4149,1791,Yes,Yes,None,Yes,Type D,Extended
+84,,8892,159,No,Yes,None,Yes,Type A,Basic
+9,Thursday,17136,1884,Yes,Yes,None,Yes,,Extended
+38,Saturday,2168,,,No,None,Yes,Type A,Extra
+48,Monday,13356,985,Yes,No,None,No,Type A,Extended
+60,Friday,4129,881,,No,None,Yes,Type D,Extended
+63,Tuesday,16032,541,Yes,No,Christmas,,Type C,Basic
+86,Tuesday,3526,1340,No,No,None,,Type C,Extra
+2,Thursday,,1010,Yes,Yes,Christmas,Yes,,Extra
+88,Monday,4516,,Yes,Yes,None,Yes,Type D,Extra
+72,Monday,11386,1659,Yes,Yes,None,Yes,Type A,Basic
+11,Wednesday,4555,1841,Yes,,Easter Holiday,No,Type D,Extended
+64,Monday,17012,931,No,Yes,None,Yes,Type D,Extra
+77,Thursday,15157,,Yes,No,None,,Type B,Extended
+81,Sunday,6111,1834,Yes,Yes,,Yes,Type C,
+72,Wednesday,7752,1479,,Yes,None,Yes,Type C,Extended
+21,Wednesday,17829,725,Yes,Yes,None,Yes,Type B,Basic
+18,Tuesday,7364,1915,Yes,Yes,Easter Holiday,No,Type B,Extended
+94,Tuesday,4626,1790,Yes,No,None,Yes,Type B,Basic
+64,Monday,4875,1288,Yes,Yes,,Yes,Type A,
+82,Wednesday,6497,1097,,Yes,None,Yes,Type A,Basic
+95,Tuesday,16979,833,Yes,Yes,None,Yes,Type A,Extra
+38,Thursday,12529,190,Yes,No,None,Yes,Type A,
+32,Tuesday,17645,266,Yes,Yes,None,Yes,Type A,Extra
+11,Saturday,14382,1058,Yes,Yes,None,Yes,Type C,Basic
+45,Saturday,,306,Yes,No,,,Type C,Basic
+89,Tuesday,11458,1405,Yes,Yes,Easter Holiday,No,Type D,Basic
+33,Wednesday,14844,1188,,Yes,None,Yes,Type C,Basic
+41,,,615,Yes,Yes,,No,Type B,
+8,Sunday,10174,,Yes,No,None,Yes,Type C,Extended
+11,Wednesday,4443,1884,Yes,Yes,None,,Type B,Basic
+86,Friday,11725,1892,Yes,Yes,Easter Holiday,Yes,Type C,Extended
+51,Sunday,1693,846,,Yes,None,No,Type A,Extra
+88,Saturday,,405,No,Yes,None,Yes,Type C,Extended
+41,Thursday,12780,494,Yes,Yes,None,Yes,Type D,Extended
+17,Wednesday,19196,1197,Yes,Yes,None,,Type A,Extended
+,Monday,14841,286,Yes,Yes,None,Yes,Type A,Basic
+46,Saturday,15254,1697,Yes,Yes,None,Yes,Type D,Extra
+32,,,1460,Yes,Yes,None,No,Type C,Basic
+79,,14368,1799,Yes,Yes,None,Yes,Type C,Extra
+80,Wednesday,6724,1691,Yes,,None,Yes,Type D,Basic
+54,Thursday,2407,722,Yes,,None,Yes,Type A,Extended
+86,Wednesday,9032,829,Yes,Yes,Easter Holiday,Yes,Type D,Extra
+92,Sunday,15572,339,Yes,No,None,No,Type B,Extended
+20,Tuesday,,632,Yes,Yes,None,,Type B,Extra
+33,,8394,240,Yes,Yes,Easter Holiday,,Type C,Extra
+74,Friday,17935,1388,Yes,Yes,None,Yes,,Basic
+,Tuesday,12586,238,Yes,Yes,None,Yes,Type B,Basic
+32,Saturday,13926,558,Yes,No,None,Yes,Type D,Extended
+,Wednesday,1997,169,No,,Easter Holiday,Yes,Type C,Extended
+,Saturday,15390,484,Yes,Yes,None,,Type C,Extra
+97,Sunday,7099,729,Yes,Yes,None,Yes,Type A,Extra
+33,,14509,,Yes,Yes,None,Yes,Type B,Basic
+77,Tuesday,6490,304,Yes,Yes,None,Yes,,Basic
+,Monday,,1849,No,Yes,Public Holiday,Yes,Type D,Basic
+33,Monday,,667,Yes,No,,Yes,Type B,Basic
+77,Saturday,3248,1922,Yes,No,None,Yes,,Basic
+26,Monday,18232,1081,Yes,Yes,,No,Type C,Extra
+22,Wednesday,11748,904,,Yes,None,Yes,Type B,Extra
+66,Thursday,11514,1810,Yes,No,Christmas,Yes,Type B,Extended
+,Wednesday,9695,,Yes,Yes,None,Yes,Type A,
+90,Thursday,9070,981,Yes,,,Yes,Type D,Basic
+46,Tuesday,9894,1073,Yes,No,None,Yes,Type A,Extra
+15,Friday,,739,,Yes,None,Yes,Type A,Extra
+,Thursday,16123,1554,Yes,Yes,None,Yes,Type D,Extra
+44,,3376,424,,Yes,None,No,Type D,Extended
+,Wednesday,5378,541,Yes,Yes,Easter Holiday,No,Type A,
+75,Tuesday,12182,903,Yes,No,,Yes,,Extra
+,Monday,1574,387,,Yes,None,Yes,Type D,Extra
+67,,14330,325,Yes,No,None,Yes,Type A,Basic
+6,Friday,9949,1187,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+9,Sunday,6670,1066,Yes,Yes,None,No,Type C,
+,,7567,1037,Yes,Yes,None,Yes,Type B,Basic
+73,Saturday,13716,659,Yes,Yes,None,No,Type A,Extra
+95,Wednesday,7117,813,Yes,Yes,None,Yes,Type D,Extra
+32,Friday,8837,597,Yes,Yes,Easter Holiday,Yes,,Extra
+41,Wednesday,17587,948,No,No,None,Yes,Type B,Basic
+76,Saturday,15531,1025,No,No,,Yes,Type B,Basic
+8,Thursday,19376,159,Yes,Yes,Public Holiday,Yes,Type D,Basic
+72,Tuesday,19627,1520,Yes,Yes,None,,Type D,Extra
+50,Saturday,9498,356,Yes,No,None,Yes,Type B,Extra
+92,Monday,19071,676,Yes,Yes,None,Yes,Type B,Extra
+62,Friday,5109,338,Yes,Yes,None,Yes,Type A,
+84,Thursday,,1924,Yes,No,,Yes,Type D,Basic
+62,Monday,18106,137,Yes,,None,Yes,Type B,Extended
+,Monday,14521,124,Yes,Yes,,,Type D,Extra
+75,Friday,9720,509,,Yes,None,Yes,Type D,Basic
+84,Thursday,5893,560,,Yes,Easter Holiday,Yes,Type D,Extended
+80,Sunday,17727,1694,Yes,Yes,None,Yes,Type A,Basic
+,Monday,9400,1087,Yes,Yes,None,Yes,Type C,Basic
+6,Monday,,1540,Yes,No,None,Yes,Type D,Extra
+58,Thursday,11139,456,Yes,Yes,None,,Type D,Extended
+22,Wednesday,18303,482,No,Yes,None,Yes,,Basic
+26,Monday,,1932,Yes,,None,Yes,Type D,Extended
+3,Tuesday,17802,1281,Yes,No,None,Yes,Type C,Extended
+41,,,668,Yes,No,None,Yes,Type D,Extra
+60,Monday,18483,1556,Yes,,None,Yes,Type A,Extended
+14,Friday,4392,1171,Yes,Yes,None,Yes,Type B,Extra
+75,,11672,1451,Yes,No,None,Yes,Type C,Extra
+82,Tuesday,15444,532,Yes,Yes,None,Yes,Type A,Extra
+12,Saturday,7784,1554,Yes,Yes,,No,Type C,Extended
+87,Saturday,,155,,Yes,None,Yes,Type B,Basic
+12,Monday,2070,676,Yes,Yes,None,Yes,Type D,Extra
+13,Tuesday,2850,367,No,No,None,Yes,Type B,Basic
+25,Tuesday,13390,168,Yes,Yes,,Yes,Type B,Extended
+45,Wednesday,3939,1851,Yes,Yes,None,Yes,Type D,Basic
+19,Saturday,11095,1001,Yes,Yes,None,Yes,Type A,Basic
+55,Tuesday,,1724,,Yes,None,Yes,Type C,Extra
+45,Wednesday,,1572,Yes,Yes,None,Yes,Type A,Extra
+8,Thursday,6851,892,Yes,Yes,None,Yes,Type D,Extra
+93,Wednesday,17378,356,,Yes,Christmas,Yes,Type C,Extended
+,Friday,1678,771,Yes,Yes,None,No,Type D,Basic
+55,Sunday,1988,589,Yes,No,Easter Holiday,Yes,Type A,Extended
+32,Monday,2502,845,Yes,No,None,Yes,Type B,Extended
+51,Thursday,19173,1766,Yes,No,None,Yes,Type C,Extended
+44,Sunday,17198,148,,No,None,No,Type D,
+82,Sunday,18809,1782,No,Yes,None,Yes,Type C,Extra
+70,Thursday,16867,415,Yes,No,None,Yes,Type C,Basic
+18,Friday,15266,512,Yes,Yes,Christmas,Yes,,Extra
+83,Wednesday,7654,533,Yes,No,None,Yes,Type B,Extra
+22,Monday,3440,1125,Yes,Yes,None,Yes,Type C,Extended
+37,Wednesday,,1964,Yes,,None,Yes,Type A,Extra
+96,Tuesday,8367,1268,Yes,,Easter Holiday,,Type C,Basic
+,Wednesday,14490,1489,Yes,Yes,Easter Holiday,,Type B,Extended
+59,Thursday,3594,519,Yes,Yes,None,Yes,Type C,Extra
+,Monday,19820,1696,Yes,Yes,None,Yes,Type B,Extended
+28,Wednesday,6517,1908,Yes,,Public Holiday,Yes,Type A,Basic
+74,Monday,10219,1684,Yes,Yes,None,Yes,Type A,Extended
+35,Monday,7310,943,Yes,Yes,None,Yes,Type B,Extra
+61,Tuesday,4539,,Yes,No,None,Yes,Type B,Extra
+93,Tuesday,15744,1015,Yes,Yes,None,Yes,Type A,Basic
+54,Thursday,19625,533,,Yes,None,Yes,Type B,Basic
+63,Friday,,742,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+79,Sunday,10365,1678,Yes,Yes,None,Yes,,Extra
+97,Monday,,156,Yes,No,None,No,Type C,
+7,Friday,5911,1685,No,No,None,Yes,Type A,Basic
+76,Sunday,1403,1063,Yes,No,,Yes,Type A,Extra
+49,Sunday,14180,1076,Yes,Yes,,Yes,Type D,Basic
+94,Thursday,5163,1301,Yes,Yes,None,Yes,Type B,
+85,,17471,1416,Yes,Yes,None,Yes,Type B,
+,Sunday,15336,145,Yes,No,None,Yes,Type B,Basic
+,Monday,6470,1293,Yes,Yes,None,Yes,Type A,Extra
+61,Monday,,1394,,Yes,None,Yes,Type D,Extra
+24,Saturday,,516,Yes,Yes,None,Yes,Type C,Extended
+20,Friday,6739,,No,Yes,None,No,Type D,
+37,Wednesday,,238,Yes,No,None,Yes,Type A,Basic
+4,Tuesday,15993,346,Yes,Yes,None,Yes,Type C,Extended
+92,Wednesday,,1271,Yes,Yes,None,Yes,Type B,Extended
+20,Friday,14419,329,No,Yes,None,Yes,Type D,Basic
+60,Tuesday,15457,891,Yes,,None,Yes,Type D,
+24,,3064,,Yes,Yes,None,Yes,Type A,Basic
+50,Saturday,6315,1827,Yes,Yes,,No,Type D,Extended
+49,Tuesday,11566,473,Yes,Yes,None,Yes,Type C,Basic
+51,Monday,1317,1203,Yes,Yes,Christmas,Yes,Type D,Extra
+96,Wednesday,18886,1729,Yes,No,None,Yes,Type A,Extra
+,Tuesday,7130,837,Yes,Yes,None,Yes,Type D,Extended
+98,Saturday,8419,1188,No,No,None,Yes,Type C,
+66,Sunday,3042,187,Yes,Yes,None,Yes,Type C,Extra
+79,Tuesday,5598,1211,No,No,None,No,Type A,Basic
+,Tuesday,11214,812,No,No,None,Yes,Type B,Extended
+36,Saturday,1118,,Yes,Yes,None,No,Type A,Extra
+6,Sunday,1709,1327,Yes,,None,Yes,Type B,Extended
+,Wednesday,,1505,Yes,Yes,Christmas,Yes,Type C,Extra
+42,Thursday,13601,700,Yes,Yes,None,Yes,Type D,Extra
+58,Wednesday,,1599,Yes,,None,Yes,Type D,Extra
+12,Sunday,9061,1696,Yes,Yes,None,Yes,Type C,Basic
+,Friday,9609,1906,Yes,No,None,Yes,Type A,Extended
+,Saturday,3603,1729,Yes,Yes,None,,Type D,Basic
+40,Wednesday,13046,1942,Yes,No,None,Yes,Type A,Basic
+21,Tuesday,18485,,No,Yes,None,Yes,Type D,Extra
+15,,8857,313,Yes,Yes,None,Yes,Type B,Basic
+97,Monday,12620,173,No,,None,Yes,Type D,Extended
+99,Sunday,9177,160,Yes,Yes,None,Yes,Type B,Extended
+26,Wednesday,19645,797,Yes,Yes,None,No,,Extra
+8,,12826,1666,Yes,No,None,Yes,Type D,Extra
+94,Wednesday,14890,1342,Yes,No,,Yes,Type D,Extended
+87,Saturday,17892,111,Yes,Yes,None,Yes,Type D,
+42,Tuesday,19763,913,Yes,Yes,None,Yes,Type D,
+44,Monday,14830,1538,Yes,Yes,None,Yes,,Basic
+14,Monday,10484,131,Yes,Yes,Christmas,Yes,Type B,Extended
+78,,6495,1283,Yes,Yes,None,Yes,,Extra
+2,Saturday,12267,1100,Yes,Yes,Christmas,No,Type D,Extra
+37,Wednesday,8398,336,Yes,Yes,None,Yes,Type A,Extended
+,Monday,7743,1862,Yes,,None,Yes,Type A,Extra
+38,,6171,1304,No,No,None,Yes,Type C,Extended
+41,,17005,1952,Yes,Yes,None,Yes,Type C,Extra
+62,Thursday,17708,657,No,Yes,None,Yes,,Extra
+60,Thursday,,1464,Yes,,None,Yes,Type C,Basic
+14,Monday,11962,1581,Yes,Yes,Christmas,No,Type B,
+89,Saturday,11775,1203,Yes,Yes,None,Yes,,Extended
+84,Friday,4557,746,Yes,Yes,None,No,,Extended
+2,Monday,4587,1895,Yes,Yes,None,,Type A,Basic
+70,Tuesday,17535,1086,Yes,,None,No,Type C,Extended
+17,Wednesday,1954,919,,No,None,Yes,Type A,Extra
+89,Friday,14794,1882,Yes,No,None,Yes,,
+28,,1687,572,Yes,Yes,None,Yes,Type B,Extended
+66,,,1794,Yes,Yes,None,Yes,Type C,Extra
+35,Tuesday,16138,1838,Yes,Yes,None,No,,Basic
+5,Wednesday,10694,211,Yes,,None,,Type A,Extra
+65,Wednesday,4127,1415,Yes,,,Yes,Type D,Extended
+40,Thursday,13760,1945,No,Yes,Easter Holiday,Yes,Type B,Extended
+76,Saturday,12559,1754,Yes,Yes,Easter Holiday,Yes,Type C,Extended
+,Tuesday,15796,482,,Yes,None,Yes,Type C,Extended
+36,Thursday,4395,116,No,Yes,None,Yes,Type A,Basic
+45,,1845,592,Yes,,None,Yes,Type B,Extended
+23,Thursday,,1454,Yes,Yes,None,Yes,,Basic
+47,Wednesday,13954,1025,Yes,Yes,None,Yes,Type A,Basic
+31,Friday,,1862,Yes,Yes,Easter Holiday,Yes,Type C,
+11,Sunday,14731,1996,Yes,Yes,None,Yes,,Extended
+10,Thursday,,,,No,None,Yes,Type A,Extra
+67,Tuesday,19256,1529,Yes,,None,Yes,Type D,Extra
+,Tuesday,19408,216,Yes,,Christmas,No,,Extra
+80,Sunday,3817,1678,No,Yes,Easter Holiday,,,
+74,Saturday,4832,979,Yes,No,None,No,Type D,Extra
+93,Wednesday,13467,214,Yes,Yes,None,Yes,Type D,
+10,Tuesday,9257,1918,Yes,Yes,None,Yes,Type B,Extra
+76,Monday,,1672,Yes,Yes,None,Yes,Type B,Basic
+94,Friday,13458,913,Yes,,,,Type C,Basic
+1,Thursday,11713,1748,Yes,Yes,None,Yes,Type B,Extended
+5,Saturday,3581,1670,Yes,Yes,None,Yes,,Basic
+20,,10582,743,Yes,No,None,No,Type D,Extra
+8,Friday,19870,1459,,No,None,,,Basic
+43,Wednesday,9418,435,Yes,No,None,,Type B,Extra
+,Saturday,,1021,,Yes,,Yes,Type D,Extended
+1,Thursday,15419,1863,Yes,No,None,Yes,Type A,Basic
+57,Thursday,12814,246,No,Yes,None,Yes,Type D,Basic
+64,Sunday,,221,Yes,Yes,None,Yes,Type A,Basic
+84,Monday,11024,180,Yes,No,Easter Holiday,Yes,Type D,Extended
+28,Sunday,11932,784,Yes,Yes,None,,,Extended
+37,Wednesday,8435,,Yes,Yes,None,No,Type C,Basic
+,Saturday,2548,,Yes,Yes,None,Yes,Type B,Extended
+76,Saturday,6065,474,Yes,,None,Yes,Type B,Extra
+37,Tuesday,4407,1693,Yes,No,Public Holiday,Yes,Type D,Extended
+49,Monday,1639,162,,Yes,,Yes,Type D,
+,Monday,1172,603,Yes,Yes,None,Yes,Type B,Extra
+56,Saturday,6666,767,Yes,Yes,Christmas,Yes,Type B,Basic
+28,Saturday,5354,548,,No,None,Yes,Type D,Basic
+79,Friday,11109,1551,Yes,Yes,None,Yes,Type D,Basic
+6,Friday,3886,967,Yes,Yes,None,Yes,Type D,Extended
+61,Friday,3164,1550,Yes,No,None,Yes,Type C,Basic
+20,Monday,4945,1544,Yes,Yes,None,No,Type A,Extra
+78,Tuesday,11401,1445,Yes,Yes,None,Yes,Type A,Extra
+2,Thursday,8746,779,Yes,No,,Yes,Type B,Extra
+,Friday,12975,1289,Yes,Yes,None,Yes,Type C,Basic
+37,Tuesday,19974,1720,No,No,,Yes,Type D,Extra
+20,Sunday,8754,1772,Yes,Yes,,No,Type D,Extra
+26,Wednesday,16596,560,No,No,Easter Holiday,No,Type B,Extra
+,Friday,6185,558,Yes,No,,Yes,Type B,Extra
+1,Sunday,2093,1312,Yes,Yes,,,Type C,
+35,Thursday,4880,563,Yes,Yes,None,No,Type A,Basic
+70,Wednesday,11686,1011,Yes,No,,,Type A,Basic
+,Wednesday,11771,478,Yes,Yes,None,No,Type D,Extra
+69,Thursday,11680,1125,,Yes,Christmas,Yes,,Basic
+33,Friday,3785,1741,Yes,Yes,Christmas,Yes,Type C,Extra
+51,Monday,15799,463,Yes,,None,Yes,Type D,
+78,Thursday,17280,171,No,No,None,Yes,Type A,Extra
+,Thursday,7539,1550,,,None,No,Type A,Basic
+20,Thursday,18958,737,No,Yes,None,Yes,Type C,Extended
+53,Wednesday,17016,1293,Yes,,None,No,,Basic
+88,Tuesday,15730,1328,,No,None,,Type C,Basic
+43,Sunday,,1948,Yes,Yes,None,Yes,Type D,Extended
+98,,9060,436,Yes,,None,Yes,Type A,Basic
+89,Friday,4990,1595,Yes,No,Easter Holiday,No,Type B,Extended
+50,Friday,18573,294,Yes,Yes,None,Yes,,Extra
+29,Sunday,5095,1793,Yes,No,None,Yes,Type A,Extended
+,Tuesday,,,Yes,Yes,,Yes,Type B,Extra
+39,Thursday,19259,,Yes,Yes,None,Yes,Type B,Extended
+95,Monday,10979,1398,Yes,Yes,None,,Type D,Extra
+56,Friday,6408,,Yes,No,None,,Type C,Basic
+43,Sunday,14937,1004,Yes,No,Public Holiday,Yes,Type D,Extended
+,Saturday,3833,1078,Yes,Yes,None,Yes,Type C,Basic
+23,Sunday,6285,665,No,Yes,None,Yes,Type C,Extra
+44,Friday,10589,715,Yes,Yes,Public Holiday,Yes,Type B,Extended
+38,,15708,1977,,No,None,Yes,Type C,Extended
+84,,15116,,No,No,None,No,Type C,Extended
+23,Tuesday,8645,672,Yes,Yes,None,Yes,Type A,Basic
+45,,13018,698,Yes,Yes,None,Yes,Type C,Extra
+52,Tuesday,11889,869,Yes,Yes,,No,Type A,Basic
+80,Tuesday,5777,1301,Yes,Yes,None,Yes,Type D,Extended
+50,Sunday,16994,,Yes,Yes,None,Yes,Type B,Extra
+,Monday,3735,1326,Yes,No,None,Yes,Type C,Extra
+85,Monday,14611,1666,Yes,Yes,None,Yes,Type A,
+1,Friday,7368,1924,,Yes,None,Yes,Type D,Basic
+8,Friday,18205,1585,Yes,Yes,Christmas,No,Type D,Extended
+29,Monday,1162,1203,,Yes,None,Yes,Type D,Extended
+96,Saturday,8777,,Yes,Yes,None,Yes,Type A,Extended
+5,Wednesday,15849,,No,Yes,Easter Holiday,Yes,Type A,Extended
+86,Friday,19316,865,,Yes,,Yes,Type B,
+47,Wednesday,4535,483,Yes,No,Public Holiday,,,Extended
+34,Sunday,14403,490,,Yes,Christmas,Yes,Type D,Extended
+65,Saturday,15516,995,Yes,No,None,Yes,Type B,Extended
+55,Monday,8959,1922,Yes,Yes,None,Yes,Type A,Basic
+90,Saturday,,787,Yes,Yes,None,No,Type B,Basic
+43,Friday,4385,1249,,Yes,None,,Type D,Basic
+74,Tuesday,1922,1617,Yes,,None,No,Type D,Extended
+30,Sunday,11367,146,,Yes,None,Yes,Type B,Extra
+82,Monday,14737,1841,Yes,Yes,None,,Type D,Extended
+17,Thursday,1564,1599,Yes,No,None,Yes,Type A,Basic
+26,Sunday,11789,718,,Yes,None,No,Type D,Basic
+8,Wednesday,3500,563,,No,None,No,Type C,Extended
+47,Saturday,7881,1910,Yes,Yes,None,No,Type C,Extra
+,Monday,4636,1972,Yes,Yes,None,No,Type D,
+91,Sunday,1223,222,Yes,Yes,Christmas,Yes,Type B,Extra
+72,Saturday,7297,1597,Yes,No,None,Yes,Type D,Basic
+89,Monday,15895,233,Yes,Yes,None,Yes,Type C,Basic
+46,Friday,1350,1742,Yes,Yes,Easter Holiday,Yes,Type A,Extra
+,Sunday,,1940,Yes,Yes,None,No,Type C,Extended
+33,Friday,5732,940,Yes,Yes,None,Yes,,Extra
+1,Sunday,2017,1685,Yes,No,None,Yes,Type D,Extended
+19,Friday,19610,948,Yes,Yes,None,Yes,Type B,Basic
+31,Saturday,16229,706,Yes,,Christmas,Yes,Type D,Basic
+80,Thursday,8170,1903,No,,None,Yes,Type D,Basic
+14,Sunday,,122,,Yes,Public Holiday,Yes,Type A,Extra
+53,Sunday,7207,665,Yes,Yes,None,Yes,Type A,Extra
+,Friday,13316,865,,Yes,Public Holiday,Yes,Type A,Basic
+69,Monday,3419,1064,Yes,No,Christmas,Yes,,Basic
+90,Sunday,7240,334,Yes,No,None,Yes,,Basic
+62,Friday,2893,1095,,Yes,None,No,Type C,Extra
+92,Tuesday,14753,1182,Yes,No,None,Yes,,Extra
+,Friday,6322,1287,Yes,Yes,Easter Holiday,Yes,Type A,Basic
+64,Saturday,12232,1894,Yes,,None,Yes,Type B,Extra
+70,,18509,925,Yes,Yes,None,Yes,,Extra
+63,Tuesday,4117,315,Yes,Yes,None,Yes,Type B,
+73,Saturday,5161,1306,No,Yes,None,Yes,,Extra
+33,,16523,1692,Yes,No,None,Yes,Type C,Basic
+41,Saturday,5042,756,Yes,No,None,Yes,Type D,Basic
+89,Monday,5433,1034,Yes,Yes,Easter Holiday,No,Type A,Extra
+48,Saturday,15016,1213,Yes,Yes,None,Yes,Type C,Basic
+13,Monday,3658,410,Yes,No,None,,Type C,Basic
+73,Saturday,11910,656,Yes,Yes,None,No,Type C,Basic
+77,Wednesday,3944,1071,Yes,Yes,None,Yes,Type A,Extended
+31,Tuesday,8210,356,,,Easter Holiday,Yes,Type D,Basic
+75,Wednesday,9787,632,No,Yes,None,Yes,Type C,Basic
+68,,2986,1656,Yes,Yes,None,Yes,Type A,Extra
+98,Tuesday,11942,,Yes,No,None,,Type C,Extra
+4,Tuesday,18458,1461,Yes,No,Easter Holiday,Yes,Type C,Extended
+,,,1294,Yes,Yes,Christmas,Yes,,
+70,Thursday,4007,,Yes,No,None,No,,Basic
+98,Wednesday,1969,1748,Yes,Yes,None,Yes,Type C,Basic
+,Thursday,9772,399,Yes,Yes,None,Yes,Type B,Extra
+13,Tuesday,3824,771,Yes,,None,No,Type C,Basic
+23,Monday,2211,,Yes,Yes,None,Yes,Type B,Basic
+83,Tuesday,1229,,Yes,Yes,Christmas,Yes,Type D,Basic
+,Thursday,16774,331,,Yes,Public Holiday,Yes,Type B,Basic
+,Wednesday,,1074,Yes,No,Easter Holiday,No,Type B,Basic
+88,Saturday,4185,1960,Yes,No,None,Yes,Type B,Basic
+,Sunday,16011,,No,,None,Yes,Type B,Basic
+71,Sunday,,1629,No,Yes,None,Yes,Type D,Basic
+89,Sunday,,127,Yes,No,None,Yes,Type A,Extra
+85,Saturday,16173,1751,Yes,Yes,None,Yes,Type B,Extended
+15,Sunday,,1174,Yes,No,None,No,Type A,Basic
+,Wednesday,1969,1816,Yes,Yes,None,Yes,Type C,
+76,Saturday,15553,1383,Yes,Yes,None,,Type A,Basic
+71,,6820,690,Yes,Yes,None,Yes,Type B,Basic
+15,Saturday,15292,884,Yes,No,None,Yes,,Extended
+21,Thursday,4052,719,Yes,No,None,No,,Extra
+19,Wednesday,12609,685,Yes,Yes,None,Yes,Type D,Basic
+60,Friday,,1810,Yes,Yes,None,Yes,Type B,Extended
+93,Monday,3283,1101,Yes,No,None,No,Type A,Extended
+89,Sunday,16385,283,Yes,Yes,Public Holiday,Yes,Type C,Basic
+33,Monday,10799,1146,Yes,No,None,Yes,Type D,Basic
+49,Saturday,16620,1909,Yes,No,None,Yes,,Extra
+96,Monday,1122,228,Yes,Yes,None,No,Type D,Extra
+35,Wednesday,10472,390,Yes,Yes,None,Yes,Type B,
+44,Wednesday,4727,1955,Yes,Yes,None,,Type A,Basic
+90,Tuesday,14732,600,Yes,Yes,None,No,Type A,Extended
+11,Sunday,5958,285,,Yes,None,Yes,Type A,Extra
+99,Tuesday,1524,578,Yes,,None,Yes,Type A,Basic
+72,Monday,10079,,Yes,Yes,None,Yes,Type A,Basic
+78,Friday,9399,591,Yes,Yes,,Yes,Type B,Extra
+74,,17532,612,No,Yes,None,Yes,Type D,Basic
+66,,17821,1766,No,Yes,None,Yes,Type C,Extended
+46,,11394,1190,,No,Christmas,Yes,Type D,Extended
+9,Friday,,1928,No,Yes,,Yes,Type A,Basic
+3,Saturday,12353,566,Yes,Yes,None,No,Type D,Extra
+85,Monday,15009,384,Yes,No,Easter Holiday,Yes,Type D,Extended
+26,,12437,700,,Yes,None,,Type B,
+72,Friday,6336,1540,Yes,,None,Yes,Type C,Extra
+48,Sunday,5551,1223,Yes,Yes,None,No,Type C,Extra
+66,Friday,,,,No,None,Yes,Type A,
+70,Monday,13916,1088,Yes,Yes,None,Yes,Type B,Extended
+28,Friday,16167,989,Yes,No,None,Yes,Type B,
+93,Friday,9677,1981,Yes,No,None,Yes,Type B,Extra
+26,Friday,,487,Yes,Yes,None,Yes,Type B,
+25,Sunday,9391,340,,Yes,None,No,Type B,Extended
+12,Tuesday,,,Yes,Yes,Christmas,Yes,Type C,Basic
+5,Monday,19366,1854,Yes,Yes,None,No,Type C,Extended
+98,Sunday,10663,516,,No,None,Yes,Type D,Extended
+48,Friday,3311,275,Yes,Yes,None,Yes,Type C,Extended
+37,Friday,8225,486,Yes,Yes,None,Yes,Type B,Basic
+79,Tuesday,12565,,Yes,No,None,Yes,,Basic
+44,Monday,11270,952,Yes,,None,Yes,Type C,Extra
+15,Wednesday,14560,1356,Yes,,Christmas,Yes,Type D,Extended
+,Sunday,17988,762,Yes,Yes,None,No,Type C,Basic
+48,Tuesday,16965,551,No,Yes,None,Yes,Type A,Basic
+87,Monday,6785,376,Yes,No,None,Yes,Type C,
+70,Sunday,13067,1352,Yes,Yes,None,Yes,Type D,Extra
+46,Friday,,1294,Yes,Yes,None,No,Type A,Extra
+43,Monday,14653,1858,Yes,Yes,Public Holiday,,Type B,Extra
+,Monday,18222,312,Yes,Yes,Christmas,,,
+,Saturday,,1405,Yes,Yes,None,Yes,Type B,Extra
+80,Monday,18231,140,Yes,Yes,None,Yes,Type B,Extended
+47,Wednesday,5709,,Yes,,,Yes,Type D,Extended
+,Monday,5507,1350,Yes,No,None,Yes,Type B,
+25,Wednesday,7575,393,Yes,Yes,None,Yes,Type D,Extra
+36,Friday,5773,699,Yes,Yes,Easter Holiday,Yes,,Extra
+75,Wednesday,13446,1390,Yes,Yes,None,Yes,Type C,Basic
+51,Sunday,11464,640,Yes,Yes,None,No,Type A,Extended
+,Friday,16864,1882,Yes,Yes,None,,Type B,Extra
+68,Friday,4320,1951,,Yes,None,Yes,Type B,Extra
+21,Wednesday,11750,550,Yes,Yes,,Yes,Type A,Extra
+13,Tuesday,5698,1572,Yes,Yes,None,Yes,Type A,Extended
+86,Thursday,18948,1879,Yes,,None,Yes,Type A,Extended
+19,Monday,19224,1184,Yes,Yes,,Yes,Type A,Extra
+34,,7058,1625,Yes,No,None,,Type A,Extra
+78,Thursday,1726,1270,Yes,Yes,None,Yes,Type C,Basic
+68,Monday,7697,1809,Yes,Yes,None,Yes,Type D,Basic
+52,Monday,12910,889,Yes,No,Public Holiday,Yes,Type A,Extended
+27,Friday,10257,433,Yes,,None,Yes,,Basic
+29,Monday,13963,990,Yes,No,None,No,Type A,Extra
+28,Saturday,17666,1265,Yes,Yes,None,Yes,Type A,Extended
+35,Monday,2081,143,Yes,Yes,Public Holiday,No,Type B,Basic
+,,11776,243,Yes,Yes,None,Yes,Type B,
+16,Thursday,15196,1988,Yes,Yes,None,Yes,Type B,
+36,Wednesday,10344,432,Yes,No,None,Yes,Type B,Basic
+30,Saturday,16958,1097,Yes,No,,Yes,Type D,Basic
+18,,12689,1620,Yes,No,Public Holiday,Yes,Type D,Basic
+2,Sunday,18331,1519,Yes,Yes,,Yes,Type B,Extra
+49,Saturday,5760,154,,,None,Yes,Type B,Extended
+77,Friday,,1430,Yes,Yes,,Yes,Type A,Basic
+4,Wednesday,1066,969,Yes,Yes,Christmas,Yes,Type A,Extended
+90,Wednesday,1564,1546,Yes,No,None,Yes,Type B,Extended
+89,Tuesday,14393,1540,Yes,Yes,None,Yes,Type B,Extended
+94,Monday,4670,1796,,Yes,None,,Type B,Extra
+75,Friday,3251,896,Yes,,None,Yes,Type A,
+7,Sunday,13949,424,Yes,No,None,Yes,Type B,Basic
+95,Wednesday,1804,1833,Yes,No,Easter Holiday,Yes,Type B,
+74,Wednesday,10583,1794,Yes,Yes,None,Yes,Type D,Extended
+39,,18619,179,Yes,Yes,None,Yes,Type D,Extended
+13,Saturday,13224,1154,Yes,Yes,None,,Type A,Extended
+,Saturday,7016,1084,Yes,Yes,None,Yes,Type D,Extra
+71,Monday,14036,1235,,No,Public Holiday,Yes,Type A,Extra
+63,Tuesday,13392,657,Yes,Yes,None,,Type C,Basic
+56,Wednesday,8938,964,Yes,Yes,None,Yes,Type B,Extended
+42,Tuesday,,816,Yes,Yes,,Yes,Type A,Extended
+61,Saturday,10546,1687,,Yes,,No,Type D,Extra
+42,Saturday,6335,1773,,No,None,Yes,Type C,Basic
+56,Thursday,6077,571,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+36,Sunday,14247,173,Yes,Yes,None,Yes,Type A,Extended
+84,Monday,6611,1676,,No,None,Yes,Type C,Basic
+,Thursday,9089,1602,Yes,Yes,None,,Type D,Extended
+7,Sunday,3892,688,Yes,No,,Yes,Type C,Extra
+54,Thursday,6577,1510,Yes,Yes,None,Yes,Type B,Basic
+1,Thursday,18943,1822,Yes,Yes,Easter Holiday,Yes,Type B,Extended
+44,,7683,663,Yes,Yes,None,Yes,Type C,Extended
+45,Monday,2507,1556,Yes,Yes,None,No,Type D,
+47,Friday,17335,1535,Yes,Yes,None,Yes,Type D,Extra
+13,Tuesday,3063,566,No,Yes,None,Yes,Type D,Extra
+22,Tuesday,3000,698,Yes,Yes,None,Yes,Type B,Extended
+,Friday,,1744,Yes,,,Yes,Type A,Extended
+86,Friday,2294,,,Yes,None,Yes,Type A,Extended
+92,Saturday,16096,836,Yes,No,None,Yes,Type C,Basic
+9,Sunday,,1093,Yes,Yes,,Yes,Type D,Extra
+26,Thursday,,347,,,None,Yes,Type C,Basic
+9,,18987,1704,Yes,No,None,Yes,Type A,Extra
+15,Wednesday,18706,1243,Yes,Yes,Easter Holiday,Yes,Type A,Extended
+10,Tuesday,19825,166,Yes,Yes,None,No,Type D,Basic
+88,Friday,18482,672,No,Yes,,Yes,Type C,Basic
+42,Wednesday,10318,1450,Yes,Yes,None,,Type D,Extra
+72,Wednesday,,802,Yes,Yes,None,Yes,Type A,
+24,Wednesday,12241,569,,No,,No,Type A,Basic
+80,,11417,592,Yes,No,Christmas,Yes,Type D,Extended
+49,Saturday,16574,,Yes,Yes,None,Yes,Type C,Extra
+26,,16302,762,Yes,,None,Yes,Type B,Basic
+91,Sunday,15650,385,Yes,Yes,None,Yes,Type D,Extended
+37,Saturday,14350,,Yes,,None,No,Type A,
+68,Thursday,3096,411,Yes,Yes,None,Yes,Type B,Extended
+50,Wednesday,12801,408,Yes,Yes,None,Yes,Type D,Basic
+24,,19592,874,Yes,Yes,Christmas,Yes,Type B,Extended
+19,Thursday,17559,,Yes,Yes,,Yes,Type D,Extended
+60,Wednesday,8169,1064,Yes,Yes,None,No,Type A,Extra
+,Tuesday,14288,,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+74,Sunday,11694,1760,,No,,Yes,Type B,Basic
+89,Wednesday,13191,555,Yes,Yes,,Yes,Type C,Extended
+18,Wednesday,19051,1586,Yes,Yes,None,No,Type A,Extended
+19,,11737,231,Yes,No,None,No,Type A,Basic
+36,Wednesday,19207,1029,,Yes,Public Holiday,Yes,Type B,Basic
+74,Tuesday,6147,1064,No,Yes,None,No,Type D,Extended
+97,Saturday,18740,1028,Yes,Yes,None,No,Type D,Basic
+55,Monday,7199,220,Yes,Yes,None,Yes,,Extended
+69,Monday,1546,1320,Yes,Yes,None,,Type A,
+47,Thursday,6231,1929,Yes,No,,Yes,Type A,Extended
+49,Sunday,8965,1605,Yes,No,Christmas,,Type B,
+99,Thursday,19467,733,Yes,Yes,Easter Holiday,,Type D,Extra
+,Tuesday,3040,,Yes,Yes,None,Yes,Type D,Extra
+33,Friday,2752,996,Yes,Yes,None,Yes,Type B,Extended
+21,Sunday,2849,871,Yes,Yes,None,No,Type A,
+81,Monday,3642,1162,Yes,,Christmas,No,,Basic
+22,,,665,Yes,Yes,None,,,Extra
+48,Monday,14951,,Yes,Yes,None,Yes,Type C,Extra
+37,Tuesday,12797,,Yes,Yes,Easter Holiday,Yes,Type D,Extra
+15,Tuesday,18002,1284,Yes,Yes,None,Yes,Type A,Basic
+35,Friday,2132,388,,Yes,None,,Type D,
+92,Friday,6491,299,Yes,Yes,None,Yes,Type A,Basic
+,Saturday,6795,1911,No,No,None,Yes,Type C,Extended
+32,Sunday,11531,627,Yes,Yes,None,Yes,Type B,Basic
+11,,11931,1016,No,No,None,Yes,Type A,Extended
+10,Thursday,8633,1808,Yes,No,None,Yes,Type C,Extended
+73,Monday,18871,,Yes,No,None,No,Type C,Extended
+78,Wednesday,6009,1371,Yes,,None,Yes,Type A,Extended
+77,Friday,3113,1506,,No,None,Yes,,Basic
+57,Wednesday,2044,1341,Yes,Yes,None,Yes,Type A,Basic
+25,Thursday,14923,1210,Yes,Yes,None,,Type C,
+2,Friday,3431,1205,Yes,Yes,None,Yes,Type A,
+64,Wednesday,14926,,Yes,Yes,None,Yes,Type B,Extended
+35,Sunday,2582,898,Yes,Yes,None,Yes,Type D,Extra
+7,,15374,1623,,Yes,None,Yes,Type A,Extra
+85,Monday,2308,1165,Yes,Yes,None,Yes,Type C,Extra
+18,Sunday,9793,111,No,Yes,None,Yes,Type C,Extended
+67,Thursday,2620,932,No,Yes,None,Yes,Type D,Extra
+42,Saturday,5766,1869,Yes,Yes,None,Yes,Type A,Basic
+39,Friday,,,Yes,No,Easter Holiday,Yes,Type C,Extended
+41,Tuesday,,,Yes,Yes,Public Holiday,Yes,Type D,Basic
+75,Monday,7093,1238,Yes,Yes,None,No,Type B,Extended
+24,Sunday,17484,1341,Yes,No,None,Yes,Type D,
+60,Sunday,1237,1772,Yes,Yes,Easter Holiday,Yes,Type A,Extra
+,Wednesday,12110,205,Yes,Yes,None,No,Type A,Extended
+19,Friday,7073,790,Yes,No,None,Yes,Type C,Basic
+68,Tuesday,3542,627,Yes,No,None,Yes,Type B,Extended
+90,Thursday,16282,1595,Yes,Yes,,Yes,Type A,Basic
+42,Tuesday,11195,1877,Yes,Yes,,Yes,Type C,
+32,Friday,2537,945,Yes,No,None,Yes,Type D,Extended
+39,,18138,992,Yes,Yes,None,Yes,Type D,Extended
+36,Saturday,12560,,No,Yes,Easter Holiday,No,Type A,Basic
+97,,14434,1349,Yes,Yes,,Yes,Type B,Basic
+,Tuesday,8396,580,Yes,Yes,,Yes,Type C,Extra
+3,Thursday,17924,1877,Yes,No,None,Yes,Type A,Basic
+73,Tuesday,6131,,No,No,None,Yes,Type C,Basic
+8,,9697,1580,Yes,No,,,,Basic
+97,Friday,,1776,,Yes,Christmas,,Type C,Extra
+70,Wednesday,11271,997,No,Yes,None,No,,Extra
+41,Saturday,,810,Yes,No,None,Yes,Type B,Extended
+68,Wednesday,14100,1747,Yes,Yes,None,Yes,Type B,
+13,Monday,5067,738,Yes,No,Public Holiday,No,Type D,Basic
+49,Friday,5195,1144,Yes,No,None,Yes,,Extended
+60,Wednesday,10244,1782,Yes,Yes,None,Yes,,
+2,Tuesday,8281,1724,Yes,,None,Yes,Type C,Extra
+60,Saturday,3509,914,Yes,Yes,,Yes,Type C,Basic
+5,Saturday,16502,1017,Yes,No,None,Yes,Type C,Basic
+44,Thursday,7533,302,Yes,Yes,,Yes,Type A,Extra
+27,Tuesday,,516,Yes,No,None,No,Type B,Extended
+32,Thursday,15670,515,Yes,Yes,None,Yes,Type B,Basic
+21,Wednesday,4932,1571,Yes,,,Yes,Type C,Extra
+8,Sunday,15595,1635,Yes,,None,Yes,Type A,Extra
+72,Monday,14041,184,Yes,Yes,None,Yes,Type C,Basic
+50,Tuesday,6560,266,Yes,No,None,Yes,Type B,Extended
+67,Tuesday,,483,Yes,Yes,None,Yes,,Extended
+,Tuesday,1719,567,Yes,,Easter Holiday,Yes,,Extended
+58,Thursday,1074,1195,Yes,No,,No,Type C,Basic
+3,,14161,909,Yes,Yes,,No,Type C,Basic
+86,Tuesday,3149,1096,Yes,Yes,None,No,Type B,
+70,Sunday,15033,1644,Yes,Yes,None,Yes,Type A,Extended
+2,Tuesday,5207,1916,Yes,,None,Yes,Type D,Extended
+87,,16043,572,Yes,Yes,,Yes,Type D,Basic
+44,Monday,10078,1092,No,No,Public Holiday,Yes,,Basic
+2,Saturday,12725,1381,Yes,Yes,None,,Type C,Basic
+81,Saturday,4936,,Yes,Yes,None,Yes,Type B,Extended
+35,Monday,10307,1873,No,Yes,None,Yes,Type D,Extra
+,Sunday,18459,1143,Yes,Yes,None,Yes,Type C,Extra
+87,Wednesday,5615,1613,Yes,,None,No,Type A,Extended
+,Saturday,,1868,Yes,Yes,None,Yes,Type C,Basic
+8,Wednesday,11116,589,Yes,No,None,Yes,Type D,Basic
+22,Saturday,16733,1856,Yes,Yes,Christmas,No,Type D,Basic
+44,Friday,14892,425,Yes,Yes,None,Yes,Type A,Basic
+58,Monday,,,Yes,Yes,None,Yes,Type B,Extended
+36,Saturday,11473,991,Yes,No,None,Yes,Type A,
+,Friday,10247,188,Yes,Yes,Christmas,Yes,Type A,Extra
+77,,17925,585,No,Yes,None,Yes,Type D,Extended
+93,Friday,3161,807,Yes,Yes,None,Yes,Type D,Basic
+31,,19635,449,,Yes,None,No,Type B,Extra
+,Saturday,15588,1207,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+55,Friday,13061,486,Yes,No,,Yes,Type A,Basic
+80,Wednesday,7041,186,Yes,Yes,None,Yes,Type A,Extra
+62,Thursday,13673,406,Yes,Yes,None,Yes,Type B,Extended
+30,Sunday,2560,1973,Yes,Yes,None,Yes,Type D,Extra
+55,,12954,1277,Yes,Yes,Easter Holiday,Yes,Type D,Extra
+16,Tuesday,18548,539,Yes,Yes,None,,Type A,Extended
+12,Sunday,16078,839,Yes,No,None,Yes,Type A,Extended
+17,Friday,,363,No,No,None,No,Type D,Extra
+16,Sunday,3722,1076,No,,Easter Holiday,Yes,Type C,Extra
+12,Sunday,11550,834,,No,None,Yes,Type A,Extended
+8,Thursday,17854,,Yes,Yes,None,,Type A,Basic
+84,,2468,592,Yes,Yes,None,Yes,Type A,Basic
+3,Sunday,1808,732,Yes,Yes,,Yes,Type B,Basic
+16,Saturday,7719,,No,Yes,None,Yes,Type D,Basic
+30,,17363,510,Yes,,None,,Type D,Extended
+23,Tuesday,11591,272,Yes,No,None,No,,Basic
+92,Friday,6073,103,No,No,,Yes,Type A,Extra
+5,Thursday,9012,953,Yes,,None,Yes,Type D,Basic
+84,Thursday,19029,1763,Yes,Yes,None,Yes,Type D,Extended
+65,Monday,14892,,Yes,Yes,None,Yes,Type D,Basic
+30,,9249,1595,Yes,,None,Yes,Type B,Basic
+21,Monday,18513,1233,Yes,Yes,None,Yes,,Extended
+84,Friday,16147,1990,Yes,,,No,Type A,
+70,Sunday,18737,1160,Yes,No,None,No,,Extended
+22,Saturday,,682,Yes,No,Easter Holiday,Yes,Type A,Basic
+82,Saturday,4895,1924,Yes,Yes,None,Yes,Type A,Extended
+72,Friday,11200,1154,Yes,Yes,None,Yes,Type A,Basic
+32,Friday,8329,480,Yes,Yes,Easter Holiday,Yes,Type A,Extra
+33,,16332,1391,Yes,Yes,None,No,Type A,Extra
+16,Sunday,15621,,Yes,,None,No,,
+76,Friday,12334,443,Yes,Yes,None,,Type B,Extended
+38,Thursday,19174,1963,Yes,Yes,None,Yes,,Extended
+98,Saturday,1885,1667,,Yes,Public Holiday,Yes,Type B,Extra
+14,Tuesday,8734,1692,Yes,Yes,None,Yes,Type A,Extended
+,Saturday,4906,265,Yes,No,None,No,Type C,Basic
+97,Monday,5492,799,Yes,Yes,None,Yes,Type C,Extended
+23,Saturday,10730,441,Yes,No,Easter Holiday,Yes,Type D,Extended
+66,Wednesday,3073,1605,Yes,Yes,None,Yes,Type A,Basic
+85,Sunday,17696,1142,Yes,No,Easter Holiday,Yes,Type A,Basic
+2,Friday,7269,1751,Yes,Yes,None,Yes,Type B,Extra
+91,Sunday,18194,1079,Yes,Yes,None,No,Type C,Basic
+73,Friday,,1307,Yes,Yes,None,Yes,Type C,Basic
+65,,11955,,No,Yes,None,Yes,Type A,Extended
+75,Tuesday,,644,Yes,No,None,Yes,Type D,Extra
+67,Tuesday,10699,1133,Yes,Yes,Easter Holiday,,Type A,Basic
+52,Wednesday,13737,1715,Yes,No,None,Yes,Type C,
+62,Monday,11762,,Yes,Yes,None,Yes,Type D,Basic
+23,Saturday,8129,419,,No,None,,Type D,
+26,Friday,9788,1825,Yes,Yes,None,Yes,,Basic
+68,Saturday,3147,679,Yes,No,Easter Holiday,Yes,Type A,Extended
+82,,1615,574,Yes,No,,Yes,Type A,Extra
+55,Thursday,1947,1983,Yes,Yes,,,Type A,Extra
+6,Thursday,6677,736,Yes,Yes,None,Yes,Type B,Basic
+35,Wednesday,,526,Yes,Yes,None,No,Type B,Extra
+22,Friday,3013,1971,Yes,Yes,None,Yes,,Basic
+43,Sunday,17874,1182,Yes,Yes,None,Yes,Type A,Extra
+15,Wednesday,19812,1559,Yes,Yes,None,Yes,Type B,Extra
+86,Friday,5987,,Yes,No,None,,Type D,Extended
+60,Tuesday,9733,,Yes,No,None,Yes,Type C,
+12,Wednesday,10479,1910,Yes,No,,Yes,,Extra
+49,Friday,10825,,Yes,Yes,None,Yes,Type A,Extended
+42,Wednesday,3926,1401,Yes,No,None,No,Type C,Extra
+38,Wednesday,8282,1388,Yes,Yes,None,No,Type C,Basic
+82,Sunday,16635,108,Yes,Yes,Public Holiday,No,Type C,Extra
+45,Sunday,16847,556,Yes,Yes,None,,Type D,
+,Friday,,1918,No,No,,No,Type C,Extended
+30,Friday,7986,372,Yes,No,None,Yes,Type C,
+88,Monday,7862,1039,Yes,Yes,Christmas,Yes,Type D,Basic
+30,Wednesday,13159,1936,,No,None,Yes,Type B,Basic
+78,Thursday,5423,1131,Yes,Yes,Easter Holiday,Yes,Type D,Basic
+6,Wednesday,11450,307,Yes,No,,Yes,Type B,Extra
+67,Wednesday,9159,1760,Yes,Yes,None,Yes,Type D,Basic
+80,Friday,3073,1246,No,Yes,None,Yes,Type A,Basic
+7,,,1156,Yes,Yes,None,Yes,Type C,Extended
+52,Saturday,11111,1636,Yes,Yes,None,Yes,,Extended
+,Wednesday,7825,303,Yes,Yes,None,Yes,Type D,Basic
+73,Saturday,11652,,Yes,Yes,Easter Holiday,,Type B,Basic
+15,Sunday,13454,1932,Yes,Yes,None,Yes,Type B,Extra
+21,Thursday,,616,Yes,No,None,No,Type C,Extra
+35,,13516,542,Yes,No,None,Yes,Type B,Extended
+66,Wednesday,15290,1715,Yes,Yes,None,No,Type D,
+91,Saturday,,1909,Yes,No,None,Yes,Type A,Basic
+2,Saturday,9558,788,Yes,Yes,None,Yes,Type A,Basic
+35,Sunday,9719,949,No,No,None,Yes,Type C,Basic
+82,Saturday,5886,932,,Yes,None,Yes,Type D,Basic
+78,Tuesday,5619,438,Yes,Yes,None,Yes,Type D,Extra
+20,Monday,14956,,Yes,Yes,None,Yes,Type A,Extra
+82,Thursday,11345,1568,Yes,No,None,No,Type D,Basic
+10,Sunday,7875,1259,Yes,Yes,Christmas,No,Type B,Extra
+,Sunday,11100,486,Yes,,None,No,Type C,Extra
+66,Wednesday,,1148,Yes,Yes,None,,Type A,Basic
+25,Tuesday,6401,605,Yes,Yes,None,Yes,Type C,Extra
+,Wednesday,4022,1448,Yes,Yes,,Yes,,Basic
+33,Wednesday,12675,1818,Yes,No,None,Yes,Type A,Extra
+36,Friday,,779,Yes,Yes,None,Yes,Type D,Basic
+95,Friday,6738,1461,Yes,No,None,Yes,,Basic
+14,Friday,16126,789,,Yes,Easter Holiday,No,Type B,Extra
+65,Tuesday,2770,984,Yes,No,None,Yes,Type A,Extra
+80,Wednesday,13305,1218,Yes,Yes,None,No,Type C,Extended
+54,Monday,10969,1668,Yes,Yes,None,Yes,Type A,Basic
+,Thursday,13404,722,Yes,Yes,Public Holiday,,Type D,Basic
+3,,9989,1269,Yes,Yes,None,,Type A,Basic
+99,Friday,4215,992,Yes,Yes,None,No,,Basic
+41,,12980,1052,No,No,Public Holiday,No,Type D,Extra
+6,Wednesday,7694,1354,Yes,,,Yes,Type D,Extra
+25,Wednesday,18136,883,No,Yes,,,Type C,Extended
+13,Tuesday,11661,1971,Yes,Yes,None,Yes,Type A,
+98,Tuesday,2392,594,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+8,Friday,7789,1161,Yes,Yes,None,No,Type B,Extended
+21,Wednesday,15385,1548,Yes,Yes,Easter Holiday,Yes,Type D,Extended
+98,Monday,18061,1770,Yes,No,None,Yes,Type C,Extended
+68,Thursday,1105,1969,Yes,Yes,None,Yes,,Extended
+25,Wednesday,12479,846,No,No,None,No,Type B,Extra
+79,Sunday,2946,536,Yes,Yes,None,Yes,Type C,
+68,Wednesday,6544,1954,Yes,Yes,Easter Holiday,Yes,Type A,Extended
+45,Saturday,18479,,Yes,Yes,None,Yes,Type C,Extra
+60,Tuesday,14275,444,Yes,No,None,Yes,Type B,Extra
+12,Sunday,7985,1283,Yes,Yes,None,,Type C,Extended
+32,Thursday,2782,649,Yes,No,,No,Type B,Extra
+,Friday,7213,1785,No,Yes,None,No,,
+92,Sunday,15485,919,Yes,No,None,Yes,Type D,Basic
+,,16605,640,Yes,Yes,Public Holiday,Yes,,
+31,Friday,5869,243,Yes,Yes,None,No,Type C,Basic
+78,Wednesday,18945,687,Yes,Yes,None,Yes,Type A,Basic
+,Friday,10867,,Yes,Yes,None,Yes,Type B,Extended
+18,Thursday,4981,1864,Yes,Yes,None,Yes,Type B,Basic
+93,Tuesday,10493,1699,Yes,Yes,None,Yes,Type C,Basic
+60,Thursday,6682,1982,Yes,No,Easter Holiday,,Type D,Extra
+63,Saturday,6782,,Yes,Yes,None,No,Type D,
+6,,18327,1392,Yes,Yes,None,,Type C,Extended
+32,Tuesday,,1963,Yes,Yes,None,Yes,Type C,Extra
+93,Thursday,17984,795,,Yes,None,Yes,Type A,Extra
+43,Saturday,14012,1896,Yes,Yes,None,Yes,Type C,
+,Monday,2524,367,Yes,Yes,None,Yes,,Extended
+60,Saturday,17634,268,Yes,No,None,Yes,Type C,Extended
+23,Wednesday,1078,1894,Yes,Yes,None,Yes,Type A,Extended
+83,,4123,,Yes,Yes,Easter Holiday,No,Type C,Basic
+31,Friday,,132,No,,Easter Holiday,Yes,Type C,Basic
+5,,14068,476,Yes,,None,No,Type B,Extra
+83,Wednesday,9417,1337,Yes,Yes,None,Yes,Type D,
+34,Sunday,14362,1685,Yes,Yes,Public Holiday,Yes,Type C,Extended
+10,Saturday,2209,1563,Yes,Yes,None,Yes,Type A,Extended
+89,,6153,1615,Yes,Yes,None,No,Type C,Basic
+,Sunday,5898,492,Yes,No,None,Yes,,Basic
+11,Wednesday,19562,588,Yes,Yes,None,Yes,Type B,
+,Friday,11871,821,Yes,Yes,None,Yes,Type D,Extended
+31,Thursday,8610,1045,Yes,Yes,None,Yes,Type D,Basic
+56,,12077,1152,No,Yes,Public Holiday,No,Type D,Extra
+79,Sunday,16791,138,Yes,No,None,Yes,Type C,Extra
+73,Monday,3544,1982,Yes,Yes,Easter Holiday,No,Type B,Basic
+87,Wednesday,6522,1735,No,Yes,None,Yes,Type B,Basic
+83,Sunday,3370,1296,,No,Easter Holiday,Yes,Type C,Extra
+9,Monday,,1140,Yes,Yes,None,Yes,Type B,Basic
+99,Monday,1328,1179,Yes,No,None,Yes,Type D,Extra
+,Saturday,14683,325,Yes,No,None,No,Type B,Extra
+73,Tuesday,6579,1681,Yes,Yes,None,Yes,,Basic
+28,,14122,166,Yes,Yes,None,Yes,Type C,
+62,Wednesday,7794,1320,Yes,Yes,,Yes,Type A,Extended
+7,Monday,1120,1777,Yes,Yes,None,Yes,Type A,Extended
+80,Sunday,7749,934,,Yes,None,Yes,Type B,Extended
+16,Thursday,14763,1146,Yes,Yes,None,Yes,Type B,Extended
+97,,18348,1098,Yes,No,None,No,Type C,Extended
+4,Sunday,16450,1729,Yes,Yes,None,Yes,Type A,Extended
+4,Thursday,4675,1877,Yes,Yes,Christmas,Yes,Type A,Basic
+40,,19460,336,Yes,Yes,None,No,Type D,Basic
+17,Saturday,6643,1056,Yes,No,None,Yes,Type D,Extended
+52,Tuesday,12560,1018,Yes,Yes,Christmas,Yes,,Basic
+93,Sunday,18700,,Yes,Yes,None,Yes,Type C,Extra
+52,Monday,18580,,Yes,No,None,Yes,Type C,Extended
+,Friday,16383,572,Yes,No,,Yes,Type C,Extra
+38,Saturday,4170,1968,Yes,No,None,Yes,Type A,Basic
+50,Saturday,1355,1907,,No,None,No,Type C,Extended
+63,Tuesday,10718,652,Yes,Yes,None,Yes,,Extra
+63,Thursday,1028,1733,Yes,Yes,Public Holiday,Yes,Type A,Basic
+62,Tuesday,,794,Yes,Yes,None,Yes,Type D,Extended
+99,Monday,18397,1763,Yes,Yes,None,,Type C,Extended
+7,Sunday,11894,1352,Yes,Yes,Easter Holiday,,Type D,Extra
+27,Wednesday,10019,416,,Yes,None,Yes,Type A,Extra
+92,Wednesday,13638,697,Yes,No,Easter Holiday,Yes,Type D,Extra
+86,,15889,867,Yes,,None,Yes,Type A,Basic
+14,Thursday,,,Yes,Yes,None,Yes,Type C,Extra
+71,Saturday,6839,1850,Yes,Yes,None,Yes,Type D,Extra
+86,,14503,985,Yes,No,None,,Type C,
+5,Saturday,11303,1735,Yes,Yes,None,Yes,Type B,Extended
+55,Saturday,18138,660,Yes,Yes,None,Yes,Type B,Extra
+2,Wednesday,18622,1324,Yes,Yes,None,,Type D,Extra
+62,Thursday,2906,357,Yes,Yes,None,Yes,Type A,Basic
+91,Tuesday,8399,1603,Yes,Yes,None,Yes,Type D,Basic
+21,Saturday,8961,1301,Yes,No,None,Yes,Type A,Extra
+79,Friday,,856,Yes,No,None,Yes,Type B,Basic
+21,Friday,16128,222,,No,None,,Type A,Basic
+10,Tuesday,,441,No,Yes,,Yes,Type B,Basic
+87,Friday,2460,1294,Yes,No,None,Yes,Type D,Extended
+58,Monday,16682,1968,No,No,None,Yes,Type C,Extra
+39,,16193,,Yes,No,None,Yes,Type C,Extra
+5,Tuesday,18800,1182,Yes,Yes,None,Yes,Type C,Extra
+65,Thursday,12045,,Yes,No,Christmas,Yes,Type A,Basic
+13,Saturday,8766,1588,Yes,Yes,None,Yes,Type C,Basic
+85,Tuesday,18812,1903,Yes,,None,,,Basic
+90,Wednesday,5378,359,Yes,Yes,Easter Holiday,Yes,Type C,
+85,Thursday,8529,1496,,Yes,Easter Holiday,Yes,Type A,Basic
+53,Wednesday,4071,,,No,Easter Holiday,No,Type A,Extended
+82,,17939,1248,Yes,Yes,,Yes,,Extra
+45,Thursday,18947,140,Yes,Yes,None,Yes,Type B,Basic
+32,Friday,12692,353,Yes,No,Public Holiday,No,Type D,Extended
+36,Tuesday,2040,106,Yes,,Public Holiday,Yes,Type B,Extended
+81,Saturday,3686,1594,,Yes,None,Yes,Type A,
+99,Monday,13666,827,Yes,No,None,Yes,Type B,Extended
+60,,3553,1634,Yes,Yes,,Yes,,Basic
+11,Thursday,2779,1704,,,None,Yes,Type B,Extended
+63,Sunday,14186,168,Yes,Yes,None,Yes,Type A,
+21,Saturday,17459,1204,Yes,Yes,None,Yes,Type A,Extra
+,Saturday,,641,Yes,Yes,None,Yes,Type D,Extra
+55,Wednesday,19733,1708,Yes,Yes,None,,Type B,Basic
+26,,3262,1385,Yes,No,None,Yes,Type B,Extra
+68,Friday,11308,188,Yes,Yes,Christmas,Yes,Type A,Extra
+34,,17776,,Yes,No,,Yes,Type D,
+52,Sunday,18492,312,Yes,No,None,Yes,Type D,Basic
+82,Wednesday,6188,933,Yes,,Public Holiday,Yes,Type A,Extended
+,Friday,9802,365,Yes,No,,,Type B,Basic
+93,Sunday,6057,1011,Yes,No,None,Yes,Type D,Basic
+52,Sunday,4998,392,Yes,Yes,None,Yes,Type D,Extra
+29,Monday,9864,1330,Yes,Yes,None,Yes,Type B,Extended
+38,Wednesday,4677,432,Yes,No,None,Yes,Type D,Extra
+42,Wednesday,6796,1200,Yes,No,None,No,Type B,Extra
+21,Thursday,15450,1411,Yes,No,Easter Holiday,Yes,Type D,Basic
+42,Friday,7363,1104,Yes,Yes,,Yes,Type D,Basic
+13,Tuesday,9123,146,Yes,Yes,None,Yes,Type A,Basic
+64,,9222,721,,,None,Yes,Type D,Extra
+17,,14654,1323,Yes,Yes,None,No,Type B,Extended
+9,Sunday,18784,526,Yes,Yes,None,No,Type D,Extended
+41,Sunday,5071,309,Yes,Yes,,Yes,Type A,Extra
+1,Monday,9808,987,Yes,Yes,Easter Holiday,Yes,,Extended
+2,Sunday,3786,1543,Yes,,None,No,Type C,Extra
+60,,1870,253,No,Yes,None,No,Type B,Extended
+48,Friday,5196,1645,Yes,Yes,None,Yes,Type C,Extra
+29,Saturday,12796,514,No,,None,Yes,Type A,Extended
+,Saturday,3739,1476,Yes,No,None,Yes,Type C,Basic
+10,Thursday,1940,1280,Yes,Yes,Easter Holiday,Yes,Type D,Basic
+58,Thursday,1340,1384,Yes,Yes,None,Yes,Type B,Basic
+60,Sunday,5133,1200,Yes,No,,No,,Basic
+21,Friday,18043,868,Yes,Yes,Christmas,No,Type D,Extra
+28,,11225,1082,Yes,No,None,Yes,Type C,Extended
+,Thursday,,1611,Yes,Yes,,Yes,,Extra
+34,Monday,4457,1254,Yes,Yes,,Yes,Type D,Basic
+8,Monday,10848,678,Yes,Yes,None,Yes,,Extended
+,Tuesday,10241,1578,Yes,Yes,None,Yes,,Extra
+,Saturday,,839,Yes,Yes,None,,Type B,Basic
+72,Friday,10896,,Yes,Yes,None,Yes,Type A,Extended
+49,Wednesday,11976,1138,Yes,No,None,Yes,Type C,Extended
+79,Saturday,16872,,,Yes,None,Yes,Type D,Basic
+17,Wednesday,1818,294,Yes,Yes,None,No,Type C,Basic
+60,Tuesday,5868,1984,Yes,No,,Yes,Type D,Extended
+87,Tuesday,17396,641,,Yes,None,Yes,Type D,Basic
+88,Sunday,13171,458,Yes,,None,,Type A,Extra
+,Thursday,,949,Yes,No,None,No,Type A,Basic
+83,Tuesday,19802,1454,Yes,Yes,None,Yes,,Basic
+69,Tuesday,10506,526,Yes,,None,,Type B,Basic
+32,Wednesday,7475,596,Yes,No,None,,Type A,Extended
+44,Thursday,3017,927,Yes,Yes,Easter Holiday,Yes,Type D,
+65,Tuesday,8957,585,Yes,Yes,None,Yes,Type C,Basic
+87,Saturday,17230,1931,Yes,,None,Yes,Type C,
+8,Tuesday,,1572,Yes,No,Christmas,Yes,Type B,Basic
+77,Thursday,5792,1536,Yes,No,Christmas,No,Type C,Extra
+72,,14237,429,Yes,Yes,None,,Type A,
+87,Friday,19818,1855,Yes,Yes,,,Type D,Basic
+43,Thursday,17251,988,Yes,Yes,None,Yes,Type C,Extended
+1,Wednesday,11707,1090,Yes,Yes,None,No,Type C,Extra
+,,2438,1270,Yes,Yes,Christmas,Yes,Type D,
+24,Saturday,4543,358,Yes,Yes,None,,Type C,Basic
+99,Monday,12367,391,Yes,,None,Yes,Type C,Extended
+24,Thursday,19165,1934,Yes,Yes,,Yes,Type B,Extra
+17,Sunday,,242,Yes,Yes,None,Yes,Type A,Extended
+,Wednesday,7343,846,No,Yes,None,No,Type C,
+20,Saturday,3263,726,Yes,No,None,,,Extra
+21,Friday,11161,1488,,Yes,None,Yes,Type B,Extra
+58,Saturday,1211,189,No,No,None,,Type A,Extended
+31,Thursday,14809,819,Yes,No,None,Yes,Type B,Extra
+11,Tuesday,8027,1287,No,Yes,,,Type A,Basic
+52,Sunday,1331,580,Yes,Yes,None,Yes,Type A,
+,Thursday,9169,183,Yes,Yes,None,Yes,Type C,Extra
+83,Monday,10133,1200,Yes,No,Easter Holiday,Yes,Type A,Basic
+7,Thursday,15591,772,,Yes,None,,Type C,Extra
+28,Friday,17125,616,Yes,No,None,Yes,Type C,Extra
+51,Friday,1727,584,No,,None,No,Type A,Extra
+58,Thursday,12054,1713,Yes,No,None,Yes,Type C,Extra
+5,Friday,4243,1726,Yes,Yes,None,Yes,Type A,Extended
+5,Tuesday,18032,1722,Yes,No,None,Yes,Type D,
+,Saturday,6095,881,,No,None,No,Type C,Basic
+,Thursday,14809,203,No,,,Yes,Type D,Extended
+8,Sunday,11929,1575,No,,None,Yes,Type D,Basic
+64,Tuesday,15842,1610,Yes,Yes,None,Yes,Type C,Extra
+10,Saturday,18393,438,Yes,Yes,None,Yes,Type B,Basic
+38,Sunday,2550,,Yes,No,None,No,,Extended
+96,Sunday,9995,1689,Yes,Yes,None,Yes,Type D,Basic
+92,Sunday,16166,999,Yes,No,None,Yes,Type D,Extended
+81,Saturday,8492,1601,Yes,No,None,Yes,Type A,Extra
+95,Tuesday,13501,,Yes,Yes,None,Yes,Type D,Extra
+8,Sunday,,706,Yes,,None,Yes,Type C,Basic
+25,Sunday,14265,322,Yes,,,No,Type B,Basic
+,Wednesday,6424,,Yes,No,None,Yes,Type B,Extra
+66,Thursday,15086,1176,Yes,Yes,,Yes,Type B,Extra
+79,Saturday,4161,1200,Yes,Yes,None,Yes,Type C,Basic
+50,Saturday,10215,1841,,Yes,None,No,Type A,Extra
+67,Friday,7617,602,Yes,No,None,Yes,Type C,
+49,Saturday,12926,1439,Yes,,Christmas,Yes,Type C,Extended
+36,Tuesday,16092,,Yes,Yes,None,Yes,Type B,
+68,Saturday,17160,921,Yes,Yes,None,Yes,Type C,Basic
+78,Wednesday,18560,1965,No,No,None,,Type D,Extra
+41,Thursday,16638,723,Yes,Yes,Public Holiday,No,Type C,Extra
+89,Thursday,3233,1986,Yes,,Easter Holiday,No,Type B,Extended
+62,Saturday,5700,264,Yes,Yes,,Yes,Type B,Basic
+10,Sunday,12027,1402,,Yes,Easter Holiday,Yes,Type C,Basic
+21,Monday,8860,1150,,Yes,None,,Type D,Basic
+,Monday,8526,1193,Yes,Yes,None,,Type D,Basic
+,Sunday,6559,1341,Yes,Yes,None,Yes,Type B,Extended
+91,,7732,1488,Yes,Yes,None,Yes,Type D,Extended
+2,Sunday,3513,1824,,,Easter Holiday,No,Type D,
+13,Tuesday,8830,1968,Yes,Yes,None,Yes,Type A,Extended
+53,Monday,15781,1429,Yes,Yes,None,No,Type A,Basic
+32,Sunday,8910,1247,,Yes,None,Yes,Type D,Extended
+95,Tuesday,16847,118,Yes,No,Easter Holiday,,,Extra
+16,Friday,6649,,Yes,Yes,Easter Holiday,Yes,Type A,Extended
+32,Tuesday,,1419,Yes,No,None,Yes,,Basic
+32,Monday,10120,1145,Yes,Yes,None,No,Type A,Extra
+98,Saturday,2951,1088,,Yes,None,Yes,Type B,Basic
+,,11165,,Yes,Yes,None,Yes,Type B,
+10,Monday,,651,Yes,Yes,,Yes,Type A,Extra
+15,Tuesday,10746,1673,Yes,No,None,Yes,Type A,Extended
+17,Wednesday,11970,1171,Yes,Yes,None,Yes,,Extended
+40,Thursday,10186,794,Yes,Yes,None,Yes,Type B,Extra
+18,,9804,686,Yes,No,None,,Type B,Extra
+55,Sunday,1595,820,Yes,Yes,None,Yes,Type D,Extra
+73,Tuesday,8875,1306,Yes,Yes,Public Holiday,Yes,Type C,Basic
+25,Sunday,6972,1558,,Yes,,Yes,Type D,Extended
+59,,16882,206,Yes,,,Yes,Type C,Basic
+78,Sunday,1858,1311,,Yes,None,No,Type C,Extended
+89,Sunday,6519,875,Yes,Yes,,Yes,Type C,Basic
+22,Sunday,10980,1209,Yes,Yes,None,Yes,Type D,Extended
+,Friday,5317,1959,Yes,Yes,None,Yes,Type B,Extra
+84,Monday,13144,1966,,No,None,Yes,,
+85,,13879,1579,Yes,No,,Yes,Type B,Extended
+44,Thursday,2030,1260,Yes,No,None,Yes,Type B,Extra
+32,Tuesday,10487,1981,Yes,,None,Yes,Type D,Extra
+51,,14305,997,Yes,,None,Yes,Type A,Basic
+46,Friday,11255,435,Yes,No,None,Yes,Type C,Extended
+,Tuesday,2447,,Yes,Yes,Public Holiday,Yes,Type B,Extra
+99,Friday,11237,937,Yes,Yes,,Yes,Type B,Extended
+32,,,1880,Yes,Yes,Christmas,Yes,Type D,
+94,Sunday,12953,1592,Yes,Yes,,Yes,Type C,Extended
+39,Thursday,9106,,No,No,None,Yes,,Basic
+12,Thursday,11000,1694,Yes,,Public Holiday,Yes,Type A,Basic
+47,Saturday,10503,502,Yes,Yes,None,Yes,Type B,Basic
+18,Wednesday,16493,639,Yes,Yes,Christmas,No,Type C,Extra
+21,Thursday,5055,1195,Yes,Yes,None,Yes,Type A,Basic
+13,Sunday,6402,1905,No,Yes,None,Yes,Type D,Extended
+21,Monday,10281,,Yes,Yes,None,No,Type A,
+8,Wednesday,2672,723,Yes,,None,Yes,Type C,Extra
+46,Tuesday,5532,1935,Yes,Yes,Public Holiday,Yes,Type C,Extra
+7,Sunday,,1608,Yes,,None,No,Type A,Basic
+23,Sunday,,1179,Yes,Yes,None,Yes,,Basic
+96,Thursday,13546,1085,No,No,None,No,Type C,Basic
+75,Wednesday,7085,322,Yes,Yes,None,No,Type A,Extra
+86,Monday,13390,1755,Yes,Yes,None,Yes,Type C,Extra
+22,Saturday,14280,278,Yes,No,None,,Type B,Extended
+89,Friday,5864,899,Yes,Yes,None,No,Type B,Basic
+22,Friday,10316,533,Yes,Yes,None,Yes,Type A,Basic
+92,Monday,2221,1573,Yes,Yes,None,No,Type D,Extended
+29,Monday,3860,892,Yes,No,None,Yes,Type D,Extended
+13,Friday,,983,Yes,Yes,Easter Holiday,Yes,Type B,
+82,Saturday,9428,591,Yes,Yes,None,Yes,Type D,Extended
+,Wednesday,16385,1312,Yes,No,,Yes,Type B,Basic
+,Friday,10336,,Yes,Yes,None,Yes,Type D,Extra
+85,,4253,909,Yes,No,None,Yes,Type B,Basic
+79,Thursday,4782,1060,,Yes,None,Yes,Type C,Extended
+52,Tuesday,18150,519,Yes,Yes,None,Yes,Type A,Extra
+27,Saturday,17343,1372,Yes,No,None,Yes,Type A,Basic
+50,Sunday,10951,1711,Yes,Yes,None,Yes,Type D,Extended
+95,Saturday,17269,748,Yes,No,None,Yes,Type A,Extra
+79,Thursday,15567,1287,Yes,No,None,No,Type D,Extra
+23,Thursday,,1868,,Yes,None,Yes,Type B,Extra
+88,Sunday,4513,,Yes,No,None,Yes,,Basic
+44,Monday,17879,575,Yes,Yes,None,Yes,Type A,Extended
+77,,14335,1929,Yes,No,Public Holiday,Yes,,Basic
+,,12372,,Yes,,None,,Type A,Basic
+43,Saturday,6822,269,,,None,,Type B,Basic
+37,Sunday,15837,1440,,Yes,Easter Holiday,Yes,Type A,Extra
+61,,13122,273,Yes,Yes,None,Yes,Type A,Extended
+97,,3072,569,No,,None,Yes,Type B,Basic
+56,Friday,9529,444,Yes,,None,Yes,,Extended
+3,Saturday,19939,544,Yes,No,,Yes,Type D,Extra
+63,Wednesday,6959,1141,No,Yes,Public Holiday,Yes,Type B,Basic
+19,Thursday,10107,1193,Yes,,,Yes,Type D,Extended
+,Wednesday,,1461,Yes,No,,Yes,Type A,Extra
+,Friday,6021,727,No,Yes,None,Yes,Type C,Basic
+30,Saturday,14546,691,Yes,Yes,Easter Holiday,No,Type B,
+39,Tuesday,11174,626,Yes,Yes,None,,Type A,
+25,Saturday,17138,1811,Yes,Yes,Public Holiday,No,Type B,Extended
+8,Friday,12759,555,Yes,Yes,,Yes,Type C,Basic
+58,Saturday,10190,1392,Yes,No,None,Yes,,Basic
+16,Sunday,13886,1754,No,Yes,None,,Type A,Extra
+72,Saturday,17779,910,Yes,Yes,None,Yes,Type C,
+1,Monday,18322,287,Yes,No,None,,Type C,Basic
+5,,10828,1120,Yes,,Easter Holiday,,Type D,Extended
+,Saturday,3510,1692,Yes,Yes,None,Yes,Type A,Extended
+65,Wednesday,19033,810,Yes,Yes,None,Yes,,Basic
+4,Tuesday,4435,628,Yes,Yes,None,Yes,,Extra
+99,Wednesday,4201,533,Yes,Yes,None,Yes,Type A,Basic
+96,Wednesday,16153,387,,Yes,,Yes,Type D,Extended
+64,,1058,1690,,,None,Yes,Type B,Basic
+98,Monday,,598,Yes,Yes,None,Yes,Type D,
+89,Wednesday,3971,1564,Yes,Yes,None,Yes,Type C,Extra
+10,Sunday,10719,1904,Yes,No,Christmas,Yes,Type B,Extended
+21,Friday,15017,,Yes,Yes,None,Yes,Type B,Extended
+46,Sunday,9314,186,Yes,,None,Yes,Type D,Basic
+91,Friday,10628,929,Yes,No,None,No,Type B,Extended
+27,Saturday,10354,,Yes,Yes,Public Holiday,Yes,Type C,Extended
+66,Thursday,12492,640,Yes,Yes,None,Yes,Type A,Extended
+41,Monday,4345,1145,Yes,Yes,None,,Type A,Extended
+13,Sunday,19870,932,Yes,No,Easter Holiday,No,Type A,
+9,Monday,,896,Yes,Yes,,Yes,Type D,Extra
+36,Sunday,1561,659,Yes,Yes,Public Holiday,No,Type A,Extra
+86,Saturday,7261,1640,Yes,Yes,None,Yes,Type A,Extra
+90,Friday,2737,861,Yes,Yes,None,Yes,Type A,Extra
+58,Tuesday,10096,1798,Yes,No,None,Yes,Type B,Extended
+54,Thursday,,1626,Yes,,None,Yes,Type B,Basic
+12,Sunday,,1837,Yes,Yes,None,Yes,Type B,Basic
+81,Sunday,13098,566,Yes,No,None,Yes,Type C,Extra
+78,Saturday,10126,1224,Yes,Yes,Christmas,Yes,Type C,Extended
+14,Thursday,14389,1706,Yes,,None,Yes,Type C,Extra
+34,,9266,774,Yes,Yes,None,Yes,Type A,Basic
+53,Friday,1294,784,Yes,No,None,,Type B,Extended
+20,Sunday,12434,1264,No,No,None,Yes,Type C,Extended
+75,Tuesday,6330,,No,No,None,Yes,Type D,Extended
+16,Tuesday,5655,,Yes,Yes,None,Yes,Type B,
+95,Monday,18493,809,Yes,Yes,None,Yes,Type A,Basic
+70,Thursday,14460,1963,Yes,Yes,None,Yes,Type B,Extra
+56,Thursday,4771,327,Yes,No,None,Yes,Type A,Extra
+83,Friday,9563,380,Yes,Yes,None,Yes,,Basic
+58,Monday,,783,No,Yes,None,Yes,Type A,Extra
+4,Saturday,2164,927,Yes,,None,Yes,Type A,
+4,Thursday,10475,530,No,Yes,None,No,,Extended
+,Monday,13388,1163,Yes,Yes,,Yes,Type B,Extra
+,Monday,14969,1642,Yes,No,None,Yes,Type A,Basic
+24,Sunday,9434,1809,Yes,Yes,None,No,Type D,Basic
+99,Friday,8262,1786,Yes,Yes,Christmas,Yes,Type D,Basic
+26,Monday,,1334,Yes,Yes,Christmas,No,Type D,Extra
+37,Tuesday,3765,401,Yes,Yes,None,Yes,Type C,Extra
+85,Tuesday,11306,1209,Yes,Yes,None,Yes,Type C,Extended
+54,Wednesday,5491,1520,Yes,Yes,None,Yes,Type A,
+21,Friday,4083,1376,Yes,Yes,Christmas,,Type B,
+,Sunday,2857,632,Yes,No,None,,Type C,Extra
+38,Saturday,1769,868,Yes,Yes,None,Yes,Type C,Extended
+46,Wednesday,18806,1504,Yes,Yes,None,Yes,Type A,Extended
+4,Tuesday,3972,543,Yes,Yes,None,Yes,Type A,
+60,Sunday,19256,1156,Yes,No,None,Yes,Type C,Extra
+57,Wednesday,6599,359,Yes,Yes,None,Yes,,Basic
+45,Friday,19653,1357,Yes,,None,Yes,Type D,Extra
+20,Sunday,6275,1638,Yes,No,,Yes,Type A,Extended
+17,Friday,7571,1982,Yes,No,None,No,Type D,Extra
+71,Monday,6072,1431,Yes,No,Easter Holiday,Yes,Type C,Extra
+,Thursday,10631,838,Yes,Yes,None,Yes,Type B,Basic
+93,,12245,895,Yes,No,None,Yes,Type D,Basic
+14,Friday,15706,,,No,None,Yes,Type B,Extra
+3,Sunday,6463,1577,Yes,,None,Yes,Type C,Extended
+,Tuesday,8450,,Yes,Yes,None,Yes,,Extra
+80,Saturday,12095,1948,Yes,Yes,,Yes,Type D,Extra
+58,Tuesday,2313,,Yes,Yes,None,Yes,Type D,Extra
+55,Sunday,8847,1082,Yes,Yes,None,Yes,Type C,Extended
+4,Monday,18454,,Yes,No,None,Yes,Type C,Extended
+24,Saturday,10166,580,Yes,No,None,Yes,,Extended
+34,Sunday,10930,1267,,,None,Yes,Type B,

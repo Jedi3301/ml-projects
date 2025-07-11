@@ -1,0 +1,14 @@
+Sample Inputs: 
+Enter the string: This is my first assignment in Gradious
+Sample Output :
+Gradious This assignment first in is my
+
+Sample Inputs: 
+Enter the string: I have German class daily
+Sample Output :
+German I class daily have 
+
+Sample Inputs: 
+Enter the string: it has have am it he she duelist valorant have am
+Sample Output :
+am duelist has have he it she valorant 
